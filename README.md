@@ -13,10 +13,13 @@
 ----------
 
 
-同系列：
+同系列IDE：
 
 [PhpStorm 中文语言包](https://github.com/ewen0930/PhpStorm-Chinese) 
 
 [WebStorm 中文语言包](https://github.com/ewen0930/WebStorm-Chinese) 
 
 [PyCharm 中文语言包](https://github.com/ewen0930/PyCharm-Chinese)
+
+
+另外由 @pingfangx 汉化的 Android Studio 在[这里](https://github.com/pingfangx/TranslatorX/releases)
