@@ -382,10 +382,10 @@
     <option name="program" hit="Early Access Program" />
     <option name="iu-173" hit="IU-173.SNAPSHOT" />
     <option name="snapshot" hit="IU-173.SNAPSHOT" />
-    <option name="2017" hit="IntelliJ IDEA 2017.3" />
-    <option name="3" hit="IntelliJ IDEA 2017.3" />
-    <option name="idea" hit="IntelliJ IDEA 2017.3" />
-    <option name="intellij" hit="IntelliJ IDEA 2017.3" />
+    <option name="2017" hit="IntelliJ IDEA 2017.3.3" />
+    <option name="3" hit="IntelliJ IDEA 2017.3.3" />
+    <option name="idea" hit="IntelliJ IDEA 2017.3.3" />
+    <option name="intellij" hit="IntelliJ IDEA 2017.3.3" />
     <option name="checked" hit="Last checked" />
     <option name="last" hit="Last checked" />
     <option name="channel" hit="Please note that this channel is less stable than your current one." />
@@ -11858,6 +11858,12 @@
     <option name="the" path="ActionManager" hit="Switch to the next project window" />
     <option name="to" path="ActionManager" hit="Switch to the next project window" />
     <option name="window" path="ActionManager" hit="Switch to the next project window" />
+    <option name="breakpoint" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="next" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="stopped" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="switch" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="the" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="to" path="ActionManager" hit="Switch to the next stopped breakpoint" />
     <option name="previous" path="ActionManager" hit="Switch to the previous project window" />
     <option name="project" path="ActionManager" hit="Switch to the previous project window" />
     <option name="switch" path="ActionManager" hit="Switch to the previous project window" />
@@ -12573,6 +12579,11 @@
     <option name="unmark" path="ActionManager" hit="Unmark Load Path Root" />
     <option name="root" path="ActionManager" hit="Unmark Root" />
     <option name="unmark" path="ActionManager" hit="Unmark Root" />
+    <option name="as" path="ActionManager" hit="Unmark as Ruby Module Root" />
+    <option name="module" path="ActionManager" hit="Unmark as Ruby Module Root" />
+    <option name="root" path="ActionManager" hit="Unmark as Ruby Module Root" />
+    <option name="ruby" path="ActionManager" hit="Unmark as Ruby Module Root" />
+    <option name="unmark" path="ActionManager" hit="Unmark as Ruby Module Root" />
     <option name="breakpoints" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
     <option name="finish" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
     <option name="on" path="ActionManager" hit="Unmute Breakpoints on Session Finish" />
@@ -13897,6 +13908,7 @@
     <option name="quotes" hit="Add quotes for attribute value on typing '=' and attribute completion" />
     <option name="typing" hit="Add quotes for attribute value on typing '=' and attribute completion" />
     <option name="value" hit="Add quotes for attribute value on typing '=' and attribute completion" />
+    <option name="alias" hit="Alias" />
     <option name="always" hit="Always" />
     <option name="auto-close" hit="Auto-close tag on typing '&lt;/'" />
     <option name="on" hit="Auto-close tag on typing '&lt;/'" />
@@ -13915,6 +13927,8 @@
     <option name="backspace" hit="Backspace" />
     <option name="css" hit="CSS" />
     <option name="dart" hit="Dart" />
+    <option name="database" hit="Database/Schema:" />
+    <option name="schema" hit="Database/Schema:" />
     <option name="disabled" hit="Disabled" />
     <option name="completion" hit="Enable smart function parameters completion" />
     <option name="enable" hit="Enable smart function parameters completion" />
@@ -13926,6 +13940,13 @@
     <option name="line" hit="End (on blank line)" />
     <option name="on" hit="End (on blank line)" />
     <option name="enter" hit="Enter" />
+    <option name="escape" hit="Escape text on paste in string literals" />
+    <option name="in" hit="Escape text on paste in string literals" />
+    <option name="literals" hit="Escape text on paste in string literals" />
+    <option name="on" hit="Escape text on paste in string literals" />
+    <option name="paste" hit="Escape text on paste in string literals" />
+    <option name="string" hit="Escape text on paste in string literals" />
+    <option name="text" hit="Escape text on paste in string literals" />
     <option name="home" hit="Home" />
     <option name="block" hit="Indent Block" />
     <option name="indent" hit="Indent Block" />
@@ -14000,17 +14021,19 @@
     <option name="stub" hit="Insert type placeholders in the documentation comment stub" />
     <option name="the" hit="Insert type placeholders in the documentation comment stub" />
     <option name="type" hit="Insert type placeholders in the documentation comment stub" />
+    <option name="javascript" hit="JavaScript" />
     <option name="javadoc" hit="Javadoc" />
     <option name="never" hit="Never" />
     <option name="none" hit="None" />
     <option name="collisions" hit="On collisions" />
     <option name="on" hit="On collisions" />
     <option name="php" hit="PHP" />
-    <option name="code" hit="Qualify object on code completion:" />
-    <option name="completion" hit="Qualify object on code completion:" />
-    <option name="object" hit="Qualify object on code completion:" />
-    <option name="on" hit="Qualify object on code completion:" />
-    <option name="qualify" hit="Qualify object on code completion:" />
+    <option name="code" hit="Qualify object on code completion with:" />
+    <option name="completion" hit="Qualify object on code completion with:" />
+    <option name="object" hit="Qualify object on code completion with:" />
+    <option name="on" hit="Qualify object on code completion with:" />
+    <option name="qualify" hit="Qualify object on code completion with:" />
+    <option name="with" hit="Qualify object on code completion with:" />
     <option name="block" hit="Reformat Block" />
     <option name="reformat" hit="Reformat Block" />
     <option name="block" hit="Reformat block on typing '}'" />
@@ -14058,6 +14081,11 @@
     <option name="ruby" hit="Start ruby interpolation in strings on #" />
     <option name="start" hit="Start ruby interpolation in strings on #" />
     <option name="strings" hit="Start ruby interpolation in strings on #" />
+    <option name="interpolation" hit="Start template string interpolation on '$'" />
+    <option name="on" hit="Start template string interpolation on '$'" />
+    <option name="start" hit="Start template string interpolation on '$'" />
+    <option name="string" hit="Start template string interpolation on '$'" />
+    <option name="template" hit="Start template string interpolation on '$'" />
     <option name="brace" hit="Surround selection on typing quote or brace" />
     <option name="on" hit="Surround selection on typing quote or brace" />
     <option name="or" hit="Surround selection on typing quote or brace" />
@@ -14065,6 +14093,7 @@
     <option name="selection" hit="Surround selection on typing quote or brace" />
     <option name="surround" hit="Surround selection on typing quote or brace" />
     <option name="typing" hit="Surround selection on typing quote or brace" />
+    <option name="table" hit="Table:" />
     <option name="indent" hit="To nearest indent position" />
     <option name="nearest" hit="To nearest indent position" />
     <option name="position" hit="To nearest indent position" />
@@ -15754,6 +15783,7 @@
     <option name="brackets" hit="Brackets" />
     <option name="class" hit="Class" />
     <option name="comma" hit="Comma" />
+    <option name="decorator" hit="Decorator" />
     <option name="comment" hit="Doc comment" />
     <option name="doc" hit="Doc comment" />
     <option name="documentation" hit="Documentation markup" />
@@ -16651,6 +16681,7 @@
     <option name="brackets" hit="Brackets" />
     <option name="class" hit="Class" />
     <option name="comma" hit="Comma" />
+    <option name="decorator" hit="Decorator" />
     <option name="comment" hit="Doc comment" />
     <option name="doc" hit="Doc comment" />
     <option name="documentation" hit="Documentation markup" />
@@ -21081,6 +21112,10 @@
     <option name="use" path="Tabs and Indents" hit="Use tab character" />
   </configurable>
   <configurable id="preferences.sourceCode.HTML" configurable_name="HTML">
+    <option name="add" path="Other" hit="Add for JSX attributes:" />
+    <option name="attributes" path="Other" hit="Add for JSX attributes:" />
+    <option name="for" path="Other" hit="Add for JSX attributes:" />
+    <option name="jsx" path="Other" hit="Add for JSX attributes:" />
     <option name="after" path="Other" hit="After tag name" />
     <option name="name" path="Other" hit="After tag name" />
     <option name="tag" path="Other" hit="After tag name" />
@@ -21091,6 +21126,10 @@
     <option name="around" path="Other" hit="Around &quot;=&quot; in attribute" />
     <option name="attribute" path="Other" hit="Around &quot;=&quot; in attribute" />
     <option name="in" path="Other" hit="Around &quot;=&quot; in attribute" />
+    <option name="based" path="Other" hit="Based on type" />
+    <option name="on" path="Other" hit="Based on type" />
+    <option name="type" path="Other" hit="Based on type" />
+    <option name="braces" path="Other" hit="Braces" />
     <option name="chop" path="Other" hit="Chop down if long" />
     <option name="down" path="Other" hit="Chop down if long" />
     <option name="if" path="Other" hit="Chop down if long" />
@@ -21172,6 +21211,7 @@
     <option name="no" path="Other" hit="No" />
     <option name="none" path="Other" hit="None" />
     <option name="other" path="Other" hit="Other" />
+    <option name="quotes" path="Other" hit="Quotes" />
     <option name="before" path="Other" hit="Remove new line before:" />
     <option name="line" path="Other" hit="Remove new line before:" />
     <option name="new" path="Other" hit="Remove new line before:" />
@@ -29925,6 +29965,18 @@
     <option name="port" hit="Port:" />
   </configurable>
   <configurable id="reference.webide.settings.project.settings.php.composer" configurable_name="Composer">
+    <option name="" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="default" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="execution" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="in" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="interpreter" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="is" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="no" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="not" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="set" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="settings" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="there" hit=" Execution not set up. There is no default interpreter in default settings " />
+    <option name="up" hit=" Execution not set up. There is no default interpreter in default settings " />
     <option name="" hit="'composer' executable" />
     <option name="composer" hit="'composer' executable" />
     <option name="executable" hit="'composer' executable" />
@@ -29939,12 +29991,6 @@
     <option name="getcomposer" hit="Download composer.phar from getcomposer.org" />
     <option name="org" hit="Download composer.phar from getcomposer.org" />
     <option name="phar" hit="Download composer.phar from getcomposer.org" />
-    <option name="composer" hit="Empty path to composer.json" />
-    <option name="empty" hit="Empty path to composer.json" />
-    <option name="json" hit="Empty path to composer.json" />
-    <option name="path" hit="Empty path to composer.json" />
-    <option name="to" hit="Empty path to composer.json" />
-    <option name="execution" hit="Execution" />
     <option name="interpreter" hit="PHP interpreter:" />
     <option name="php" hit="PHP interpreter:" />
     <option name="composer" hit="Path to composer.json:" />
