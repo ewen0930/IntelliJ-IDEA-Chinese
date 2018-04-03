@@ -221,6 +221,9 @@
     <option name="frame" hit="Save files on frame deactivation" />
     <option name="on" hit="Save files on frame deactivation" />
     <option name="save" hit="Save files on frame deactivation" />
+    <option name="screen" hit="Show Welcome screen" />
+    <option name="show" hit="Show Welcome screen" />
+    <option name="welcome" hit="Show Welcome screen" />
     <option name="shutdown" hit="Startup/Shutdown" />
     <option name="startup" hit="Startup/Shutdown" />
     <option name="readers" hit="Support screen readers (requires restart)" />
@@ -380,12 +383,12 @@
     <option name="access" hit="Early Access Program" />
     <option name="early" hit="Early Access Program" />
     <option name="program" hit="Early Access Program" />
-    <option name="iu-173" hit="IU-173.SNAPSHOT" />
-    <option name="snapshot" hit="IU-173.SNAPSHOT" />
-    <option name="2017" hit="IntelliJ IDEA 2017.3.3" />
-    <option name="3" hit="IntelliJ IDEA 2017.3.3" />
-    <option name="idea" hit="IntelliJ IDEA 2017.3.3" />
-    <option name="intellij" hit="IntelliJ IDEA 2017.3.3" />
+    <option name="iu-181" hit="IU-181.SNAPSHOT" />
+    <option name="snapshot" hit="IU-181.SNAPSHOT" />
+    <option name="1" hit="IntelliJ IDEA 2018.1" />
+    <option name="2018" hit="IntelliJ IDEA 2018.1" />
+    <option name="idea" hit="IntelliJ IDEA 2018.1" />
+    <option name="intellij" hit="IntelliJ IDEA 2018.1" />
     <option name="checked" hit="Last checked" />
     <option name="last" hit="Last checked" />
     <option name="channel" hit="Please note that this channel is less stable than your current one." />
@@ -411,88 +414,7 @@
     <option name="updates" hit="View/edit ignored updates" />
     <option name="view" hit="View/edit ignored updates" />
   </configurable>
-  <configurable id="usage.statistics" configurable_name="Usage Statistics">
-    <option name="" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="anonymous" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="by" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="help" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="idea" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="improve" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="intellij" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="jetbrains" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="o" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="r" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="s" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="sending" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="statistics" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="to" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="usage" hit=" Help improve IntelliJ IDEA by sending anonymous usage statistics to JetBrains s.r.o." />
-    <option name="" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="about" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="and" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="anonymous" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="any" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="are" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="asking" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="be" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="by" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="code" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="collected" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="completion" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="configuration" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="contain" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="data" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="does" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="e" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="enabled" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="feature" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="for" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="frequently" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="g" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="how" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="information" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="is" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="jetbrains" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="never" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="not" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="o" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="only" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="party" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="permission" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="personal" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="plugins" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="r" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="s" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="send" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="statistics" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="third" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="this" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="to" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="transmitted" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="usage" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="use" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="using" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="we" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="what" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="will" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="you" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="your" hit=" We are asking your permission to send information about your plugins configuration (what is enabled and what is not) and feature usage statistics (e.g. how frequently you are using code completion). This data is anonymous, does not contain any personal information, collected for use only by JetBrains s.r.o. and will never be transmitted to any third party." />
-    <option name="allow" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="jetbrains" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="o" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="r" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="s" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="sending" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="statistics" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="to" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="usage" hit="Allow sending usage statistics to JetBrains s.r.o." />
-    <option name="daily" hit="Daily" />
-    <option name="monthly" hit="Monthly" />
-    <option name="statistics" hit="Usage Statistics" />
-    <option name="usage" hit="Usage Statistics" />
-    <option name="weekly" hit="Weekly" />
-  </configurable>
-  <configurable id="android.sdk-updates" configurable_name="Android SDK">
+  <configurable id="AndroidSdkUpdater" configurable_name="Android SDK">
     <option name="" path="SDK Tools" hit=" Below are the available SDK developer tools. Once installed, Android Studio will automatically check for updates. Check &quot;show package details&quot; to display available versions of an SDK Tool. " />
     <option name="an" path="SDK Tools" hit=" Below are the available SDK developer tools. Once installed, Android Studio will automatically check for updates. Check &quot;show package details&quot; to display available versions of an SDK Tool. " />
     <option name="android" path="SDK Tools" hit=" Below are the available SDK developer tools. Once installed, Android Studio will automatically check for updates. Check &quot;show package details&quot; to display available versions of an SDK Tool. " />
@@ -746,6 +668,8 @@
     <option name="uihandler" path="ActionManager" hit="@UiHandler method..." />
     <option name="avd" path="ActionManager" hit="AVD Manager" />
     <option name="manager" path="ActionManager" hit="AVD Manager" />
+    <option name="abort" path="ActionManager" hit="Abort Rebase" />
+    <option name="rebase" path="ActionManager" hit="Abort Rebase" />
     <option name="abort" path="ActionManager" hit="Abort Rebasing" />
     <option name="rebasing" path="ActionManager" hit="Abort Rebasing" />
     <option name="about" path="ActionManager" hit="About" />
@@ -933,17 +857,16 @@
     <option name="property" path="ActionManager" hit="Add Property to Resource Bundle" />
     <option name="resource" path="ActionManager" hit="Add Property to Resource Bundle" />
     <option name="to" path="ActionManager" hit="Add Property to Resource Bundle" />
-    <option name="add" path="ActionManager" hit="Add RTL Support Where Possible..." />
-    <option name="possible" path="ActionManager" hit="Add RTL Support Where Possible..." />
-    <option name="rtl" path="ActionManager" hit="Add RTL Support Where Possible..." />
-    <option name="support" path="ActionManager" hit="Add RTL Support Where Possible..." />
-    <option name="where" path="ActionManager" hit="Add RTL Support Where Possible..." />
     <option name="add" path="ActionManager" hit="Add Rectangular Selection on Mouse Drag" />
     <option name="drag" path="ActionManager" hit="Add Rectangular Selection on Mouse Drag" />
     <option name="mouse" path="ActionManager" hit="Add Rectangular Selection on Mouse Drag" />
     <option name="on" path="ActionManager" hit="Add Rectangular Selection on Mouse Drag" />
     <option name="rectangular" path="ActionManager" hit="Add Rectangular Selection on Mouse Drag" />
     <option name="selection" path="ActionManager" hit="Add Rectangular Selection on Mouse Drag" />
+    <option name="add" path="ActionManager" hit="Add Sample Data File" />
+    <option name="data" path="ActionManager" hit="Add Sample Data File" />
+    <option name="file" path="ActionManager" hit="Add Sample Data File" />
+    <option name="sample" path="ActionManager" hit="Add Sample Data File" />
     <option name="add" path="ActionManager" hit="Add Selection for Next Occurrence" />
     <option name="for" path="ActionManager" hit="Add Selection for Next Occurrence" />
     <option name="next" path="ActionManager" hit="Add Selection for Next Occurrence" />
@@ -1190,12 +1113,6 @@
     <option name="path" path="ActionManager" hit="Add path to excluded ones to avoid downloading or uploading anything to or from it or its children." />
     <option name="to" path="ActionManager" hit="Add path to excluded ones to avoid downloading or uploading anything to or from it or its children." />
     <option name="uploading" path="ActionManager" hit="Add path to excluded ones to avoid downloading or uploading anything to or from it or its children." />
-    <option name="add" path="ActionManager" hit="Add right-to-left (RTL) support where possible" />
-    <option name="possible" path="ActionManager" hit="Add right-to-left (RTL) support where possible" />
-    <option name="right-to-left" path="ActionManager" hit="Add right-to-left (RTL) support where possible" />
-    <option name="rtl" path="ActionManager" hit="Add right-to-left (RTL) support where possible" />
-    <option name="support" path="ActionManager" hit="Add right-to-left (RTL) support where possible" />
-    <option name="where" path="ActionManager" hit="Add right-to-left (RTL) support where possible" />
     <option name="add" path="ActionManager" hit="Add rule" />
     <option name="rule" path="ActionManager" hit="Add rule" />
     <option name="add" path="ActionManager" hit="Add section rule" />
@@ -1303,8 +1220,24 @@
     <option name="the" path="ActionManager" hit="Adds XML file to the project's Phing build files list." />
     <option name="to" path="ActionManager" hit="Adds XML file to the project's Phing build files list." />
     <option name="xml" path="ActionManager" hit="Adds XML file to the project's Phing build files list." />
+    <option name="a" path="ActionManager" hit="Adds a new data sample file" />
+    <option name="adds" path="ActionManager" hit="Adds a new data sample file" />
+    <option name="data" path="ActionManager" hit="Adds a new data sample file" />
+    <option name="file" path="ActionManager" hit="Adds a new data sample file" />
+    <option name="new" path="ActionManager" hit="Adds a new data sample file" />
+    <option name="sample" path="ActionManager" hit="Adds a new data sample file" />
     <option name="adjust" path="ActionManager" hit="Adjust Range..." />
     <option name="range" path="ActionManager" hit="Adjust Range..." />
+    <option name="a" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="allows" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="choose" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="ide" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="java" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="start" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="the" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="to" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="version" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
+    <option name="with" path="ActionManager" hit="Allows to choose a Java version to start the IDE with." />
     <option name="allows" path="ActionManager" hit="Allows to open project file of the linked external project at the editor" />
     <option name="at" path="ActionManager" hit="Allows to open project file of the linked external project at the editor" />
     <option name="editor" path="ActionManager" hit="Allows to open project file of the linked external project at the editor" />
@@ -1421,6 +1354,9 @@
     <option name="android" path="ActionManager" hit="Android Device Monitor" />
     <option name="device" path="ActionManager" hit="Android Device Monitor" />
     <option name="monitor" path="ActionManager" hit="Android Device Monitor" />
+    <option name="android" path="ActionManager" hit="Android Studio Help" />
+    <option name="help" path="ActionManager" hit="Android Studio Help" />
+    <option name="studio" path="ActionManager" hit="Android Studio Help" />
     <option name="android" path="ActionManager" hit="Android resource directory" />
     <option name="directory" path="ActionManager" hit="Android resource directory" />
     <option name="resource" path="ActionManager" hit="Android resource directory" />
@@ -1774,8 +1710,9 @@
     <option name="build" path="ActionManager" hit="Build .WAR File..." />
     <option name="file" path="ActionManager" hit="Build .WAR File..." />
     <option name="war" path="ActionManager" hit="Build .WAR File..." />
-    <option name="apk" path="ActionManager" hit="Build APK" />
-    <option name="build" path="ActionManager" hit="Build APK" />
+    <option name="apk" path="ActionManager" hit="Build APK(s)" />
+    <option name="build" path="ActionManager" hit="Build APK(s)" />
+    <option name="s" path="ActionManager" hit="Build APK(s)" />
     <option name="artifacts" path="ActionManager" hit="Build Artifacts..." />
     <option name="build" path="ActionManager" hit="Build Artifacts..." />
     <option name="build" path="ActionManager" hit="Build Gem" />
@@ -1825,6 +1762,13 @@
     <option name="cvs" path="ActionManager" hit="CVS" />
     <option name="call" path="ActionManager" hit="Call Hierarchy" />
     <option name="hierarchy" path="ActionManager" hit="Call Hierarchy" />
+    <option name="cancel" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="comparing" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="each" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="files" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="new" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="other" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
+    <option name="with" path="ActionManager" hit="Cancel Comparing New Files with Each Other" />
     <option name="cancel" path="ActionManager" hit="Cancel IDE Registration" />
     <option name="ide" path="ActionManager" hit="Cancel IDE Registration" />
     <option name="registration" path="ActionManager" hit="Cancel IDE Registration" />
@@ -2056,12 +2000,22 @@
     <option name="out" path="ActionManager" hit="Check Out" />
     <option name="check" path="ActionManager" hit="Check Status" />
     <option name="status" path="ActionManager" hit="Check Status" />
+    <option name="changes" path="ActionManager" hit="Check for Changes in Dependencies" />
+    <option name="check" path="ActionManager" hit="Check for Changes in Dependencies" />
+    <option name="dependencies" path="ActionManager" hit="Check for Changes in Dependencies" />
+    <option name="for" path="ActionManager" hit="Check for Changes in Dependencies" />
+    <option name="in" path="ActionManager" hit="Check for Changes in Dependencies" />
     <option name="check" path="ActionManager" hit="Check for Updates" />
     <option name="for" path="ActionManager" hit="Check for Updates" />
     <option name="updates" path="ActionManager" hit="Check for Updates" />
     <option name="check" path="ActionManager" hit="Check for Updates..." />
     <option name="for" path="ActionManager" hit="Check for Updates..." />
     <option name="updates" path="ActionManager" hit="Check for Updates..." />
+    <option name="check" path="ActionManager" hit="Check for common Composer problems" />
+    <option name="common" path="ActionManager" hit="Check for common Composer problems" />
+    <option name="composer" path="ActionManager" hit="Check for common Composer problems" />
+    <option name="for" path="ActionManager" hit="Check for common Composer problems" />
+    <option name="problems" path="ActionManager" hit="Check for common Composer problems" />
     <option name="and" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="check" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="commits" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
@@ -2071,6 +2025,22 @@
     <option name="necessary" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="new" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
     <option name="refresh" path="ActionManager" hit="Check for new commits and refresh Log if necessary" />
+    <option name="check" path="ActionManager" hit="Check if composer.json is valid" />
+    <option name="composer" path="ActionManager" hit="Check if composer.json is valid" />
+    <option name="if" path="ActionManager" hit="Check if composer.json is valid" />
+    <option name="is" path="ActionManager" hit="Check if composer.json is valid" />
+    <option name="json" path="ActionManager" hit="Check if composer.json is valid" />
+    <option name="valid" path="ActionManager" hit="Check if composer.json is valid" />
+    <option name="any" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="are" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="changes" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="check" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="dependencies" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="if" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="in" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="local" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="of" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
+    <option name="there" path="ActionManager" hit="Check if there are local changes in any of dependencies" />
     <option name="and" path="ActionManager" hit="Check out file or directory (and overwrite local version)" />
     <option name="check" path="ActionManager" hit="Check out file or directory (and overwrite local version)" />
     <option name="directory" path="ActionManager" hit="Check out file or directory (and overwrite local version)" />
@@ -2173,6 +2143,10 @@
     <option name="choose" path="ActionManager" hit="Choose and debug configuration" />
     <option name="configuration" path="ActionManager" hit="Choose and debug configuration" />
     <option name="debug" path="ActionManager" hit="Choose and debug configuration" />
+    <option name="and" path="ActionManager" hit="Choose and profile configuration" />
+    <option name="choose" path="ActionManager" hit="Choose and profile configuration" />
+    <option name="configuration" path="ActionManager" hit="Choose and profile configuration" />
+    <option name="profile" path="ActionManager" hit="Choose and profile configuration" />
     <option name="and" path="ActionManager" hit="Choose and re-run recent find usages" />
     <option name="choose" path="ActionManager" hit="Choose and re-run recent find usages" />
     <option name="find" path="ActionManager" hit="Choose and re-run recent find usages" />
@@ -2239,6 +2213,8 @@
     <option name="clear" path="ActionManager" hit="Clear" />
     <option name="all" path="ActionManager" hit="Clear All" />
     <option name="clear" path="ActionManager" hit="Clear All" />
+    <option name="cache" path="ActionManager" hit="Clear Cache" />
+    <option name="clear" path="ActionManager" hit="Clear Cache" />
     <option name="clear" path="ActionManager" hit="Clear Context" />
     <option name="context" path="ActionManager" hit="Clear Context" />
     <option name="cached" path="ActionManager" hit="Clear cached database schema completely" />
@@ -2427,20 +2403,6 @@
     <option name="branches" path="ActionManager" hit="Collapse linear branches" />
     <option name="collapse" path="ActionManager" hit="Collapse linear branches" />
     <option name="linear" path="ActionManager" hit="Collapse linear branches" />
-    <option name="and" path="ActionManager" hit="Collect and Show Logs in File Manager" />
-    <option name="collect" path="ActionManager" hit="Collect and Show Logs in File Manager" />
-    <option name="file" path="ActionManager" hit="Collect and Show Logs in File Manager" />
-    <option name="in" path="ActionManager" hit="Collect and Show Logs in File Manager" />
-    <option name="logs" path="ActionManager" hit="Collect and Show Logs in File Manager" />
-    <option name="manager" path="ActionManager" hit="Collect and Show Logs in File Manager" />
-    <option name="show" path="ActionManager" hit="Collect and Show Logs in File Manager" />
-    <option name="and" path="ActionManager" hit="Collect and Zip logs and settings into file" />
-    <option name="collect" path="ActionManager" hit="Collect and Zip logs and settings into file" />
-    <option name="file" path="ActionManager" hit="Collect and Zip logs and settings into file" />
-    <option name="into" path="ActionManager" hit="Collect and Zip logs and settings into file" />
-    <option name="logs" path="ActionManager" hit="Collect and Zip logs and settings into file" />
-    <option name="settings" path="ActionManager" hit="Collect and Zip logs and settings into file" />
-    <option name="zip" path="ActionManager" hit="Collect and Zip logs and settings into file" />
     <option name="color" path="ActionManager" hit="Color Scheme" />
     <option name="scheme" path="ActionManager" hit="Color Scheme" />
     <option name="color" path="ActionManager" hit="Color Settings..." />
@@ -2484,6 +2446,9 @@
     <option name="commit" path="ActionManager" hit="Commit Message History" />
     <option name="history" path="ActionManager" hit="Commit Message History" />
     <option name="message" path="ActionManager" hit="Commit Message History" />
+    <option name="and" path="ActionManager" hit="Commit and Push..." />
+    <option name="commit" path="ActionManager" hit="Commit and Push..." />
+    <option name="push" path="ActionManager" hit="Commit and Push..." />
     <option name="changes" path="ActionManager" hit="Commits changes" />
     <option name="commits" path="ActionManager" hit="Commits changes" />
     <option name="commits" path="ActionManager" hit="Commits transaction" />
@@ -2542,6 +2507,12 @@
     <option name="contents" path="ActionManager" hit="Compare Middle and Right Contents" />
     <option name="middle" path="ActionManager" hit="Compare Middle and Right Contents" />
     <option name="right" path="ActionManager" hit="Compare Middle and Right Contents" />
+    <option name="compare" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="each" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="files" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="new" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="other" path="ActionManager" hit="Compare New Files with Each Other" />
+    <option name="with" path="ActionManager" hit="Compare New Files with Each Other" />
     <option name="compare" path="ActionManager" hit="Compare Next File" />
     <option name="file" path="ActionManager" hit="Compare Next File" />
     <option name="next" path="ActionManager" hit="Compare Next File" />
@@ -2701,6 +2672,19 @@
     <option name="build" path="ActionManager" hit="Composite Build Configuration" />
     <option name="composite" path="ActionManager" hit="Composite Build Configuration" />
     <option name="configuration" path="ActionManager" hit="Composite Build Configuration" />
+    <option name="and" path="ActionManager" hit="Compress Logs and Show in File Manager" />
+    <option name="compress" path="ActionManager" hit="Compress Logs and Show in File Manager" />
+    <option name="file" path="ActionManager" hit="Compress Logs and Show in File Manager" />
+    <option name="in" path="ActionManager" hit="Compress Logs and Show in File Manager" />
+    <option name="logs" path="ActionManager" hit="Compress Logs and Show in File Manager" />
+    <option name="manager" path="ActionManager" hit="Compress Logs and Show in File Manager" />
+    <option name="show" path="ActionManager" hit="Compress Logs and Show in File Manager" />
+    <option name="and" path="ActionManager" hit="Compress logs and settings into file" />
+    <option name="compress" path="ActionManager" hit="Compress logs and settings into file" />
+    <option name="file" path="ActionManager" hit="Compress logs and settings into file" />
+    <option name="into" path="ActionManager" hit="Compress logs and settings into file" />
+    <option name="logs" path="ActionManager" hit="Compress logs and settings into file" />
+    <option name="settings" path="ActionManager" hit="Compress logs and settings into file" />
     <option name="configuration" path="ActionManager" hit="Configuration..." />
     <option name="configure" path="ActionManager" hit="Configure CSV Formats..." />
     <option name="csv" path="ActionManager" hit="Configure CSV Formats..." />
@@ -2774,6 +2758,8 @@
     <option name="server" path="ActionManager" hit="Connect to the selected remote server" />
     <option name="the" path="ActionManager" hit="Connect to the selected remote server" />
     <option name="to" path="ActionManager" hit="Connect to the selected remote server" />
+    <option name="assistant" path="ActionManager" hit="Connection Assistant" />
+    <option name="connection" path="ActionManager" hit="Connection Assistant" />
     <option name="console" path="ActionManager" hit="Console" />
     <option name="constant" path="ActionManager" hit="Constant..." />
     <option name="constructor" path="ActionManager" hit="Constructor" />
@@ -2803,12 +2789,19 @@
     <option name="with" path="ActionManager" hit="Context aware popup with list of refactoring actions" />
     <option name="continue" path="ActionManager" hit="Continue Grafting" />
     <option name="grafting" path="ActionManager" hit="Continue Grafting" />
+    <option name="continue" path="ActionManager" hit="Continue Rebase" />
+    <option name="rebase" path="ActionManager" hit="Continue Rebase" />
     <option name="continue" path="ActionManager" hit="Continue Rebasing" />
     <option name="rebasing" path="ActionManager" hit="Continue Rebasing" />
     <option name="anonymous" path="ActionManager" hit="Convert Anonymous to Inner..." />
     <option name="convert" path="ActionManager" hit="Convert Anonymous to Inner..." />
     <option name="inner" path="ActionManager" hit="Convert Anonymous to Inner..." />
     <option name="to" path="ActionManager" hit="Convert Anonymous to Inner..." />
+    <option name="compilestatic" path="ActionManager" hit="Convert Groovy files to @CompileStatic" />
+    <option name="convert" path="ActionManager" hit="Convert Groovy files to @CompileStatic" />
+    <option name="files" path="ActionManager" hit="Convert Groovy files to @CompileStatic" />
+    <option name="groovy" path="ActionManager" hit="Convert Groovy files to @CompileStatic" />
+    <option name="to" path="ActionManager" hit="Convert Groovy files to @CompileStatic" />
     <option name="convert" path="ActionManager" hit="Convert Groovy files to Java" />
     <option name="files" path="ActionManager" hit="Convert Groovy files to Java" />
     <option name="groovy" path="ActionManager" hit="Convert Groovy files to Java" />
@@ -2816,6 +2809,12 @@
     <option name="to" path="ActionManager" hit="Convert Groovy files to Java" />
     <option name="convert" path="ActionManager" hit="Convert Indents" />
     <option name="indents" path="ActionManager" hit="Convert Indents" />
+    <option name="convert" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="groups" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="module" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="names" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="qualified" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
+    <option name="to" path="ActionManager" hit="Convert Module Groups to Qualified Names..." />
     <option name="convert" path="ActionManager" hit="Convert Schema..." />
     <option name="schema" path="ActionManager" hit="Convert Schema..." />
     <option name="attribute" path="ActionManager" hit="Convert Tag Contents To Attribute..." />
@@ -2891,6 +2890,9 @@
     <option name="the" path="ActionManager" hit="Convert the indentation in the file or selected block to use tabs instead of spaces" />
     <option name="to" path="ActionManager" hit="Convert the indentation in the file or selected block to use tabs instead of spaces" />
     <option name="use" path="ActionManager" hit="Convert the indentation in the file or selected block to use tabs instead of spaces" />
+    <option name="compilestatic" path="ActionManager" hit="Convert to @CompileStatic" />
+    <option name="convert" path="ActionManager" hit="Convert to @CompileStatic" />
+    <option name="to" path="ActionManager" hit="Convert to @CompileStatic" />
     <option name="convert" path="ActionManager" hit="Convert to Java" />
     <option name="java" path="ActionManager" hit="Convert to Java" />
     <option name="to" path="ActionManager" hit="Convert to Java" />
@@ -3011,6 +3013,8 @@
     <option name="copy" path="ActionManager" hit="Copy Revision Number" />
     <option name="number" path="ActionManager" hit="Copy Revision Number" />
     <option name="revision" path="ActionManager" hit="Copy Revision Number" />
+    <option name="copy" path="ActionManager" hit="Copy Stack" />
+    <option name="stack" path="ActionManager" hit="Copy Stack" />
     <option name="copy" path="ActionManager" hit="Copy Table to..." />
     <option name="table" path="ActionManager" hit="Copy Table to..." />
     <option name="to" path="ActionManager" hit="Copy Table to..." />
@@ -3555,6 +3559,11 @@
     <option name="create" path="ActionManager" hit="Create new MXML component" />
     <option name="mxml" path="ActionManager" hit="Create new MXML component" />
     <option name="new" path="ActionManager" hit="Create new MXML component" />
+    <option name="create" path="ActionManager" hit="Create new Sample Data directory" />
+    <option name="data" path="ActionManager" hit="Create new Sample Data directory" />
+    <option name="directory" path="ActionManager" hit="Create new Sample Data directory" />
+    <option name="new" path="ActionManager" hit="Create new Sample Data directory" />
+    <option name="sample" path="ActionManager" hit="Create new Sample Data directory" />
     <option name="configuration" path="ActionManager" hit="Create new Spring configuration file" />
     <option name="create" path="ActionManager" hit="Create new Spring configuration file" />
     <option name="file" path="ActionManager" hit="Create new Spring configuration file" />
@@ -3741,6 +3750,10 @@
     <option name="method" path="ActionManager" hit="Creates PHPUnit test method" />
     <option name="phpunit" path="ActionManager" hit="Creates PHPUnit test method" />
     <option name="test" path="ActionManager" hit="Creates PHPUnit test method" />
+    <option name="component" path="ActionManager" hit="Creates Vue component file" />
+    <option name="creates" path="ActionManager" hit="Creates Vue component file" />
+    <option name="file" path="ActionManager" hit="Creates Vue component file" />
+    <option name="vue" path="ActionManager" hit="Creates Vue component file" />
     <option name="a" path="ActionManager" hit="Creates a CoffeeScript file" />
     <option name="coffeescript" path="ActionManager" hit="Creates a CoffeeScript file" />
     <option name="creates" path="ActionManager" hit="Creates a CoffeeScript file" />
@@ -3945,6 +3958,12 @@
     <option name="editor" path="ActionManager" hit="Data Editor" />
     <option name="data" path="ActionManager" hit="Data Extractor" />
     <option name="extractor" path="ActionManager" hit="Data Extractor" />
+    <option name="data" path="ActionManager" hit="Data Sharing Options" />
+    <option name="options" path="ActionManager" hit="Data Sharing Options" />
+    <option name="sharing" path="ActionManager" hit="Data Sharing Options" />
+    <option name="data" path="ActionManager" hit="Data Sharing Options..." />
+    <option name="options" path="ActionManager" hit="Data Sharing Options..." />
+    <option name="sharing" path="ActionManager" hit="Data Sharing Options..." />
     <option name="data" path="ActionManager" hit="Data Source" />
     <option name="source" path="ActionManager" hit="Data Source" />
     <option name="data" path="ActionManager" hit="Data Source Properties" />
@@ -4029,6 +4048,14 @@
     <option name="selection" path="ActionManager" hit="Delete Selection" />
     <option name="delete" path="ActionManager" hit="Delete Tag..." />
     <option name="tag" path="ActionManager" hit="Delete Tag..." />
+    <option name="all" path="ActionManager" hit="Delete all content from Composer's cache directories" />
+    <option name="cache" path="ActionManager" hit="Delete all content from Composer's cache directories" />
+    <option name="composer" path="ActionManager" hit="Delete all content from Composer's cache directories" />
+    <option name="content" path="ActionManager" hit="Delete all content from Composer's cache directories" />
+    <option name="delete" path="ActionManager" hit="Delete all content from Composer's cache directories" />
+    <option name="directories" path="ActionManager" hit="Delete all content from Composer's cache directories" />
+    <option name="from" path="ActionManager" hit="Delete all content from Composer's cache directories" />
+    <option name="s" path="ActionManager" hit="Delete all content from Composer's cache directories" />
     <option name="and" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
     <option name="bytecode" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
     <option name="compiled" path="ActionManager" hit="Delete compiled bytecode files in selected directory and its subdirectories" />
@@ -4199,6 +4226,7 @@
     <option name="from" path="ActionManager" hit="Detect all externally changed files and reload them from disk" />
     <option name="reload" path="ActionManager" hit="Detect all externally changed files and reload them from disk" />
     <option name="them" path="ActionManager" hit="Detect all externally changed files and reload them from disk" />
+    <option name="diagnose" path="ActionManager" hit="Diagnose" />
     <option name="diagram" path="ActionManager" hit="Diagram" />
     <option name="diagrams" path="ActionManager" hit="Diagrams" />
     <option name="dialog" path="ActionManager" hit="Dialog" />
@@ -4401,6 +4429,8 @@
     <option name="primary" path="ActionManager" hit="Drop primary key from selected table" />
     <option name="selected" path="ActionManager" hit="Drop primary key from selected table" />
     <option name="table" path="ActionManager" hit="Drop primary key from selected table" />
+    <option name="autoloader" path="ActionManager" hit="Dump Autoloader..." />
+    <option name="dump" path="ActionManager" hit="Dump Autoloader..." />
     <option name="data" path="ActionManager" hit="Dump Data" />
     <option name="dump" path="ActionManager" hit="Dump Data" />
     <option name="data" path="ActionManager" hit="Dump Data to File" />
@@ -4788,6 +4818,10 @@
     <option name="event" path="ActionManager" hit="Event Handler" />
     <option name="handler" path="ActionManager" hit="Event Handler" />
     <option name="exclude" path="ActionManager" hit="Exclude" />
+    <option name="commit" path="ActionManager" hit="Exclude Lines from Commit" />
+    <option name="exclude" path="ActionManager" hit="Exclude Lines from Commit" />
+    <option name="from" path="ActionManager" hit="Exclude Lines from Commit" />
+    <option name="lines" path="ActionManager" hit="Exclude Lines from Commit" />
     <option name="exclude" path="ActionManager" hit="Exclude from Validation" />
     <option name="from" path="ActionManager" hit="Exclude from Validation" />
     <option name="validation" path="ActionManager" hit="Exclude from Validation" />
@@ -4844,6 +4878,10 @@
     <option name="before" path="ActionManager" hit="Execute Before Sync" />
     <option name="execute" path="ActionManager" hit="Execute Before Sync" />
     <option name="sync" path="ActionManager" hit="Execute Before Sync" />
+    <option name="cell" path="ActionManager" hit="Execute Cell in Console" />
+    <option name="console" path="ActionManager" hit="Execute Cell in Console" />
+    <option name="execute" path="ActionManager" hit="Execute Cell in Console" />
+    <option name="in" path="ActionManager" hit="Execute Cell in Console" />
     <option name="console" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
     <option name="current" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
     <option name="execute" path="ActionManager" hit="Execute Current Statement in Multiline Console" />
@@ -5112,6 +5150,10 @@
     <option name="file" path="ActionManager" hit="Export to Text File" />
     <option name="text" path="ActionManager" hit="Export to Text File" />
     <option name="to" path="ActionManager" hit="Export to Text File" />
+    <option name="export" path="ActionManager" hit="Export to Zip File..." />
+    <option name="file" path="ActionManager" hit="Export to Zip File..." />
+    <option name="to" path="ActionManager" hit="Export to Zip File..." />
+    <option name="zip" path="ActionManager" hit="Export to Zip File..." />
     <option name="export" path="ActionManager" hit="Export to file" />
     <option name="file" path="ActionManager" hit="Export to file" />
     <option name="to" path="ActionManager" hit="Export to file" />
@@ -5144,6 +5186,9 @@
     <option name="alias" path="ActionManager" hit="Extract Type Alias" />
     <option name="extract" path="ActionManager" hit="Extract Type Alias" />
     <option name="type" path="ActionManager" hit="Extract Type Alias" />
+    <option name="component" path="ActionManager" hit="Extract Vue Component" />
+    <option name="extract" path="ActionManager" hit="Extract Vue Component" />
+    <option name="vue" path="ActionManager" hit="Extract Vue Component" />
     <option name="class" path="ActionManager" hit="Extract interface from the selected class" />
     <option name="extract" path="ActionManager" hit="Extract interface from the selected class" />
     <option name="from" path="ActionManager" hit="Extract interface from the selected class" />
@@ -5171,6 +5216,19 @@
     <option name="selected" path="ActionManager" hit="Extract superclass from the selected class" />
     <option name="superclass" path="ActionManager" hit="Extract superclass from the selected class" />
     <option name="the" path="ActionManager" hit="Extract superclass from the selected class" />
+    <option name="a" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="component" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="current" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="extracts" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="file" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="into" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="new" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="or" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="part" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="selected" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="single" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="tag" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
+    <option name="template" path="ActionManager" hit="Extracts selected template part or current tag into a new single file component" />
     <option name="file" path="ActionManager" hit="FXML File" />
     <option name="fxml" path="ActionManager" hit="FXML File" />
     <option name="config" path="ActionManager" hit="Faces Config" />
@@ -5345,6 +5403,10 @@
     <option name="content" path="ActionManager" hit="Fit Content After Layout" />
     <option name="fit" path="ActionManager" hit="Fit Content After Layout" />
     <option name="layout" path="ActionManager" hit="Fit Content After Layout" />
+    <option name="fit" path="ActionManager" hit="Fit Zoom to Window" />
+    <option name="to" path="ActionManager" hit="Fit Zoom to Window" />
+    <option name="window" path="ActionManager" hit="Fit Zoom to Window" />
+    <option name="zoom" path="ActionManager" hit="Fit Zoom to Window" />
     <option name="eslint" path="ActionManager" hit="Fix ESLint Problems" />
     <option name="fix" path="ActionManager" hit="Fix ESLint Problems" />
     <option name="problems" path="ActionManager" hit="Fix ESLint Problems" />
@@ -5373,6 +5435,13 @@
     <option name="problems" path="ActionManager" hit="Fix Standard Code Style problems" />
     <option name="standard" path="ActionManager" hit="Fix Standard Code Style problems" />
     <option name="style" path="ActionManager" hit="Fix Standard Code Style problems" />
+    <option name="fix" path="ActionManager" hit="Fix TSLint Problems" />
+    <option name="problems" path="ActionManager" hit="Fix TSLint Problems" />
+    <option name="tslint" path="ActionManager" hit="Fix TSLint Problems" />
+    <option name="all" path="ActionManager" hit="Fix all TSLint problems" />
+    <option name="fix" path="ActionManager" hit="Fix all TSLint problems" />
+    <option name="problems" path="ActionManager" hit="Fix all TSLint problems" />
+    <option name="tslint" path="ActionManager" hit="Fix all TSLint problems" />
     <option name="comment" path="ActionManager" hit="Fix doc comment" />
     <option name="doc" path="ActionManager" hit="Fix doc comment" />
     <option name="fix" path="ActionManager" hit="Fix doc comment" />
@@ -5784,6 +5853,22 @@
     <option name="index" path="ActionManager" hit="Generate index.js/index.ts" />
     <option name="js" path="ActionManager" hit="Generate index.js/index.ts" />
     <option name="ts" path="ActionManager" hit="Generate index.js/index.ts" />
+    <option name="descriptors" path="ActionManager" hit="Generate module-info Descriptors" />
+    <option name="generate" path="ActionManager" hit="Generate module-info Descriptors" />
+    <option name="module-info" path="ActionManager" hit="Generate module-info Descriptors" />
+    <option name="9" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="all" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="and" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="files" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="for" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="generate" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="higher" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="in" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="java" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="module-info" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="modules" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="project" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
+    <option name="the" path="ActionManager" hit="Generate module-info files for all modules in the project (for Java 9 and higher)" />
     <option name="comment" path="ActionManager" hit="Generate or fix doc comment for the current context" />
     <option name="context" path="ActionManager" hit="Generate or fix doc comment for the current context" />
     <option name="current" path="ActionManager" hit="Generate or fix doc comment for the current context" />
@@ -5979,6 +6064,12 @@
     <option name="go" path="ActionManager" hit="Go to next change" />
     <option name="next" path="ActionManager" hit="Go to next change" />
     <option name="to" path="ActionManager" hit="Go to next change" />
+    <option name="element" path="ActionManager" hit="Go to next highlighted element usage" />
+    <option name="go" path="ActionManager" hit="Go to next highlighted element usage" />
+    <option name="highlighted" path="ActionManager" hit="Go to next highlighted element usage" />
+    <option name="next" path="ActionManager" hit="Go to next highlighted element usage" />
+    <option name="to" path="ActionManager" hit="Go to next highlighted element usage" />
+    <option name="usage" path="ActionManager" hit="Go to next highlighted element usage" />
     <option name="go" path="ActionManager" hit="Go to next incomplete property" />
     <option name="incomplete" path="ActionManager" hit="Go to next incomplete property" />
     <option name="next" path="ActionManager" hit="Go to next incomplete property" />
@@ -5994,6 +6085,12 @@
     <option name="go" path="ActionManager" hit="Go to previous change" />
     <option name="previous" path="ActionManager" hit="Go to previous change" />
     <option name="to" path="ActionManager" hit="Go to previous change" />
+    <option name="element" path="ActionManager" hit="Go to previous highlighted element usage" />
+    <option name="go" path="ActionManager" hit="Go to previous highlighted element usage" />
+    <option name="highlighted" path="ActionManager" hit="Go to previous highlighted element usage" />
+    <option name="previous" path="ActionManager" hit="Go to previous highlighted element usage" />
+    <option name="to" path="ActionManager" hit="Go to previous highlighted element usage" />
+    <option name="usage" path="ActionManager" hit="Go to previous highlighted element usage" />
     <option name="directory" path="ActionManager" hit="Go to project directory" />
     <option name="go" path="ActionManager" hit="Go to project directory" />
     <option name="project" path="ActionManager" hit="Go to project directory" />
@@ -6058,6 +6155,8 @@
     <option name="shell" path="ActionManager" hit="Groovy Shell..." />
     <option name="buttons" path="ActionManager" hit="Group Buttons" />
     <option name="group" path="ActionManager" hit="Group Buttons" />
+    <option name="by" path="ActionManager" hit="Group By" />
+    <option name="group" path="ActionManager" hit="Group By" />
     <option name="configurations" path="ActionManager" hit="Group Configurations" />
     <option name="group" path="ActionManager" hit="Group Configurations" />
     <option name="group" path="ActionManager" hit="Group Modules" />
@@ -6089,9 +6188,15 @@
     <option name="scope" path="ActionManager" hit="Guice Scope Annotation" />
     <option name="file" path="ActionManager" hit="HTML File" />
     <option name="html" path="ActionManager" hit="HTML File" />
+    <option name="client" path="ActionManager" hit="HTTP Client" />
+    <option name="http" path="ActionManager" hit="HTTP Client" />
     <option name="http" path="ActionManager" hit="HTTP Request" />
     <option name="request" path="ActionManager" hit="HTTP Request" />
     <option name="help" path="ActionManager" hit="Help" />
+    <option name="connection" path="ActionManager" hit="Help debug device connection" />
+    <option name="debug" path="ActionManager" hit="Help debug device connection" />
+    <option name="device" path="ActionManager" hit="Help debug device connection" />
+    <option name="help" path="ActionManager" hit="Help debug device connection" />
     <option name="hide" path="ActionManager" hit="Hide" />
     <option name="active" path="ActionManager" hit="Hide Active Tool Window" />
     <option name="hide" path="ActionManager" hit="Hide Active Tool Window" />
@@ -6214,8 +6319,8 @@
     <option name="ignore" path="ActionManager" hit="Ignore..." />
     <option name="asset" path="ActionManager" hit="Image Asset" />
     <option name="image" path="ActionManager" hit="Image Asset" />
-    <option name="fields" path="ActionManager" hit="Implement Fields..." />
-    <option name="implement" path="ActionManager" hit="Implement Fields..." />
+    <option name="implement" path="ActionManager" hit="Implement Members..." />
+    <option name="members" path="ActionManager" hit="Implement Members..." />
     <option name="implement" path="ActionManager" hit="Implement Method" />
     <option name="method" path="ActionManager" hit="Implement Method" />
     <option name="from" path="ActionManager" hit="Implement Method (from Method Hierarchy)" />
@@ -6560,6 +6665,9 @@
     <option name="branch" path="ActionManager" hit="Integrate to Branch" />
     <option name="integrate" path="ActionManager" hit="Integrate to Branch" />
     <option name="to" path="ActionManager" hit="Integrate to Branch" />
+    <option name="help" path="ActionManager" hit="IntelliJ IDEA Help" />
+    <option name="idea" path="ActionManager" hit="IntelliJ IDEA Help" />
+    <option name="intellij" path="ActionManager" hit="IntelliJ IDEA Help" />
     <option name="intellisort" path="ActionManager" hit="IntelliSort" />
     <option name="from" path="ActionManager" hit="Interactively Rebase from Here..." />
     <option name="here" path="ActionManager" hit="Interactively Rebase from Here..." />
@@ -6787,6 +6895,8 @@
     <option name="or" path="ActionManager" hit="Link an external C/C++ project (cmake or ndk-build) with Gradle" />
     <option name="project" path="ActionManager" hit="Link an external C/C++ project (cmake or ndk-build) with Gradle" />
     <option name="with" path="ActionManager" hit="Link an external C/C++ project (cmake or ndk-build) with Gradle" />
+    <option name="licenses" path="ActionManager" hit="List Licenses" />
+    <option name="list" path="ActionManager" hit="List Licenses" />
     <option name="attached" path="ActionManager" hit="List of available rake task with attached descriptions" />
     <option name="available" path="ActionManager" hit="List of available rake task with attached descriptions" />
     <option name="descriptions" path="ActionManager" hit="List of available rake task with attached descriptions" />
@@ -6805,6 +6915,16 @@
     <option name="for" path="ActionManager" hit="Listen for debug connections" />
     <option name="listen" path="ActionManager" hit="Listen for debug connections" />
     <option name="listener" path="ActionManager" hit="Listener" />
+    <option name="and" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="every" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="installed" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="license" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="lists" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="name" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="of" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="package" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="the" path="ActionManager" hit="Lists the name, version and license of every package installed" />
+    <option name="version" path="ActionManager" hit="Lists the name, version and license of every package installed" />
     <option name="context" path="ActionManager" hit="Load Context..." />
     <option name="load" path="ActionManager" hit="Load Context..." />
     <option name="file" path="ActionManager" hit="Load File..." />
@@ -6819,6 +6939,15 @@
     <option name="load" path="ActionManager" hit="Load Path Root" />
     <option name="path" path="ActionManager" hit="Load Path Root" />
     <option name="root" path="ActionManager" hit="Load Path Root" />
+    <option name="classes" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="debugger" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="increase" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="load" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="may" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="on" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="overhead" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="pause" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
+    <option name="stepping" path="ActionManager" hit="Load classes on debugger pause (may increase overhead on debugger stepping)" />
     <option name="client" path="ActionManager" hit="Load into REST Client" />
     <option name="into" path="ActionManager" hit="Load into REST Client" />
     <option name="load" path="ActionManager" hit="Load into REST Client" />
@@ -7103,6 +7232,7 @@
     <option name="of" path="ActionManager" hit="Modify value of selected node" />
     <option name="selected" path="ActionManager" hit="Modify value of selected node" />
     <option name="value" path="ActionManager" hit="Modify value of selected node" />
+    <option name="modularize" path="ActionManager" hit="Modularize..." />
     <option name="module" path="ActionManager" hit="Module" />
     <option name="dependencies" path="ActionManager" hit="Module Dependencies Diagram" />
     <option name="diagram" path="ActionManager" hit="Module Dependencies Diagram" />
@@ -7332,6 +7462,11 @@
     <option name="line" path="ActionManager" hit="Move Line Up" />
     <option name="move" path="ActionManager" hit="Move Line Up" />
     <option name="up" path="ActionManager" hit="Move Line Up" />
+    <option name="another" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="changelist" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="lines" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="move" path="ActionManager" hit="Move Lines to Another Changelist..." />
+    <option name="to" path="ActionManager" hit="Move Lines to Another Changelist..." />
     <option name="group" path="ActionManager" hit="Move Module to Group" />
     <option name="module" path="ActionManager" hit="Move Module to Group" />
     <option name="move" path="ActionManager" hit="Move Module to Group" />
@@ -7391,6 +7526,23 @@
     <option name="and" path="ActionManager" hit="Move and Push" />
     <option name="move" path="ActionManager" hit="Move and Push" />
     <option name="push" path="ActionManager" hit="Move and Push" />
+    <option name="another" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="changelist" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="changes" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="in" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="lines" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="move" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="selected" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="to" path="ActionManager" hit="Move changes in selected lines to another changelist" />
+    <option name="and" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="another" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="associated" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="classes" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="module" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="move" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="resources" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="their" path="ActionManager" hit="Move classes and their associated resources to another module" />
+    <option name="to" path="ActionManager" hit="Move classes and their associated resources to another module" />
     <option name="containing" path="ActionManager" hit="Move current element(s) to the next position in containing list of elements" />
     <option name="current" path="ActionManager" hit="Move current element(s) to the next position in containing list of elements" />
     <option name="element" path="ActionManager" hit="Move current element(s) to the next position in containing list of elements" />
@@ -7575,6 +7727,11 @@
     <option name="tests" path="ActionManager" hit="Navigate from tests statistics to tests tree" />
     <option name="to" path="ActionManager" hit="Navigate from tests statistics to tests tree" />
     <option name="tree" path="ActionManager" hit="Navigate from tests statistics to tests tree" />
+    <option name="card" path="ActionManager" hit="Navigate to SD card holder" />
+    <option name="holder" path="ActionManager" hit="Navigate to SD card holder" />
+    <option name="navigate" path="ActionManager" hit="Navigate to SD card holder" />
+    <option name="sd" path="ActionManager" hit="Navigate to SD card holder" />
+    <option name="to" path="ActionManager" hit="Navigate to SD card holder" />
     <option name="a" path="ActionManager" hit="Navigate to a line (and/or column) in editor by its number" />
     <option name="and" path="ActionManager" hit="Navigate to a line (and/or column) in editor by its number" />
     <option name="by" path="ActionManager" hit="Navigate to a line (and/or column) in editor by its number" />
@@ -7615,6 +7772,10 @@
     <option name="rails" path="ActionManager" hit="Navigate to appropriate Rails view" />
     <option name="to" path="ActionManager" hit="Navigate to appropriate Rails view" />
     <option name="view" path="ActionManager" hit="Navigate to appropriate Rails view" />
+    <option name="database" path="ActionManager" hit="Navigate to database holder" />
+    <option name="holder" path="ActionManager" hit="Navigate to database holder" />
+    <option name="navigate" path="ActionManager" hit="Navigate to database holder" />
+    <option name="to" path="ActionManager" hit="Navigate to database holder" />
     <option name="column" path="ActionManager" hit="Navigate to next table column" />
     <option name="navigate" path="ActionManager" hit="Navigate to next table column" />
     <option name="next" path="ActionManager" hit="Navigate to next table column" />
@@ -7644,6 +7805,11 @@
     <option name="row" path="ActionManager" hit="Navigate to previous table row" />
     <option name="table" path="ActionManager" hit="Navigate to previous table row" />
     <option name="to" path="ActionManager" hit="Navigate to previous table row" />
+    <option name="holder" path="ActionManager" hit="Navigate to shared preferences holder" />
+    <option name="navigate" path="ActionManager" hit="Navigate to shared preferences holder" />
+    <option name="preferences" path="ActionManager" hit="Navigate to shared preferences holder" />
+    <option name="shared" path="ActionManager" hit="Navigate to shared preferences holder" />
+    <option name="to" path="ActionManager" hit="Navigate to shared preferences holder" />
     <option name="navigate" path="ActionManager" hit="Navigate to testdata" />
     <option name="testdata" path="ActionManager" hit="Navigate to testdata" />
     <option name="to" path="ActionManager" hit="Navigate to testdata" />
@@ -7695,6 +7861,13 @@
     <option name="next" path="ActionManager" hit="Navigate to the next bookmark in the active editor" />
     <option name="the" path="ActionManager" hit="Navigate to the next bookmark in the active editor" />
     <option name="to" path="ActionManager" hit="Navigate to the next bookmark in the active editor" />
+    <option name="element" path="ActionManager" hit="Navigate to the next highlighted element usage" />
+    <option name="highlighted" path="ActionManager" hit="Navigate to the next highlighted element usage" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the next highlighted element usage" />
+    <option name="next" path="ActionManager" hit="Navigate to the next highlighted element usage" />
+    <option name="the" path="ActionManager" hit="Navigate to the next highlighted element usage" />
+    <option name="to" path="ActionManager" hit="Navigate to the next highlighted element usage" />
+    <option name="usage" path="ActionManager" hit="Navigate to the next highlighted element usage" />
     <option name="active" path="ActionManager" hit="Navigate to the next highlighted error in the active editor" />
     <option name="editor" path="ActionManager" hit="Navigate to the next highlighted error in the active editor" />
     <option name="error" path="ActionManager" hit="Navigate to the next highlighted error in the active editor" />
@@ -7725,6 +7898,13 @@
     <option name="previous" path="ActionManager" hit="Navigate to the previous bookmark in the active editor" />
     <option name="the" path="ActionManager" hit="Navigate to the previous bookmark in the active editor" />
     <option name="to" path="ActionManager" hit="Navigate to the previous bookmark in the active editor" />
+    <option name="element" path="ActionManager" hit="Navigate to the previous highlighted element usage" />
+    <option name="highlighted" path="ActionManager" hit="Navigate to the previous highlighted element usage" />
+    <option name="navigate" path="ActionManager" hit="Navigate to the previous highlighted element usage" />
+    <option name="previous" path="ActionManager" hit="Navigate to the previous highlighted element usage" />
+    <option name="the" path="ActionManager" hit="Navigate to the previous highlighted element usage" />
+    <option name="to" path="ActionManager" hit="Navigate to the previous highlighted element usage" />
+    <option name="usage" path="ActionManager" hit="Navigate to the previous highlighted element usage" />
     <option name="active" path="ActionManager" hit="Navigate to the previous highlighted error in the active editor" />
     <option name="editor" path="ActionManager" hit="Navigate to the previous highlighted error in the active editor" />
     <option name="error" path="ActionManager" hit="Navigate to the previous highlighted error in the active editor" />
@@ -7889,6 +8069,14 @@
     <option name="design" path="ActionManager" hit="Open Debuggable Design View" />
     <option name="open" path="ActionManager" hit="Open Debuggable Design View" />
     <option name="view" path="ActionManager" hit="Open Debuggable Design View" />
+    <option name="device" path="ActionManager" hit="Open Device Explorer help" />
+    <option name="explorer" path="ActionManager" hit="Open Device Explorer help" />
+    <option name="help" path="ActionManager" hit="Open Device Explorer help" />
+    <option name="open" path="ActionManager" hit="Open Device Explorer help" />
+    <option name="collection" path="ActionManager" hit="Open HTTP Requests Collection" />
+    <option name="http" path="ActionManager" hit="Open HTTP Requests Collection" />
+    <option name="open" path="ActionManager" hit="Open HTTP Requests Collection" />
+    <option name="requests" path="ActionManager" hit="Open HTTP Requests Collection" />
     <option name="console" path="ActionManager" hit="Open IDE scripting console" />
     <option name="ide" path="ActionManager" hit="Open IDE scripting console" />
     <option name="open" path="ActionManager" hit="Open IDE scripting console" />
@@ -8018,6 +8206,12 @@
     <option name="in" path="ActionManager" hit="Open corresponding link in browser" />
     <option name="link" path="ActionManager" hit="Open corresponding link in browser" />
     <option name="open" path="ActionManager" hit="Open corresponding link in browser" />
+    <option name="current" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="file" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="in" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="location" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="open" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="terminal" path="ActionManager" hit="Open current file location in terminal" />
     <option name="configurations" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
     <option name="debug" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
     <option name="dialog" path="ActionManager" hit="Open edit Run/Debug configurations dialog" />
@@ -8094,6 +8288,9 @@
     <option name="default" path="ActionManager" hit="Open in default browser" />
     <option name="in" path="ActionManager" hit="Open in default browser" />
     <option name="open" path="ActionManager" hit="Open in default browser" />
+    <option name="in" path="ActionManager" hit="Open in terminal" />
+    <option name="open" path="ActionManager" hit="Open in terminal" />
+    <option name="terminal" path="ActionManager" hit="Open in terminal" />
     <option name="editor" path="ActionManager" hit="Open local file in editor" />
     <option name="file" path="ActionManager" hit="Open local file in editor" />
     <option name="in" path="ActionManager" hit="Open local file in editor" />
@@ -8195,6 +8392,12 @@
     <option name="properties" path="ActionManager" hit="Opens an editor tab with a custom properties file" />
     <option name="tab" path="ActionManager" hit="Opens an editor tab with a custom properties file" />
     <option name="with" path="ActionManager" hit="Opens an editor tab with a custom properties file" />
+    <option name="build-in" path="ActionManager" hit="Opens build-in collection of HTTP Requests" />
+    <option name="collection" path="ActionManager" hit="Opens build-in collection of HTTP Requests" />
+    <option name="http" path="ActionManager" hit="Opens build-in collection of HTTP Requests" />
+    <option name="of" path="ActionManager" hit="Opens build-in collection of HTTP Requests" />
+    <option name="opens" path="ActionManager" hit="Opens build-in collection of HTTP Requests" />
+    <option name="requests" path="ActionManager" hit="Opens build-in collection of HTTP Requests" />
     <option name="file" path="ActionManager" hit="Opens folder with log file" />
     <option name="folder" path="ActionManager" hit="Opens folder with log file" />
     <option name="log" path="ActionManager" hit="Opens folder with log file" />
@@ -8512,6 +8715,10 @@
     <option name="configuration" path="ActionManager" hit="Profile context configuration" />
     <option name="context" path="ActionManager" hit="Profile context configuration" />
     <option name="profile" path="ActionManager" hit="Profile context configuration" />
+    <option name="configuration" path="ActionManager" hit="Profile selected configuration" />
+    <option name="profile" path="ActionManager" hit="Profile selected configuration" />
+    <option name="selected" path="ActionManager" hit="Profile selected configuration" />
+    <option name="profile" path="ActionManager" hit="Profile..." />
     <option name="actions" path="ActionManager" hit="Profiling Actions" />
     <option name="profiling" path="ActionManager" hit="Profiling Actions" />
     <option name="defaults" path="ActionManager" hit="Project Defaults" />
@@ -8965,6 +9172,12 @@
     <option name="of" path="ActionManager" hit="Refresh the list of incoming changes" />
     <option name="refresh" path="ActionManager" hit="Refresh the list of incoming changes" />
     <option name="the" path="ActionManager" hit="Refresh the list of incoming changes" />
+    <option name="autoloaded" path="ActionManager" hit="Regenerate the list of autoloaded classes" />
+    <option name="classes" path="ActionManager" hit="Regenerate the list of autoloaded classes" />
+    <option name="list" path="ActionManager" hit="Regenerate the list of autoloaded classes" />
+    <option name="of" path="ActionManager" hit="Regenerate the list of autoloaded classes" />
+    <option name="regenerate" path="ActionManager" hit="Regenerate the list of autoloaded classes" />
+    <option name="the" path="ActionManager" hit="Regenerate the list of autoloaded classes" />
     <option name="regex" path="ActionManager" hit="Regex" />
     <option name="register" path="ActionManager" hit="Register" />
     <option name="ide" path="ActionManager" hit="Register IDE" />
@@ -9383,6 +9596,14 @@
     <option name="inheritance" path="ActionManager" hit="Replace inheritance with delegation" />
     <option name="replace" path="ActionManager" hit="Replace inheritance with delegation" />
     <option name="with" path="ActionManager" hit="Replace inheritance with delegation" />
+    <option name="added" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="by" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="groups" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="module" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="names" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="prefixes" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="replace" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
+    <option name="to" path="ActionManager" hit="Replace module groups by prefixes added to module names" />
     <option name="a" path="ActionManager" hit="Replace selected expression with a constant (static final field)" />
     <option name="constant" path="ActionManager" hit="Replace selected expression with a constant (static final field)" />
     <option name="expression" path="ActionManager" hit="Replace selected expression with a constant (static final field)" />
@@ -9610,6 +9831,8 @@
     <option name="with" path="ActionManager" hit="Right with Selection" />
     <option name="right-to-left" path="ActionManager" hit="Right-to-Left" />
     <option name="rollback" path="ActionManager" hit="Rollback" />
+    <option name="lines" path="ActionManager" hit="Rollback Lines" />
+    <option name="rollback" path="ActionManager" hit="Rollback Lines" />
     <option name="changes" path="ActionManager" hit="Rollback changes in selected lines" />
     <option name="in" path="ActionManager" hit="Rollback changes in selected lines" />
     <option name="lines" path="ActionManager" hit="Rollback changes in selected lines" />
@@ -9769,6 +9992,17 @@
     <option name="inspections" path="ActionManager" hit="Run cleanup inspections and apply quick fixes" />
     <option name="quick" path="ActionManager" hit="Run cleanup inspections and apply quick fixes" />
     <option name="run" path="ActionManager" hit="Run cleanup inspections and apply quick fixes" />
+    <option name="and" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="apply" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="cleanup" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="current" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="fixes" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="inspection" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="inspections" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="profile" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="quick" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="run" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
+    <option name="with" path="ActionManager" hit="Run cleanup inspections and apply quick fixes with current inspection profile" />
     <option name="command" path="ActionManager" hit="Run command line" />
     <option name="line" path="ActionManager" hit="Run command line" />
     <option name="run" path="ActionManager" hit="Run command line" />
@@ -9899,6 +10133,10 @@
     <option name="coverage" path="ActionManager" hit="Run with Coverage context configuration" />
     <option name="run" path="ActionManager" hit="Run with Coverage context configuration" />
     <option name="with" path="ActionManager" hit="Run with Coverage context configuration" />
+    <option name="generator" path="ActionManager" hit="Run yeoman project generator" />
+    <option name="project" path="ActionManager" hit="Run yeoman project generator" />
+    <option name="run" path="ActionManager" hit="Run yeoman project generator" />
+    <option name="yeoman" path="ActionManager" hit="Run yeoman project generator" />
     <option name="run" path="ActionManager" hit="Run..." />
     <option name="connect" path="ActionManager" hit="Run/Connect" />
     <option name="run" path="ActionManager" hit="Run/Connect" />
@@ -9967,6 +10205,9 @@
     <option name="selected" path="ActionManager" hit="Safely unwraps or removes the selected scope" />
     <option name="the" path="ActionManager" hit="Safely unwraps or removes the selected scope" />
     <option name="unwraps" path="ActionManager" hit="Safely unwraps or removes the selected scope" />
+    <option name="data" path="ActionManager" hit="Sample Data directory" />
+    <option name="directory" path="ActionManager" hit="Sample Data directory" />
+    <option name="sample" path="ActionManager" hit="Sample Data directory" />
     <option name="all" path="ActionManager" hit="Save All" />
     <option name="save" path="ActionManager" hit="Save All" />
     <option name="context" path="ActionManager" hit="Save Context..." />
@@ -10125,6 +10366,92 @@
     <option name="scroll" path="ActionManager" hit="Scroll to Top" />
     <option name="to" path="ActionManager" hit="Scroll to Top" />
     <option name="top" path="ActionManager" hit="Scroll to Top" />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="down" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="page" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one page." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="down" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="unit" path="ActionManager" hit="Scrolls the surrounding scrollable area down by one unit." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="left" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="page" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one page." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="left" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="unit" path="ActionManager" hit="Scrolls the surrounding scrollable area left by one unit." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="page" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="right" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one page." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="right" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="unit" path="ActionManager" hit="Scrolls the surrounding scrollable area right by one unit." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area to the bottom." />
+    <option name="bottom" path="ActionManager" hit="Scrolls the surrounding scrollable area to the bottom." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area to the bottom." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area to the bottom." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area to the bottom." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area to the bottom." />
+    <option name="to" path="ActionManager" hit="Scrolls the surrounding scrollable area to the bottom." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area to the top." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area to the top." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area to the top." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area to the top." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area to the top." />
+    <option name="to" path="ActionManager" hit="Scrolls the surrounding scrollable area to the top." />
+    <option name="top" path="ActionManager" hit="Scrolls the surrounding scrollable area to the top." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="page" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="up" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one page." />
+    <option name="area" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="by" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="one" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="scrollable" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="scrolls" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="surrounding" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="the" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="unit" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
+    <option name="up" path="ActionManager" hit="Scrolls the surrounding scrollable area up by one unit." />
     <option name="pageflow" path="ActionManager" hit="Seam Pageflow" />
     <option name="seam" path="ActionManager" hit="Seam Pageflow" />
     <option name="components" path="ActionManager" hit="Seam components.xml" />
@@ -10584,6 +10911,9 @@
     <option name="execution" path="ActionManager" hit="Show Execution Point" />
     <option name="point" path="ActionManager" hit="Show Execution Point" />
     <option name="show" path="ActionManager" hit="Show Execution Point" />
+    <option name="annotations" path="ActionManager" hit="Show External Annotations" />
+    <option name="external" path="ActionManager" hit="Show External Annotations" />
+    <option name="show" path="ActionManager" hit="Show External Annotations" />
     <option name="filter" path="ActionManager" hit="Show Filter" />
     <option name="show" path="ActionManager" hit="Show Filter" />
     <option name="environment" path="ActionManager" hit="Show Gem Environment" />
@@ -10643,6 +10973,9 @@
     <option name="guides" path="ActionManager" hit="Show Indent Guides" />
     <option name="indent" path="ActionManager" hit="Show Indent Guides" />
     <option name="show" path="ActionManager" hit="Show Indent Guides" />
+    <option name="annotations" path="ActionManager" hit="Show Inferred Annotations" />
+    <option name="inferred" path="ActionManager" hit="Show Inferred Annotations" />
+    <option name="show" path="ActionManager" hit="Show Inferred Annotations" />
     <option name="instances" path="ActionManager" hit="Show Instances" />
     <option name="show" path="ActionManager" hit="Show Instances" />
     <option name="actions" path="ActionManager" hit="Show Intention Actions" />
@@ -10973,9 +11306,6 @@
     <option name="form" path="ActionManager" hit="Show form XML content" />
     <option name="show" path="ActionManager" hit="Show form XML content" />
     <option name="xml" path="ActionManager" hit="Show form XML content" />
-    <option name="contents" path="ActionManager" hit="Show help contents" />
-    <option name="help" path="ActionManager" hit="Show help contents" />
-    <option name="show" path="ActionManager" hit="Show help contents" />
     <option name="and" path="ActionManager" hit="Show hidden files and directories" />
     <option name="directories" path="ActionManager" hit="Show hidden files and directories" />
     <option name="files" path="ActionManager" hit="Show hidden files and directories" />
@@ -11358,13 +11688,14 @@
     <option name="selection" path="ActionManager" hit="Shrink selection structurally" />
     <option name="shrink" path="ActionManager" hit="Shrink selection structurally" />
     <option name="structurally" path="ActionManager" hit="Shrink selection structurally" />
+    <option name="cleanup" path="ActionManager" hit="Silent Code Cleanup" />
+    <option name="code" path="ActionManager" hit="Silent Code Cleanup" />
+    <option name="silent" path="ActionManager" hit="Silent Code Cleanup" />
     <option name="bean" path="ActionManager" hit="Singleton Session Bean" />
     <option name="session" path="ActionManager" hit="Singleton Session Bean" />
     <option name="singleton" path="ActionManager" hit="Singleton Session Bean" />
-    <option name="commit" path="ActionManager" hit="Skip Commit in Rebasing" />
-    <option name="in" path="ActionManager" hit="Skip Commit in Rebasing" />
-    <option name="rebasing" path="ActionManager" hit="Skip Commit in Rebasing" />
-    <option name="skip" path="ActionManager" hit="Skip Commit in Rebasing" />
+    <option name="commit" path="ActionManager" hit="Skip Commit" />
+    <option name="skip" path="ActionManager" hit="Skip Commit" />
     <option name="into" path="ActionManager" hit="Smart Step Into" />
     <option name="smart" path="ActionManager" hit="Smart Step Into" />
     <option name="step" path="ActionManager" hit="Smart Step Into" />
@@ -11527,6 +11858,9 @@
     <option name="file" path="ActionManager" hit="Start editing of file" />
     <option name="of" path="ActionManager" hit="Start editing of file" />
     <option name="start" path="ActionManager" hit="Start editing of file" />
+    <option name="dialog" path="ActionManager" hit="Start generators dialog" />
+    <option name="generators" path="ActionManager" hit="Start generators dialog" />
+    <option name="start" path="ActionManager" hit="Start generators dialog" />
     <option name="0" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
     <option name="6" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
     <option name="as" path="ActionManager" hit="Start incremental search (searches string as you type), IntelliJ IDEA 6.0 implementation." />
@@ -11705,6 +12039,16 @@
     <option name="server" path="ActionManager" hit="Stop/disconnect from the selected server" />
     <option name="stop" path="ActionManager" hit="Stop/disconnect from the selected server" />
     <option name="the" path="ActionManager" hit="Stop/disconnect from the selected server" />
+    <option name="all" path="ActionManager" hit="Stops all services" />
+    <option name="services" path="ActionManager" hit="Stops all services" />
+    <option name="stops" path="ActionManager" hit="Stops all services" />
+    <option name="and" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="containers" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="images" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="networks" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="removes" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="stops" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
+    <option name="volumes" path="ActionManager" hit="Stops containers and removes containers, networks, volumes and images" />
     <option name="as" path="ActionManager" hit="Store Current Layout as Default" />
     <option name="current" path="ActionManager" hit="Store Current Layout as Default" />
     <option name="default" path="ActionManager" hit="Store Current Layout as Default" />
@@ -11813,10 +12157,9 @@
     <option name="boundaries" path="ActionManager" hit="Swap selection boundaries" />
     <option name="selection" path="ActionManager" hit="Swap selection boundaries" />
     <option name="swap" path="ActionManager" hit="Swap selection boundaries" />
-    <option name="boot" path="ActionManager" hit="Switch IDE boot JDK..." />
-    <option name="ide" path="ActionManager" hit="Switch IDE boot JDK..." />
-    <option name="jdk" path="ActionManager" hit="Switch IDE boot JDK..." />
-    <option name="switch" path="ActionManager" hit="Switch IDE boot JDK..." />
+    <option name="boot" path="ActionManager" hit="Switch Boot JDK..." />
+    <option name="jdk" path="ActionManager" hit="Switch Boot JDK..." />
+    <option name="switch" path="ActionManager" hit="Switch Boot JDK..." />
     <option name="switch" path="ActionManager" hit="Switch Task..." />
     <option name="task" path="ActionManager" hit="Switch Task..." />
     <option name="all" path="ActionManager" hit="Switch between showing only current branch and all branches" />
@@ -11979,6 +12322,11 @@
     <option name="text" path="ActionManager" hit="Text Filter Settings" />
     <option name="editor" path="ActionManager" hit="Theme Editor" />
     <option name="theme" path="ActionManager" hit="Theme Editor" />
+    <option name="exception" path="ActionManager" hit="Throw Exception" />
+    <option name="throw" path="ActionManager" hit="Throw Exception" />
+    <option name="an" path="ActionManager" hit="Throw an exception" />
+    <option name="exception" path="ActionManager" hit="Throw an exception" />
+    <option name="throw" path="ActionManager" hit="Throw an exception" />
     <option name="time-lapse" path="ActionManager" hit="Time-lapse View..." />
     <option name="view" path="ActionManager" hit="Time-lapse View..." />
     <option name="day" path="ActionManager" hit="Tip of the Day" />
@@ -12619,12 +12967,17 @@
     <option name="update" path="ActionManager" hit="Update" />
     <option name="copyright" path="ActionManager" hit="Update Copyright..." />
     <option name="update" path="ActionManager" hit="Update Copyright..." />
+    <option name="classes" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="debugger" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="loaded" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="on" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="stop" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
+    <option name="update" path="ActionManager" hit="Update Loaded Classes On Debugger Stop" />
     <option name="project" path="ActionManager" hit="Update Project" />
     <option name="update" path="ActionManager" hit="Update Project" />
-    <option name="application" path="ActionManager" hit="Update Running JavaEE Application" />
-    <option name="javaee" path="ActionManager" hit="Update Running JavaEE Application" />
-    <option name="running" path="ActionManager" hit="Update Running JavaEE Application" />
-    <option name="update" path="ActionManager" hit="Update Running JavaEE Application" />
+    <option name="application" path="ActionManager" hit="Update Running Application" />
+    <option name="running" path="ActionManager" hit="Update Running Application" />
+    <option name="update" path="ActionManager" hit="Update Running Application" />
     <option name="abbreviation" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
     <option name="emmet" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
     <option name="existing" path="ActionManager" hit="Update existing HTML tag with Emmet abbreviation" />
@@ -12685,6 +13038,15 @@
     <option name="upload" path="ActionManager" hit="Upload current remote file" />
     <option name="descriptor" path="ActionManager" hit="Upload descriptor" />
     <option name="upload" path="ActionManager" hit="Upload descriptor" />
+    <option name="default" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="items" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="local" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="of" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="selected" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="server" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="to" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="upload" path="ActionManager" hit="Upload local versions of selected items to default server" />
+    <option name="versions" path="ActionManager" hit="Upload local versions of selected items to default server" />
     <option name="descriptor" path="ActionManager" hit="Upload resource descriptor" />
     <option name="resource" path="ActionManager" hit="Upload resource descriptor" />
     <option name="upload" path="ActionManager" hit="Upload resource descriptor" />
@@ -12805,6 +13167,7 @@
     <option name="the" path="ActionManager" hit="Validate the current XML file" />
     <option name="validate" path="ActionManager" hit="Validate the current XML file" />
     <option name="xml" path="ActionManager" hit="Validate the current XML file" />
+    <option name="validate" path="ActionManager" hit="Validate..." />
     <option name="variable" path="ActionManager" hit="Variable..." />
     <option name="asset" path="ActionManager" hit="Vector Asset" />
     <option name="vector" path="ActionManager" hit="Vector Asset" />
@@ -12918,6 +13281,8 @@
     <option name="map" path="ActionManager" hit="Visualize Source Map" />
     <option name="source" path="ActionManager" hit="Visualize Source Map" />
     <option name="visualize" path="ActionManager" hit="Visualize Source Map" />
+    <option name="component" path="ActionManager" hit="Vue Component" />
+    <option name="vue" path="ActionManager" hit="Vue Component" />
     <option name="delete" path="ActionManager" hit="Warn When Delete" />
     <option name="warn" path="ActionManager" hit="Warn When Delete" />
     <option name="when" path="ActionManager" hit="Warn When Delete" />
@@ -13015,6 +13380,13 @@
     <option name="xmlbeans" path="ActionManager" hit="XmlBeans" />
     <option name="actions" path="ActionManager" hit="XmlBeans actions" />
     <option name="xmlbeans" path="ActionManager" hit="XmlBeans actions" />
+    <option name="generator" path="ActionManager" hit="Yeoman: run generator" />
+    <option name="run" path="ActionManager" hit="Yeoman: run generator" />
+    <option name="yeoman" path="ActionManager" hit="Yeoman: run generator" />
+    <option name="dialog" path="ActionManager" hit="Yeoman: start generators dialog" />
+    <option name="generators" path="ActionManager" hit="Yeoman: start generators dialog" />
+    <option name="start" path="ActionManager" hit="Yeoman: start generators dialog" />
+    <option name="yeoman" path="ActionManager" hit="Yeoman: start generators dialog" />
     <option name="a" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
     <option name="an" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
     <option name="can" path="ActionManager" hit="You can check out an entire project from a Version Control System. Click the icon or link to select your VCS." />
@@ -13357,11 +13729,11 @@
     <option name="in" hit="Enable auto-import in namespace scope" />
     <option name="namespace" hit="Enable auto-import in namespace scope" />
     <option name="scope" hit="Enable auto-import in namespace scope" />
-    <option name="and" hit="Exclude from Import and Completion" />
-    <option name="completion" hit="Exclude from Import and Completion" />
-    <option name="exclude" hit="Exclude from Import and Completion" />
-    <option name="from" hit="Exclude from Import and Completion" />
-    <option name="import" hit="Exclude from Import and Completion" />
+    <option name="and" hit="Exclude from import and completion:" />
+    <option name="completion" hit="Exclude from import and completion:" />
+    <option name="exclude" hit="Exclude from import and completion:" />
+    <option name="from" hit="Exclude from import and completion:" />
+    <option name="import" hit="Exclude from import and completion:" />
     <option name="imports" hit="Insert imports on paste:" />
     <option name="insert" hit="Insert imports on paste:" />
     <option name="on" hit="Insert imports on paste:" />
@@ -13469,6 +13841,10 @@
     <option name="on" hit="Show code lens on scrollbar hover" />
     <option name="scrollbar" hit="Show code lens on scrollbar hover" />
     <option name="show" hit="Show code lens on scrollbar hover" />
+    <option name="annotations" hit="Show external annotations inline" />
+    <option name="external" hit="Show external annotations inline" />
+    <option name="inline" hit="Show external annotations inline" />
+    <option name="show" hit="Show external annotations inline" />
     <option name="code" hit="Show hard wrap guide (configured in Code Style options)" />
     <option name="configured" hit="Show hard wrap guide (configured in Code Style options)" />
     <option name="guide" hit="Show hard wrap guide (configured in Code Style options)" />
@@ -13481,6 +13857,10 @@
     <option name="guides" hit="Show indent guides" />
     <option name="indent" hit="Show indent guides" />
     <option name="show" hit="Show indent guides" />
+    <option name="annotations" hit="Show inferred annotations inline" />
+    <option name="inferred" hit="Show inferred annotations inline" />
+    <option name="inline" hit="Show inferred annotations inline" />
+    <option name="show" hit="Show inferred annotations inline" />
     <option name="bulb" hit="Show intention bulb" />
     <option name="intention" hit="Show intention bulb" />
     <option name="show" hit="Show intention bulb" />
@@ -13926,6 +14306,13 @@
     <option name="tag" hit="Automatically insert closing tag" />
     <option name="backspace" hit="Backspace" />
     <option name="css" hit="CSS" />
+    <option name="attributes" hit="Convert html attributes on paste in jsx" />
+    <option name="convert" hit="Convert html attributes on paste in jsx" />
+    <option name="html" hit="Convert html attributes on paste in jsx" />
+    <option name="in" hit="Convert html attributes on paste in jsx" />
+    <option name="jsx" hit="Convert html attributes on paste in jsx" />
+    <option name="on" hit="Convert html attributes on paste in jsx" />
+    <option name="paste" hit="Convert html attributes on paste in jsx" />
     <option name="dart" hit="Dart" />
     <option name="database" hit="Database/Schema:" />
     <option name="schema" hit="Database/Schema:" />
@@ -13990,12 +14377,12 @@
     <option name="pair" hit="Insert pair %&gt; on Enter in JSP" />
     <option name="insert" hit="Insert pair '}'" />
     <option name="pair" hit="Insert pair '}'" />
-    <option name="bracket" hit="Insert pair bracket" />
-    <option name="insert" hit="Insert pair bracket" />
-    <option name="pair" hit="Insert pair bracket" />
     <option name="insert" hit="Insert pair quote" />
     <option name="pair" hit="Insert pair quote" />
     <option name="quote" hit="Insert pair quote" />
+    <option name="brackets" hit="Insert paired brackets (), [], {},  " />
+    <option name="insert" hit="Insert paired brackets (), [], {},  " />
+    <option name="paired" hit="Insert paired brackets (), [], {},  " />
     <option name="attributes" hit="Insert required attributes on tag completion" />
     <option name="completion" hit="Insert required attributes on tag completion" />
     <option name="insert" hit="Insert required attributes on tag completion" />
@@ -14081,11 +14468,12 @@
     <option name="ruby" hit="Start ruby interpolation in strings on #" />
     <option name="start" hit="Start ruby interpolation in strings on #" />
     <option name="strings" hit="Start ruby interpolation in strings on #" />
-    <option name="interpolation" hit="Start template string interpolation on '$'" />
-    <option name="on" hit="Start template string interpolation on '$'" />
-    <option name="start" hit="Start template string interpolation on '$'" />
-    <option name="string" hit="Start template string interpolation on '$'" />
-    <option name="template" hit="Start template string interpolation on '$'" />
+    <option name="interpolation" hit="Start template string interpolation on typing '$'" />
+    <option name="on" hit="Start template string interpolation on typing '$'" />
+    <option name="start" hit="Start template string interpolation on typing '$'" />
+    <option name="string" hit="Start template string interpolation on typing '$'" />
+    <option name="template" hit="Start template string interpolation on typing '$'" />
+    <option name="typing" hit="Start template string interpolation on typing '$'" />
     <option name="brace" hit="Surround selection on typing quote or brace" />
     <option name="on" hit="Surround selection on typing quote or brace" />
     <option name="or" hit="Surround selection on typing quote or brace" />
@@ -14358,6 +14746,10 @@
     <option name="text" hit="Text//Deleted text" />
     <option name="folded" hit="Text//Folded text" />
     <option name="text" hit="Text//Folded text" />
+    <option name="folded" hit="Text//Folded text with highlighting" />
+    <option name="highlighting" hit="Text//Folded text with highlighting" />
+    <option name="text" hit="Text//Folded text with highlighting" />
+    <option name="with" hit="Text//Folded text with highlighting" />
     <option name="background" hit="Text//Readonly fragment background" />
     <option name="fragment" hit="Text//Readonly fragment background" />
     <option name="readonly" hit="Text//Readonly fragment background" />
@@ -14469,13 +14861,18 @@
     <option name="identifiers" hit="Identifiers//Predefined symbol" />
     <option name="predefined" hit="Identifiers//Predefined symbol" />
     <option name="symbol" hit="Identifiers//Predefined symbol" />
-    <option name="hint" hit="Inline parameter hint" />
-    <option name="inline" hit="Inline parameter hint" />
-    <option name="parameter" hit="Inline parameter hint" />
-    <option name="highlighted" hit="Inline parameter hint (highlighted)" />
-    <option name="hint" hit="Inline parameter hint (highlighted)" />
-    <option name="inline" hit="Inline parameter hint (highlighted)" />
-    <option name="parameter" hit="Inline parameter hint (highlighted)" />
+    <option name="current" hit="Inline parameter hints//Current" />
+    <option name="hints" hit="Inline parameter hints//Current" />
+    <option name="inline" hit="Inline parameter hints//Current" />
+    <option name="parameter" hit="Inline parameter hints//Current" />
+    <option name="default" hit="Inline parameter hints//Default" />
+    <option name="hints" hit="Inline parameter hints//Default" />
+    <option name="inline" hit="Inline parameter hints//Default" />
+    <option name="parameter" hit="Inline parameter hints//Default" />
+    <option name="highlighted" hit="Inline parameter hints//Highlighted" />
+    <option name="hints" hit="Inline parameter hints//Highlighted" />
+    <option name="inline" hit="Inline parameter hints//Highlighted" />
+    <option name="parameter" hit="Inline parameter hints//Highlighted" />
     <option name="keyword" hit="Keyword" />
     <option name="attribute" hit="Markup//Attribute" />
     <option name="markup" hit="Markup//Attribute" />
@@ -15484,19 +15881,6 @@
     <option name="semicolon" hit="Semicolon" />
     <option name="string" hit="String" />
   </configurable>
-  <configurable id="reference.settingsdialog.IDE.editor.colors.gettext PO" configurable_name="gettext PO">
-    <option name="gettext" hit="gettext PO" />
-    <option name="po" hit="gettext PO" />
-    <option name="comment" hit="Comment" />
-    <option name="msgctxt" hit="Msgctxt" />
-    <option name="msgid" hit="Msgid" />
-    <option name="msgid" hit="Msgid (plural)" />
-    <option name="plural" hit="Msgid (plural)" />
-    <option name="msgstr" hit="Msgstr" />
-    <option name="msgstr" hit="Msgstr (plural)" />
-    <option name="plural" hit="Msgstr (plural)" />
-    <option name="string" hit="String" />
-  </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.GQL" configurable_name="GQL">
     <option name="gql" hit="GQL" />
     <option name="identifier" hit="Identifier" />
@@ -15801,6 +16185,7 @@
     <option name="instance" hit="Instance member variable" />
     <option name="member" hit="Instance member variable" />
     <option name="variable" hit="Instance member variable" />
+    <option name="interface" hit="Interface" />
     <option name="escape" hit="Invalid string escape" />
     <option name="invalid" hit="Invalid string escape" />
     <option name="string" hit="Invalid string escape" />
@@ -15826,6 +16211,8 @@
     <option name="static" hit="Static member variable" />
     <option name="variable" hit="Static member variable" />
     <option name="string" hit="String" />
+    <option name="alias" hit="Type alias" />
+    <option name="type" hit="Type alias" />
     <option name="escape" hit="Valid string escape" />
     <option name="string" hit="Valid string escape" />
     <option name="valid" hit="Valid string escape" />
@@ -16368,28 +16755,6 @@
     <option name="redundant" hit="Redundant escape sequence" />
     <option name="sequence" hit="Redundant escape sequence" />
   </configurable>
-  <configurable id="reference.settingsdialog.IDE.editor.colors.reStructuredText" configurable_name="reStructuredText">
-    <option name="restructuredtext" hit="reStructuredText" />
-    <option name="bold" hit="Bold text" />
-    <option name="text" hit="Bold text" />
-    <option name="comment" hit="Comment" />
-    <option name="explicit" hit="Explicit markup" />
-    <option name="markup" hit="Explicit markup" />
-    <option name="fields" hit="Fields" />
-    <option name="inline" hit="Inline literals" />
-    <option name="literals" hit="Inline literals" />
-    <option name="interpreted" hit="Interpreted text" />
-    <option name="text" hit="Interpreted text" />
-    <option name="italic" hit="Italic text" />
-    <option name="text" hit="Italic text" />
-    <option name="and" hit="Literal and line blocks" />
-    <option name="blocks" hit="Literal and line blocks" />
-    <option name="line" hit="Literal and line blocks" />
-    <option name="literal" hit="Literal and line blocks" />
-    <option name="name" hit="Reference name" />
-    <option name="reference" hit="Reference name" />
-    <option name="title" hit="Title" />
-  </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.Ruby" configurable_name="Ruby">
     <option name="ruby" hit="Ruby" />
     <option name="bad" hit="Bad character" />
@@ -16714,6 +17079,8 @@
     <option name="operation" hit="Operation" />
     <option name="parameter" hit="Parameter" />
     <option name="parenthesis" hit="Parenthesis" />
+    <option name="primitive" hit="Primitive types" />
+    <option name="types" hit="Primitive types" />
     <option name="expression" hit="Regular expression" />
     <option name="regular" hit="Regular expression" />
     <option name="semicolon" hit="Semicolon" />
@@ -16724,6 +17091,8 @@
     <option name="static" hit="Static member variable" />
     <option name="variable" hit="Static member variable" />
     <option name="string" hit="String" />
+    <option name="alias" hit="Type alias" />
+    <option name="type" hit="Type alias" />
     <option name="parameter" hit="Type parameter" />
     <option name="type" hit="Type parameter" />
     <option name="escape" hit="Valid string escape" />
@@ -18109,12 +18478,15 @@
     <option name="spaces" path="Spaces" hit="Spaces" />
     <option name="field" path="Code Generation" hit="Static field:" />
     <option name="static" path="Code Generation" hit="Static field:" />
+    <option name="subclass" path="Code Generation" hit="Subclass:" />
     <option name="suffix" path="Java EE Names" hit="Suffix:" />
     <option name="size" path="Tabs and Indents" hit="Tab size:" />
     <option name="tab" path="Tabs and Indents" hit="Tab size:" />
     <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
+    <option name="class" path="Code Generation" hit="Test class:" />
+    <option name="test" path="Code Generation" hit="Test class:" />
     <option name="object" path="Java EE Names" hit="Transfer Object: " />
     <option name="transfer" path="Java EE Names" hit="Transfer Object: " />
     <option name="annotations" path="Code Generation" hit="Use external annotations" />
@@ -18702,17 +19074,31 @@
     <option name="column" path="Code Generation" hit="Block comment at first column" />
     <option name="comment" path="Code Generation" hit="Block comment at first column" />
     <option name="first" path="Code Generation" hit="Block comment at first column" />
+    <option name="appcomponent" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="camel" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="case" path="Code Generation" hit="Camel case (appComponent)" />
     <option name="code" path="Code Generation" hit="Code Generation" />
     <option name="generation" path="Code Generation" hit="Code Generation" />
     <option name="code" path="Code Generation" hit="Comment Code" />
     <option name="comment" path="Code Generation" hit="Comment Code" />
     <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="app-component" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="dash" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="component" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="dash" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="my-app" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="suffix" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="with" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
     <option name="don" path="Punctuation" hit="Don't use" />
     <option name="t" path="Punctuation" hit="Don't use" />
     <option name="use" path="Punctuation" hit="Don't use" />
     <option name="field" path="Code Generation" hit="Field prefix:" />
     <option name="prefix" path="Code Generation" hit="Field prefix:" />
+    <option name="convention" path="Code Generation" hit="Filename convention:" />
+    <option name="filename" path="Code Generation" hit="Filename convention:" />
     <option name="code" path="Blank Lines" hit="In code:" />
     <option name="in" path="Blank Lines" hit="In code:" />
     <option name="indent" path="Tabs and Indents" hit="Indent:" />
@@ -18737,15 +19123,26 @@
     <option name="minimum" path="Blank Lines" hit="Minimum Blank Lines" />
     <option name="conventions" path="Code Generation" hit="Naming conventions" />
     <option name="naming" path="Code Generation" hit="Naming conventions" />
+    <option name="appcomponent" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="case" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="pascal" path="Code Generation" hit="Pascal case (AppComponent)" />
     <option name="prefix" path="Code Generation" hit="Property prefix:" />
     <option name="property" path="Code Generation" hit="Property prefix:" />
     <option name="punctuation" path="Punctuation" hit="Punctuation" />
     <option name="remove" path="Punctuation" hit="Remove" />
+    <option name="case" path="Code Generation" hit="Reuse case of current file" />
+    <option name="current" path="Code Generation" hit="Reuse case of current file" />
+    <option name="file" path="Code Generation" hit="Reuse case of current file" />
+    <option name="of" path="Code Generation" hit="Reuse case of current file" />
+    <option name="reuse" path="Code Generation" hit="Reuse case of current file" />
     <option name="scheme" hit="Scheme:" />
     <option name="from" hit="Set from..." />
     <option name="set" hit="Set from..." />
     <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
     <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="app_component" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="case" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="snake" path="Code Generation" hit="Snake case (app_component)" />
     <option name="spaces" path="Spaces" hit="Spaces" />
     <option name="size" path="Tabs and Indents" hit="Tab size:" />
     <option name="tab" path="Tabs and Indents" hit="Tab size:" />
@@ -21294,17 +21691,31 @@
     <option name="column" path="Code Generation" hit="Block comment at first column" />
     <option name="comment" path="Code Generation" hit="Block comment at first column" />
     <option name="first" path="Code Generation" hit="Block comment at first column" />
+    <option name="appcomponent" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="camel" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="case" path="Code Generation" hit="Camel case (appComponent)" />
     <option name="code" path="Code Generation" hit="Code Generation" />
     <option name="generation" path="Code Generation" hit="Code Generation" />
     <option name="code" path="Code Generation" hit="Comment Code" />
     <option name="comment" path="Code Generation" hit="Comment Code" />
     <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="app-component" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="dash" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="component" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="dash" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="my-app" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="suffix" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="with" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
     <option name="don" path="Punctuation" hit="Don't use" />
     <option name="t" path="Punctuation" hit="Don't use" />
     <option name="use" path="Punctuation" hit="Don't use" />
     <option name="field" path="Code Generation" hit="Field prefix:" />
     <option name="prefix" path="Code Generation" hit="Field prefix:" />
+    <option name="convention" path="Code Generation" hit="Filename convention:" />
+    <option name="filename" path="Code Generation" hit="Filename convention:" />
     <option name="imports" path="Imports" hit="Imports" />
     <option name="code" path="Blank Lines" hit="In code:" />
     <option name="in" path="Blank Lines" hit="In code:" />
@@ -21349,15 +21760,26 @@
     <option name="minimum" path="Blank Lines" hit="Minimum Blank Lines" />
     <option name="conventions" path="Code Generation" hit="Naming conventions" />
     <option name="naming" path="Code Generation" hit="Naming conventions" />
+    <option name="appcomponent" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="case" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="pascal" path="Code Generation" hit="Pascal case (AppComponent)" />
     <option name="prefix" path="Code Generation" hit="Property prefix:" />
     <option name="property" path="Code Generation" hit="Property prefix:" />
     <option name="punctuation" path="Punctuation" hit="Punctuation" />
     <option name="remove" path="Punctuation" hit="Remove" />
+    <option name="case" path="Code Generation" hit="Reuse case of current file" />
+    <option name="current" path="Code Generation" hit="Reuse case of current file" />
+    <option name="file" path="Code Generation" hit="Reuse case of current file" />
+    <option name="of" path="Code Generation" hit="Reuse case of current file" />
+    <option name="reuse" path="Code Generation" hit="Reuse case of current file" />
     <option name="scheme" hit="Scheme:" />
     <option name="from" hit="Set from..." />
     <option name="set" hit="Set from..." />
     <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
     <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="app_component" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="case" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="snake" path="Code Generation" hit="Snake case (app_component)" />
     <option name="imported" path="Imports" hit="Sort imported members" />
     <option name="members" path="Imports" hit="Sort imported members" />
     <option name="sort" path="Imports" hit="Sort imported members" />
@@ -22319,14 +22741,6 @@
     <option name="use" path="Tabs and Indents" hit="Use tab character" />
   </configurable>
   <configurable id="preferences.sourceCode.PHP" configurable_name="PHP">
-    <option name="0" path="PHPDoc" hit="0" />
-    <option name="1" path="PHPDoc" hit="1" />
-    <option name="2" path="PHPDoc" hit="2" />
-    <option name="3" path="PHPDoc" hit="3" />
-    <option name="" path="PHPDoc" hit="@throws Tag Analysis" />
-    <option name="analysis" path="PHPDoc" hit="@throws Tag Analysis" />
-    <option name="tag" path="PHPDoc" hit="@throws Tag Analysis" />
-    <option name="throws" path="PHPDoc" hit="@throws Tag Analysis" />
     <option name="a" path="Code Conversion" hit="Add a comma after last element in multiline array" />
     <option name="add" path="Code Conversion" hit="Add a comma after last element in multiline array" />
     <option name="after" path="Code Conversion" hit="Add a comma after last element in multiline array" />
@@ -22405,10 +22819,6 @@
     <option name="column" path="Code Generation" hit="Block comment at first column" />
     <option name="comment" path="Code Generation" hit="Block comment at first column" />
     <option name="first" path="Code Generation" hit="Block comment at first column" />
-    <option name="analysis" path="PHPDoc" hit="Call tree analysis depth:" />
-    <option name="call" path="PHPDoc" hit="Call tree analysis depth:" />
-    <option name="depth" path="PHPDoc" hit="Call tree analysis depth:" />
-    <option name="tree" path="PHPDoc" hit="Call tree analysis depth:" />
     <option name="code" path="Code Conversion" hit="Code Conversion" />
     <option name="conversion" path="Code Conversion" hit="Code Conversion" />
     <option name="code" path="Code Generation" hit="Code Generation" />
@@ -22441,12 +22851,6 @@
     <option name="blocks" path="PHPDoc" hit="Generated Doc Blocks" />
     <option name="doc" path="PHPDoc" hit="Generated Doc Blocks" />
     <option name="generated" path="PHPDoc" hit="Generated Doc Blocks" />
-    <option name="exceptions" path="PHPDoc" hit="Ignore Logic exceptions" />
-    <option name="ignore" path="PHPDoc" hit="Ignore Logic exceptions" />
-    <option name="logic" path="PHPDoc" hit="Ignore Logic exceptions" />
-    <option name="exceptions" path="PHPDoc" hit="Ignore Runtime exceptions" />
-    <option name="ignore" path="PHPDoc" hit="Ignore Runtime exceptions" />
-    <option name="runtime" path="PHPDoc" hit="Ignore Runtime exceptions" />
     <option name="code" path="Blank Lines" hit="In code:" />
     <option name="in" path="Blank Lines" hit="In code:" />
     <option name="declarations" path="Blank Lines" hit="In declarations:" />
@@ -23495,6 +23899,11 @@
     <option name="generation" path="Code Generation" hit="Code Generation" />
     <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="around" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="force" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="modifiers" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="newlines" path="Other" hit="Force newlines around visibility modifiers" />
+    <option name="visibility" path="Other" hit="Force newlines around visibility modifiers" />
     <option name="access" path="Tabs and Indents" hit="Indent methods after access modifier:" />
     <option name="after" path="Tabs and Indents" hit="Indent methods after access modifier:" />
     <option name="indent" path="Tabs and Indents" hit="Indent methods after access modifier:" />
@@ -23881,12 +24290,24 @@
     <option name="column" path="Code Generation" hit="Block comment at first column" />
     <option name="comment" path="Code Generation" hit="Block comment at first column" />
     <option name="first" path="Code Generation" hit="Block comment at first column" />
+    <option name="appcomponent" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="camel" path="Code Generation" hit="Camel case (appComponent)" />
+    <option name="case" path="Code Generation" hit="Camel case (appComponent)" />
     <option name="code" path="Code Generation" hit="Code Generation" />
     <option name="generation" path="Code Generation" hit="Code Generation" />
     <option name="code" path="Code Generation" hit="Comment Code" />
     <option name="comment" path="Code Generation" hit="Comment Code" />
     <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="app-component" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="dash" path="Code Generation" hit="Dash case (app-component)" />
+    <option name="case" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="component" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="dash" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="my-app" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="suffix" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
+    <option name="with" path="Code Generation" hit="Dash case with suffix (my-app.component)" />
     <option name="do" path="Imports" hit="Do not import exactly from:" />
     <option name="exactly" path="Imports" hit="Do not import exactly from:" />
     <option name="from" path="Imports" hit="Do not import exactly from:" />
@@ -23897,6 +24318,8 @@
     <option name="use" path="Punctuation" hit="Don't use" />
     <option name="field" path="Code Generation" hit="Field prefix:" />
     <option name="prefix" path="Code Generation" hit="Field prefix:" />
+    <option name="convention" path="Code Generation" hit="Filename convention:" />
+    <option name="filename" path="Code Generation" hit="Filename convention:" />
     <option name="imports" path="Imports" hit="Imports" />
     <option name="code" path="Blank Lines" hit="In code:" />
     <option name="in" path="Blank Lines" hit="In code:" />
@@ -23940,15 +24363,26 @@
     <option name="minimum" path="Blank Lines" hit="Minimum Blank Lines" />
     <option name="conventions" path="Code Generation" hit="Naming conventions" />
     <option name="naming" path="Code Generation" hit="Naming conventions" />
+    <option name="appcomponent" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="case" path="Code Generation" hit="Pascal case (AppComponent)" />
+    <option name="pascal" path="Code Generation" hit="Pascal case (AppComponent)" />
     <option name="prefix" path="Code Generation" hit="Property prefix:" />
     <option name="property" path="Code Generation" hit="Property prefix:" />
     <option name="punctuation" path="Punctuation" hit="Punctuation" />
     <option name="remove" path="Punctuation" hit="Remove" />
+    <option name="case" path="Code Generation" hit="Reuse case of current file" />
+    <option name="current" path="Code Generation" hit="Reuse case of current file" />
+    <option name="file" path="Code Generation" hit="Reuse case of current file" />
+    <option name="of" path="Code Generation" hit="Reuse case of current file" />
+    <option name="reuse" path="Code Generation" hit="Reuse case of current file" />
     <option name="scheme" hit="Scheme:" />
     <option name="from" hit="Set from..." />
     <option name="set" hit="Set from..." />
     <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
     <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
+    <option name="app_component" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="case" path="Code Generation" hit="Snake case (app_component)" />
+    <option name="snake" path="Code Generation" hit="Snake case (app_component)" />
     <option name="imported" path="Imports" hit="Sort imported members" />
     <option name="members" path="Imports" hit="Sort imported members" />
     <option name="sort" path="Imports" hit="Sort imported members" />
@@ -24912,6 +25346,14 @@
     <option name="method" hit="JUnit5 Test Method" />
     <option name="test" hit="JUnit5 Test Method" />
     <option name="javafxapplication" hit="JavaFXApplication" />
+    <option name="body" hit="JavaScript Implemented Method Body" />
+    <option name="implemented" hit="JavaScript Implemented Method Body" />
+    <option name="javascript" hit="JavaScript Implemented Method Body" />
+    <option name="method" hit="JavaScript Implemented Method Body" />
+    <option name="body" hit="JavaScript Overridden Method Body" />
+    <option name="javascript" hit="JavaScript Overridden Method Body" />
+    <option name="method" hit="JavaScript Overridden Method Body" />
+    <option name="overridden" hit="JavaScript Overridden Method Body" />
     <option name="file" hit="Jsp File" />
     <option name="jsp" hit="Jsp File" />
     <option name="file" hit="Jspx File" />
@@ -25123,6 +25565,10 @@
     <option name="template" hit="TestUnit Test Template" />
     <option name="test" hit="TestUnit Test Template" />
     <option name="testunit" hit="TestUnit Test Template" />
+    <option name="body" hit="TypeScript Implemented Method Body" />
+    <option name="implemented" hit="TypeScript Implemented Method Body" />
+    <option name="method" hit="TypeScript Implemented Method Body" />
+    <option name="typescript" hit="TypeScript Implemented Method Body" />
     <option name="vaadin6application" hit="Vaadin6Application" />
     <option name="vaadin6clientwidget" hit="Vaadin6ClientWidget" />
     <option name="vaadin6widget" hit="Vaadin6Widget" />
@@ -25409,6 +25855,8 @@
     <option name="web" hit="web.3_0" />
     <option name="3_1" hit="web.3_1" />
     <option name="web" hit="web.3_1" />
+    <option name="4_0" hit="web.4_0" />
+    <option name="web" hit="web.4_0" />
     <option name="1_0" hit="webflow.1_0" />
     <option name="webflow" hit="webflow.1_0" />
     <option name="2_0" hit="webflow.2_0" />
@@ -26737,6 +27185,49 @@
     <option name="line" hit="Use line comment" />
     <option name="use" hit="Use line comment" />
   </configurable>
+  <configurable id="copyright.filetypes.Vue.js" configurable_name="Vue">
+    <option name="add" hit="Add blank line after" />
+    <option name="after" hit="Add blank line after" />
+    <option name="blank" hit="Add blank line after" />
+    <option name="line" hit="Add blank line after" />
+    <option name="after" hit="After other comments" />
+    <option name="comments" hit="After other comments" />
+    <option name="other" hit="After other comments" />
+    <option name="before" hit="Before other comments" />
+    <option name="comments" hit="Before other comments" />
+    <option name="other" hit="Before other comments" />
+    <option name="borders" hit="Borders" />
+    <option name="box" hit="Box" />
+    <option name="comment" hit="Comment Type" />
+    <option name="type" hit="Comment Type" />
+    <option name="length" hit="Length:" />
+    <option name="copyright" hit="No copyright" />
+    <option name="no" hit="No copyright" />
+    <option name="each" hit="Prefix each line" />
+    <option name="line" hit="Prefix each line" />
+    <option name="prefix" hit="Prefix each line" />
+    <option name="location" hit="Relative Location" />
+    <option name="relative" hit="Relative Location" />
+    <option name="after" hit="Separator after" />
+    <option name="separator" hit="Separator after" />
+    <option name="before" hit="Separator before" />
+    <option name="separator" hit="Separator before" />
+    <option name="separator" hit="Separator:" />
+    <option name="block" hit="Use block comment" />
+    <option name="comment" hit="Use block comment" />
+    <option name="use" hit="Use block comment" />
+    <option name="custom" hit="Use custom formatting options" />
+    <option name="formatting" hit="Use custom formatting options" />
+    <option name="options" hit="Use custom formatting options" />
+    <option name="use" hit="Use custom formatting options" />
+    <option name="default" hit="Use default settings" />
+    <option name="settings" hit="Use default settings" />
+    <option name="use" hit="Use default settings" />
+    <option name="comment" hit="Use line comment" />
+    <option name="line" hit="Use line comment" />
+    <option name="use" hit="Use line comment" />
+    <option name="vue" hit="Vue" />
+  </configurable>
   <configurable id="copyright.filetypes.XML" configurable_name="XML">
     <option name="add" hit="Add blank line after" />
     <option name="after" hit="Add blank line after" />
@@ -27006,12 +27497,9 @@
     <option name="of" hit="Color of 'white' cell:" />
     <option name="white" hit="Color of 'white' cell:" />
     <option name="editor" hit="Editor" />
-    <option name="enable" hit="Enable smart zooming for small images" />
-    <option name="for" hit="Enable smart zooming for small images" />
-    <option name="images" hit="Enable smart zooming for small images" />
-    <option name="small" hit="Enable smart zooming for small images" />
-    <option name="smart" hit="Enable smart zooming for small images" />
-    <option name="zooming" hit="Enable smart zooming for small images" />
+    <option name="enable" hit="Enable smart zooming" />
+    <option name="smart" hit="Enable smart zooming" />
+    <option name="zooming" hit="Enable smart zooming" />
     <option name="executable" hit="Executable path:" />
     <option name="path" hit="Executable path:" />
     <option name="editor" hit="External Editor" />
@@ -27079,26 +27567,39 @@
   <configurable id="reference.settings.ide.settings.spelling" configurable_name="Spelling">
     <option name="accepted" path="Accepted Words" hit="Accepted Words" />
     <option name="words" path="Accepted Words" hit="Accepted Words" />
-    <option name="add" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="dictionaries" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="folders" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="from" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="lists" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="load" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="plaintext" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="to" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="word" path="Dictionaries" hit="Add folders to load dictionaries (plaintext word lists) from" />
-    <option name="custom" path="Dictionaries" hit="Custom Dictionaries Folder" />
-    <option name="dictionaries" path="Dictionaries" hit="Custom Dictionaries Folder" />
-    <option name="folder" path="Dictionaries" hit="Custom Dictionaries Folder" />
+    <option name="add" path="Dictionaries" hit="Add custom dictionaries: plaintext word lists" />
+    <option name="custom" path="Dictionaries" hit="Add custom dictionaries: plaintext word lists" />
+    <option name="dictionaries" path="Dictionaries" hit="Add custom dictionaries: plaintext word lists" />
+    <option name="lists" path="Dictionaries" hit="Add custom dictionaries: plaintext word lists" />
+    <option name="plaintext" path="Dictionaries" hit="Add custom dictionaries: plaintext word lists" />
+    <option name="word" path="Dictionaries" hit="Add custom dictionaries: plaintext word lists" />
+    <option name="advanced" path="Dictionaries" hit="Advanced settings" />
+    <option name="settings" path="Dictionaries" hit="Advanced settings" />
+    <option name="bundled" path="Dictionaries" hit="Bundled Dictionaries" />
+    <option name="dictionaries" path="Dictionaries" hit="Bundled Dictionaries" />
+    <option name="custom" path="Dictionaries" hit="Custom Dictionaries" />
+    <option name="dictionaries" path="Dictionaries" hit="Custom Dictionaries" />
     <option name="dictionaries" path="Dictionaries" hit="Dictionaries" />
-    <option name="dictionaries" path="Dictionaries" hit="Enable/disable dictionaries for your project" />
-    <option name="disable" path="Dictionaries" hit="Enable/disable dictionaries for your project" />
-    <option name="enable" path="Dictionaries" hit="Enable/disable dictionaries for your project" />
-    <option name="for" path="Dictionaries" hit="Enable/disable dictionaries for your project" />
-    <option name="project" path="Dictionaries" hit="Enable/disable dictionaries for your project" />
-    <option name="your" path="Dictionaries" hit="Enable/disable dictionaries for your project" />
+    <option name="bundled" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="dictionaries" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="disable" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="enable" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="for" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="project" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="your" path="Dictionaries" hit="Enable/disable bundled dictionaries for your project" />
+    <option name="corrections" path="Dictionaries" hit="Max number of corrections" />
+    <option name="max" path="Dictionaries" hit="Max number of corrections" />
+    <option name="number" path="Dictionaries" hit="Max number of corrections" />
+    <option name="of" path="Dictionaries" hit="Max number of corrections" />
     <option name="spelling" hit="Spelling" />
+    <option name="dictionary" path="Dictionaries" hit="Use single dictionary for words saving" />
+    <option name="for" path="Dictionaries" hit="Use single dictionary for words saving" />
+    <option name="saving" path="Dictionaries" hit="Use single dictionary for words saving" />
+    <option name="single" path="Dictionaries" hit="Use single dictionary for words saving" />
+    <option name="use" path="Dictionaries" hit="Use single dictionary for words saving" />
+    <option name="words" path="Dictionaries" hit="Use single dictionary for words saving" />
+    <option name="application-level" path="Dictionaries" hit="application-level" />
+    <option name="project-level" path="Dictionaries" hit="project-level" />
   </configurable>
   <configurable id="reference.settingsdialog.textmate.bundles" configurable_name="TextMate Bundles">
     <option name="details" hit="Show details" />
@@ -27540,9 +28041,14 @@
     <option name="value" hit="value only (-kv)" />
   </configurable>
   <configurable id="vcs.Git" configurable_name="Git">
-    <option name="allow" hit="Allow force push" />
-    <option name="force" hit="Allow force push" />
-    <option name="push" hit="Allow force push" />
+    <option name="" hit=" Supported for Git 2.9+" />
+    <option name="2" hit=" Supported for Git 2.9+" />
+    <option name="9" hit=" Supported for Git 2.9+" />
+    <option name="for" hit=" Supported for Git 2.9+" />
+    <option name="git" hit=" Supported for Git 2.9+" />
+    <option name="supported" hit=" Supported for Git 2.9+" />
+    <option name="" hit=" minutes " />
+    <option name="minutes" hit=" minutes " />
     <option name="auto-update" hit="Auto-update if push of the current branch was rejected" />
     <option name="branch" hit="Auto-update if push of the current branch was rejected" />
     <option name="current" hit="Auto-update if push of the current branch was rejected" />
@@ -27566,6 +28072,16 @@
     <option name="operations" hit="Execute branch operations on all roots" />
     <option name="roots" hit="Execute branch operations on all roots" />
     <option name="git" hit="Git" />
+    <option name="branches" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="commits" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="have" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="in" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="incoming" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="mark" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="outgoing" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="popup" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="that" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
+    <option name="the" hit="Mark branches that have incoming/outgoing commits in the Branches popup. " />
     <option name="merge" hit="Merge" />
     <option name="native" hit="Native" />
     <option name="executable" hit="Path to Git executable:" />
@@ -27575,8 +28091,17 @@
     <option name="branches" hit="Protected branches:" />
     <option name="protected" hit="Protected branches:" />
     <option name="rebase" hit="Rebase" />
+    <option name="every" hit="Refresh every " />
+    <option name="refresh" hit="Refresh every " />
     <option name="executable" hit="SSH executable:" />
     <option name="ssh" hit="SSH executable:" />
+    <option name="current" hit="Set this path only for current project" />
+    <option name="for" hit="Set this path only for current project" />
+    <option name="only" hit="Set this path only for current project" />
+    <option name="path" hit="Set this path only for current project" />
+    <option name="project" hit="Set this path only for current project" />
+    <option name="set" hit="Set this path only for current project" />
+    <option name="this" hit="Set this path only for current project" />
     <option name="test" hit="Test" />
     <option name="method" hit="Update method:" />
     <option name="update" hit="Update method:" />
@@ -27601,28 +28126,35 @@
     <option name="when" hit="Warn when committing in detached HEAD or during rebase" />
   </configurable>
   <configurable id="vcs.Mercurial" configurable_name="Mercurial">
-    <option name="and" hit="Check for incoming and outgoing changesets" />
-    <option name="changesets" hit="Check for incoming and outgoing changesets" />
-    <option name="check" hit="Check for incoming and outgoing changesets" />
-    <option name="for" hit="Check for incoming and outgoing changesets" />
-    <option name="incoming" hit="Check for incoming and outgoing changesets" />
-    <option name="outgoing" hit="Check for incoming and outgoing changesets" />
+    <option name="and" hit="Check for  incoming and outgoing changesets" />
+    <option name="changesets" hit="Check for  incoming and outgoing changesets" />
+    <option name="check" hit="Check for  incoming and outgoing changesets" />
+    <option name="for" hit="Check for  incoming and outgoing changesets" />
+    <option name="incoming" hit="Check for  incoming and outgoing changesets" />
+    <option name="outgoing" hit="Check for  incoming and outgoing changesets" />
     <option name="all" hit="Execute branch operations on all roots" />
     <option name="branch" hit="Execute branch operations on all roots" />
     <option name="execute" hit="Execute branch operations on all roots" />
     <option name="on" hit="Execute branch operations on all roots" />
     <option name="operations" hit="Execute branch operations on all roots" />
     <option name="roots" hit="Execute branch operations on all roots" />
-    <option name="annotations" hit="Ignore whitespace differences in annotations" />
-    <option name="differences" hit="Ignore whitespace differences in annotations" />
-    <option name="ignore" hit="Ignore whitespace differences in annotations" />
-    <option name="in" hit="Ignore whitespace differences in annotations" />
-    <option name="whitespace" hit="Ignore whitespace differences in annotations" />
+    <option name="annotations" hit="Ignore  whitespace differences in annotations" />
+    <option name="differences" hit="Ignore  whitespace differences in annotations" />
+    <option name="ignore" hit="Ignore  whitespace differences in annotations" />
+    <option name="in" hit="Ignore  whitespace differences in annotations" />
+    <option name="whitespace" hit="Ignore  whitespace differences in annotations" />
     <option name="mercurial" hit="Mercurial" />
-    <option name="executable" hit="Path to hg executable" />
-    <option name="hg" hit="Path to hg executable" />
-    <option name="path" hit="Path to hg executable" />
-    <option name="to" hit="Path to hg executable" />
+    <option name="executable" hit="Path to executable" />
+    <option name="path" hit="Path to executable" />
+    <option name="to" hit="Path to executable" />
+    <option name="current" hit="Set this path only for the current project" />
+    <option name="for" hit="Set this path only for the current project" />
+    <option name="only" hit="Set this path only for the current project" />
+    <option name="path" hit="Set this path only for the current project" />
+    <option name="project" hit="Set this path only for the current project" />
+    <option name="set" hit="Set this path only for the current project" />
+    <option name="the" hit="Set this path only for the current project" />
+    <option name="this" hit="Set this path only for the current project" />
     <option name="test" hit="Test" />
   </configurable>
   <configurable id="vcs.Perforce" configurable_name="Perforce">
@@ -27755,10 +28287,6 @@
     <option name="only" hit="Update administrative information only in changed subtrees" />
     <option name="subtrees" hit="Update administrative information only in changed subtrees" />
     <option name="update" hit="Update administrative information only in changed subtrees" />
-    <option name="client" hit="Use command line client:" />
-    <option name="command" hit="Use command line client:" />
-    <option name="line" hit="Use command line client:" />
-    <option name="use" hit="Use command line client:" />
     <option name="configuration" hit="Use custom configuration directory:" />
     <option name="custom" hit="Use custom configuration directory:" />
     <option name="directory" hit="Use custom configuration directory:" />
@@ -27911,17 +28439,17 @@
     <option name="-t" hit=" Threads   (-T option):   " />
     <option name="option" hit=" Threads   (-T option):   " />
     <option name="threads" hit=" Threads   (-T option):   " />
-    <option name="" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="buildagent" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="c2d8dfcc72679944" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="community" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="lib" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="maven" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="maven3" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="maven3-server-impl" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="opt" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="plugins" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
-    <option name="work" hit="/opt/buildAgent/work/c2d8dfcc72679944/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="badab4356ffdd1f9" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="buildagent" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="community" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="lib" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="maven" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="maven3" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="maven3-server-impl" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="opt" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="plugins" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
+    <option name="work" hit="/opt/buildAgent/work/badab4356ffdd1f9/community/plugins/maven/maven3-server-impl/lib/maven3" />
     <option name="always" hit="Always update snapshots" />
     <option name="snapshots" hit="Always update snapshots" />
     <option name="update" hit="Always update snapshots" />
@@ -28232,6 +28760,13 @@
     <option name="project" hit="Use new 'Project Structure' dialog." />
     <option name="structure" hit="Use new 'Project Structure' dialog." />
     <option name="use" hit="Use new 'Project Structure' dialog." />
+    <option name="dependency" hit="Use new dependency mechanism during Gradle sync" />
+    <option name="during" hit="Use new dependency mechanism during Gradle sync" />
+    <option name="gradle" hit="Use new dependency mechanism during Gradle sync" />
+    <option name="mechanism" hit="Use new dependency mechanism during Gradle sync" />
+    <option name="new" hit="Use new dependency mechanism during Gradle sync" />
+    <option name="sync" hit="Use new dependency mechanism during Gradle sync" />
+    <option name="use" hit="Use new dependency mechanism during Gradle sync" />
     <option name="a" hit="When importing a project, select the Modules to be visible in the IDE (helps improve IDE performance when working on big projects.)" />
     <option name="be" hit="When importing a project, select the Modules to be visible in the IDE (helps improve IDE performance when working on big projects.)" />
     <option name="big" hit="When importing a project, select the Modules to be visible in the IDE (helps improve IDE performance when working on big projects.)" />
@@ -28402,14 +28937,12 @@
     <option name="3" hit="1.3" />
     <option name="1" hit="1.4" />
     <option name="4" hit="1.4" />
-    <option name="1" hit="1.5" />
-    <option name="5" hit="1.5" />
-    <option name="1" hit="1.6" />
-    <option name="6" hit="1.6" />
-    <option name="1" hit="1.7" />
-    <option name="7" hit="1.7" />
-    <option name="1" hit="1.8" />
-    <option name="8" hit="1.8" />
+    <option name="10" hit="10" />
+    <option name="11" hit="11" />
+    <option name="5" hit="5" />
+    <option name="6" hit="6" />
+    <option name="7" hit="7" />
+    <option name="8" hit="8" />
     <option name="9" hit="9" />
     <option name="additional" hit="Additional command line parameters:" />
     <option name="command" hit="Additional command line parameters:" />
@@ -28459,6 +28992,16 @@
     <option name="compiler" hit="Path to Ajc compiler:" />
     <option name="path" hit="Path to Ajc compiler:" />
     <option name="to" hit="Path to Ajc compiler:" />
+    <option name="batch" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="bundled" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="compiler" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="ecj" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="empty" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="leave" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="path" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="to" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="tool" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="use" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
     <option name="groovy-eclipse-batch" hit="Path to groovy-eclipse-batch jar:" />
     <option name="jar" hit="Path to groovy-eclipse-batch jar:" />
     <option name="path" hit="Path to groovy-eclipse-batch jar:" />
@@ -28478,6 +29021,15 @@
     <option name="report" hit="Report use of deprecated features" />
     <option name="use" hit="Report use of deprecated features" />
     <option name="test" hit="Test" />
+    <option name="--release" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="9" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="and" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="cross-compilation" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="for" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="java" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="later" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="option" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="use" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
     <option name="compiler" hit="Use compiler from module target JDK when possible" />
     <option name="from" hit="Use compiler from module target JDK when possible" />
     <option name="jdk" hit="Use compiler from module target JDK when possible" />
@@ -28639,6 +29191,10 @@
     <option name="allow" hit="Allow unsigned requests" />
     <option name="requests" hit="Allow unsigned requests" />
     <option name="unsigned" hit="Allow unsigned requests" />
+    <option name="adb" hit="Android Debug Bridge (adb)" />
+    <option name="android" hit="Android Debug Bridge (adb)" />
+    <option name="bridge" hit="Android Debug Bridge (adb)" />
+    <option name="debug" hit="Android Debug Bridge (adb)" />
     <option name="attach" hit="Attach to subprocesses automatically while debugging" />
     <option name="automatically" hit="Attach to subprocesses automatically while debugging" />
     <option name="debugging" hit="Attach to subprocesses automatically while debugging" />
@@ -28690,6 +29246,8 @@
     <option name="kill" hit="Kill the debug process immediately" />
     <option name="process" hit="Kill the debug process immediately" />
     <option name="the" hit="Kill the debug process immediately" />
+    <option name="logcat" hit="Logcat output" />
+    <option name="output" hit="Logcat output" />
     <option name="limit" hit="Memory limit" />
     <option name="memory" hit="Memory limit" />
     <option name="port" hit="Port:" />
@@ -28718,6 +29276,20 @@
     <option name="show" hit="Show alternative source switcher" />
     <option name="source" hit="Show alternative source switcher" />
     <option name="switcher" hit="Show alternative source switcher" />
+    <option name="application" hit="Show application logcat messages in Debug Console" />
+    <option name="console" hit="Show application logcat messages in Debug Console" />
+    <option name="debug" hit="Show application logcat messages in Debug Console" />
+    <option name="in" hit="Show application logcat messages in Debug Console" />
+    <option name="logcat" hit="Show application logcat messages in Debug Console" />
+    <option name="messages" hit="Show application logcat messages in Debug Console" />
+    <option name="show" hit="Show application logcat messages in Debug Console" />
+    <option name="application" hit="Show application logcat messages in Run Console" />
+    <option name="console" hit="Show application logcat messages in Run Console" />
+    <option name="in" hit="Show application logcat messages in Run Console" />
+    <option name="logcat" hit="Show application logcat messages in Run Console" />
+    <option name="messages" hit="Show application logcat messages in Run Console" />
+    <option name="run" hit="Show application logcat messages in Run Console" />
+    <option name="show" hit="Show application logcat messages in Run Console" />
     <option name="breakpoint" hit="Show debug window on breakpoint" />
     <option name="debug" hit="Show debug window on breakpoint" />
     <option name="on" hit="Show debug window on breakpoint" />
@@ -28729,6 +29301,9 @@
     <option name="to_s" hit="Trace `to_s` evaluation" />
     <option name="trace" hit="Trace `to_s` evaluation" />
     <option name="transport" hit="Transport:" />
+    <option name="backend" hit="Use libusb backend" />
+    <option name="libusb" hit="Use libusb backend" />
+    <option name="use" hit="Use libusb backend" />
     <option name="debugger" hit="Verbose debugger output" />
     <option name="output" hit="Verbose debugger output" />
     <option name="verbose" hit="Verbose debugger output" />
@@ -28784,6 +29359,12 @@
     <option name="local" hit="$val fields as local  variables" />
     <option name="val" hit="$val fields as local  variables" />
     <option name="variables" hit="$val fields as local  variables" />
+    <option name="auto" hit="Auto populate Throwable object's stacktrace" />
+    <option name="object" hit="Auto populate Throwable object's stacktrace" />
+    <option name="populate" hit="Auto populate Throwable object's stacktrace" />
+    <option name="s" hit="Auto populate Throwable object's stacktrace" />
+    <option name="stacktrace" hit="Auto populate Throwable object's stacktrace" />
+    <option name="throwable" hit="Auto populate Throwable object's stacktrace" />
     <option name="autoscroll" hit="Autoscroll to new  local variables" />
     <option name="local" hit="Autoscroll to new  local variables" />
     <option name="new" hit="Autoscroll to new  local variables" />
@@ -29318,9 +29899,11 @@
     <option name="of" hit="Ignore empty private constructors of utility classes" />
     <option name="private" hit="Ignore empty private constructors of utility classes" />
     <option name="utility" hit="Ignore empty private constructors of utility classes" />
-    <option name="constructors" hit="Ignore implicit constructors" />
-    <option name="ignore" hit="Ignore implicit constructors" />
-    <option name="implicit" hit="Ignore implicit constructors" />
+    <option name="constructors" hit="Ignore implicitly declared default constructors" />
+    <option name="declared" hit="Ignore implicitly declared default constructors" />
+    <option name="default" hit="Ignore implicitly declared default constructors" />
+    <option name="ignore" hit="Ignore implicitly declared default constructors" />
+    <option name="implicitly" hit="Ignore implicitly declared default constructors" />
     <option name="coverage" hit="Java coverage" />
     <option name="java" hit="Java coverage" />
     <option name="coverage" hit="Python coverage" />
@@ -29761,6 +30344,15 @@
     <option name="bower" hit="bower.json:" />
     <option name="json" hit="bower.json:" />
   </configurable>
+  <configurable id="settings.yeoman" configurable_name="Yeoman">
+    <option name="" hit=" Yeoman  yo  package: " />
+    <option name="package" hit=" Yeoman  yo  package: " />
+    <option name="yeoman" hit=" Yeoman  yo  package: " />
+    <option name="yo" hit=" Yeoman  yo  package: " />
+    <option name="interpreter" hit="Node interpreter:" />
+    <option name="node" hit="Node interpreter:" />
+    <option name="yeoman" hit="Yeoman" />
+  </configurable>
   <configurable id="reference.webide.settings.project.settings.php" configurable_name="PHP">
     <option name="" path="PHP Runtime" hit=" Note: core extensions are part of the PHP core and cannot be left out of a PHP binary with compilation options. " />
     <option name="a" path="PHP Runtime" hit=" Note: core extensions are part of the PHP core and cannot be left out of a PHP binary with compilation options. " />
@@ -29781,14 +30373,25 @@
     <option name="php" path="PHP Runtime" hit=" Note: core extensions are part of the PHP core and cannot be left out of a PHP binary with compilation options. " />
     <option name="the" path="PHP Runtime" hit=" Note: core extensions are part of the PHP core and cannot be left out of a PHP binary with compilation options. " />
     <option name="with" path="PHP Runtime" hit=" Note: core extensions are part of the PHP core and cannot be left out of a PHP binary with compilation options. " />
+    <option name="0" path="Analysis" hit="0" />
+    <option name="1" path="Analysis" hit="1" />
+    <option name="2" path="Analysis" hit="2" />
+    <option name="3" path="Analysis" hit="3" />
     <option name="ad" path="PHP Runtime" hit="Ad vanced settings" />
     <option name="settings" path="PHP Runtime" hit="Ad vanced settings" />
     <option name="vanced" path="PHP Runtime" hit="Ad vanced settings" />
+    <option name="analysis" path="Analysis" hit="Analysis" />
     <option name="cli" hit="CLI Interpreter:" />
     <option name="interpreter" hit="CLI Interpreter:" />
+    <option name="analysis" path="Analysis" hit="Call tree analysis depth:" />
+    <option name="call" path="Analysis" hit="Call tree analysis depth:" />
+    <option name="depth" path="Analysis" hit="Call tree analysis depth:" />
+    <option name="tree" path="Analysis" hit="Call tree analysis depth:" />
     <option name="default" path="PHP Runtime" hit="Default stubs path:" />
     <option name="path" path="PHP Runtime" hit="Default stubs path:" />
     <option name="stubs" path="PHP Runtime" hit="Default stubs path:" />
+    <option name="analysis" path="Analysis" hit="Exception Analysis" />
+    <option name="exception" path="Analysis" hit="Exception Analysis" />
     <option name="include" path="Include Path" hit="Include Path" />
     <option name="path" path="Include Path" hit="Include Path" />
     <option name="php" hit="PHP" />
@@ -29801,6 +30404,8 @@
     <option name="interpreter" path="PHP Runtime" hit="Sync Extensions with Interpreter" />
     <option name="sync" path="PHP Runtime" hit="Sync Extensions with Interpreter" />
     <option name="with" path="PHP Runtime" hit="Sync Extensions with Interpreter" />
+    <option name="exceptions" path="Analysis" hit="Unchecked Exceptions" />
+    <option name="unchecked" path="Analysis" hit="Unchecked Exceptions" />
   </configurable>
   <configurable id="reference.webide.settings.project.settings.php.debug" configurable_name="Debug">
     <option name="1" hit="1. Install" />
@@ -29991,6 +30596,9 @@
     <option name="getcomposer" hit="Download composer.phar from getcomposer.org" />
     <option name="org" hit="Download composer.phar from getcomposer.org" />
     <option name="phar" hit="Download composer.phar from getcomposer.org" />
+    <option name="editor" hit="Open In Editor" />
+    <option name="in" hit="Open In Editor" />
+    <option name="open" hit="Open In Editor" />
     <option name="interpreter" hit="PHP interpreter:" />
     <option name="php" hit="PHP interpreter:" />
     <option name="composer" hit="Path to composer.json:" />
@@ -30138,6 +30746,24 @@
     <option name="scenebuilder" hit="Path to SceneBuilder:" />
     <option name="to" hit="Path to SceneBuilder:" />
   </configurable>
+  <configurable id="com.intellij.kubernetes.config.KubernetesConfigurable" configurable_name="Kubernetes">
+    <option name="1" hit="1.5" />
+    <option name="5" hit="1.5" />
+    <option name="1" hit="1.6" />
+    <option name="6" hit="1.6" />
+    <option name="1" hit="1.7" />
+    <option name="7" hit="1.7" />
+    <option name="1" hit="1.8" />
+    <option name="8" hit="1.8" />
+    <option name="1" hit="1.9" />
+    <option name="9" hit="1.9" />
+    <option name="kubernetes" hit="Kubernetes" />
+    <option name="api" hit="Kubernetes API version:" />
+    <option name="kubernetes" hit="Kubernetes API version:" />
+    <option name="version" hit="Kubernetes API version:" />
+    <option name="latest" hit="Latest Version" />
+    <option name="version" hit="Latest Version" />
+  </configurable>
   <configurable id="Settings.Markdown" configurable_name="Markdown">
     <option name="add" hit="Add CSS rules:" />
     <option name="css" hit="Add CSS rules:" />
@@ -30146,7 +30772,6 @@
     <option name="preview" hit="Auto-scroll preview" />
     <option name="css" hit="Custom CSS" />
     <option name="custom" hit="Custom CSS" />
-    <option name="default" hit="Default" />
     <option name="default" hit="Default layout:" />
     <option name="layout" hit="Default layout:" />
     <option name="and" hit="Editor and preview" />
@@ -30165,24 +30790,23 @@
     <option name="preview" hit="Preview browser:" />
     <option name="only" hit="Preview only" />
     <option name="preview" hit="Preview only" />
-    <option name="javafx" hit="Render with JavaFX WebView" />
-    <option name="render" hit="Render with JavaFX WebView" />
-    <option name="webview" hit="Render with JavaFX WebView" />
-    <option name="with" hit="Render with JavaFX WebView" />
   </configurable>
   <configurable id="settings.nodejs" configurable_name="Node.js and NPM">
-    <option name="assistance" hit="Coding Assistance" />
-    <option name="coding" hit="Coding Assistance" />
+    <option name="assistance" hit="Coding assistance for Node.js" />
+    <option name="coding" hit="Coding assistance for Node.js" />
+    <option name="for" hit="Coding assistance for Node.js" />
+    <option name="js" hit="Coding assistance for Node.js" />
+    <option name="node" hit="Coding assistance for Node.js" />
+    <option name="manage" hit="Manage Scopes..." />
+    <option name="scopes" hit="Manage Scopes..." />
     <option name="interpreter" hit="Node interpreter:" />
     <option name="node" hit="Node interpreter:" />
     <option name="and" hit="Node.js and NPM" />
     <option name="js" hit="Node.js and NPM" />
     <option name="node" hit="Node.js and NPM" />
     <option name="npm" hit="Node.js and NPM" />
-    <option name="js" hit="Unknown Node.js version" />
-    <option name="node" hit="Unknown Node.js version" />
-    <option name="unknown" hit="Unknown Node.js version" />
-    <option name="version" hit="Unknown Node.js version" />
+    <option name="manager" hit="Package manager:" />
+    <option name="package" hit="Package manager:" />
   </configurable>
   <configurable id="reference.settings.project.osgi.project.settings" configurable_name="OSGi">
     <option name="all" hit="Apply  to all facets" />
@@ -30277,6 +30901,8 @@
     <option name="run" hit="Create Run Configuration automatically" />
     <option name="health" hit="Health" />
     <option name="initializr" hit="Initializr" />
+    <option name="code" hit="Reformat Code" />
+    <option name="reformat" hit="Reformat Code" />
     <option name="every" hit="Refresh status every" />
     <option name="refresh" hit="Refresh status every" />
     <option name="status" hit="Refresh status every" />
@@ -30387,6 +31013,8 @@
     <option name="on" hit="Copy to clipboard on selection" />
     <option name="selection" hit="Copy to clipboard on selection" />
     <option name="to" hit="Copy to clipboard on selection" />
+    <option name="highlight" hit="Highlight hyperlinks" />
+    <option name="hyperlinks" hit="Highlight hyperlinks" />
     <option name="mouse" hit="Mouse reporting" />
     <option name="reporting" hit="Mouse reporting" />
     <option name="ide" hit="Override IDE shortcuts" />
@@ -30588,6 +31216,7 @@
     <option name="servers" hit="Configure Servers" />
     <option name="connection" hit="Connection settings" />
     <option name="settings" hit="Connection settings" />
+    <option name="create" hit="Create" />
     <option name="current" hit="Current Vagrant" />
     <option name="vagrant" hit="Current Vagrant" />
     <option name="default" hit="Default Remote Interpreter" />
@@ -30597,6 +31226,7 @@
     <option name="encoding" hit="Default encoding:" />
     <option name="deployment" hit="Deployment server" />
     <option name="server" hit="Deployment server" />
+    <option name="move" hit="Move" />
     <option name="ssh" hit="SSH Terminal" />
     <option name="terminal" hit="SSH Terminal" />
     <option name="every" hit="Select server on every run" />
@@ -30604,6 +31234,19 @@
     <option name="run" hit="Select server on every run" />
     <option name="select" hit="Select server on every run" />
     <option name="server" hit="Select server on every run" />
+    <option name="copy" hit="copy of this deployment server in IDE settings" />
+    <option name="deployment" hit="copy of this deployment server in IDE settings" />
+    <option name="ide" hit="copy of this deployment server in IDE settings" />
+    <option name="in" hit="copy of this deployment server in IDE settings" />
+    <option name="of" hit="copy of this deployment server in IDE settings" />
+    <option name="server" hit="copy of this deployment server in IDE settings" />
+    <option name="settings" hit="copy of this deployment server in IDE settings" />
+    <option name="this" hit="copy of this deployment server in IDE settings" />
+    <option name="ide" hit="this server to IDE settings" />
+    <option name="server" hit="this server to IDE settings" />
+    <option name="settings" hit="this server to IDE settings" />
+    <option name="this" hit="this server to IDE settings" />
+    <option name="to" hit="this server to IDE settings" />
   </configurable>
   <configurable id="asprofile.settings" configurable_name="ActionScript Profiler">
     <option name="actionscript" hit="ActionScript Profiler" />
