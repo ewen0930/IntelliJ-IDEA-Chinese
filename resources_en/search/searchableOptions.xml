@@ -361,6 +361,10 @@
     <option name="remember" hit="Remember" />
     <option name="socks" hit="SOCKS" />
   </configurable>
+  <configurable id="consents" configurable_name="Data Sharing">
+    <option name="data" hit="Data Sharing" />
+    <option name="sharing" hit="Data Sharing" />
+  </configurable>
   <configurable id="preferences.updates" configurable_name="Updates">
     <option name="01" hit="01.05.2005" />
     <option name="05" hit="01.05.2005" />
@@ -385,10 +389,11 @@
     <option name="program" hit="Early Access Program" />
     <option name="iu-181" hit="IU-181.SNAPSHOT" />
     <option name="snapshot" hit="IU-181.SNAPSHOT" />
-    <option name="1" hit="IntelliJ IDEA 2018.1" />
-    <option name="2018" hit="IntelliJ IDEA 2018.1" />
-    <option name="idea" hit="IntelliJ IDEA 2018.1" />
-    <option name="intellij" hit="IntelliJ IDEA 2018.1" />
+    <option name="1" hit="IntelliJ IDEA 2018.1.2" />
+    <option name="2" hit="IntelliJ IDEA 2018.1.2" />
+    <option name="2018" hit="IntelliJ IDEA 2018.1.2" />
+    <option name="idea" hit="IntelliJ IDEA 2018.1.2" />
+    <option name="intellij" hit="IntelliJ IDEA 2018.1.2" />
     <option name="checked" hit="Last checked" />
     <option name="last" hit="Last checked" />
     <option name="channel" hit="Please note that this channel is less stable than your current one." />
@@ -2331,9 +2336,6 @@
     <option name="content" path="ActionManager" hit="Close currently focused content" />
     <option name="currently" path="ActionManager" hit="Close currently focused content" />
     <option name="focused" path="ActionManager" hit="Close currently focused content" />
-    <option name="close" path="ActionManager" hit="Close database console" />
-    <option name="console" path="ActionManager" hit="Close database console" />
-    <option name="database" path="ActionManager" hit="Close database console" />
     <option name="close" path="ActionManager" hit="Close other views" />
     <option name="other" path="ActionManager" hit="Close other views" />
     <option name="views" path="ActionManager" hit="Close other views" />
@@ -3958,12 +3960,6 @@
     <option name="editor" path="ActionManager" hit="Data Editor" />
     <option name="data" path="ActionManager" hit="Data Extractor" />
     <option name="extractor" path="ActionManager" hit="Data Extractor" />
-    <option name="data" path="ActionManager" hit="Data Sharing Options" />
-    <option name="options" path="ActionManager" hit="Data Sharing Options" />
-    <option name="sharing" path="ActionManager" hit="Data Sharing Options" />
-    <option name="data" path="ActionManager" hit="Data Sharing Options..." />
-    <option name="options" path="ActionManager" hit="Data Sharing Options..." />
-    <option name="sharing" path="ActionManager" hit="Data Sharing Options..." />
     <option name="data" path="ActionManager" hit="Data Source" />
     <option name="source" path="ActionManager" hit="Data Source" />
     <option name="data" path="ActionManager" hit="Data Source Properties" />
@@ -7223,10 +7219,17 @@
     <option name="minimize" path="ActionManager" hit="Minimize current window" />
     <option name="window" path="ActionManager" hit="Minimize current window" />
     <option name="mixin" path="ActionManager" hit="Mixin" />
+    <option name="comment" path="ActionManager" hit="Modify Comment..." />
+    <option name="modify" path="ActionManager" hit="Modify Comment..." />
     <option name="indices" path="ActionManager" hit="Modify Indices" />
     <option name="modify" path="ActionManager" hit="Modify Indices" />
     <option name="modify" path="ActionManager" hit="Modify Object..." />
     <option name="object" path="ActionManager" hit="Modify Object..." />
+    <option name="column" path="ActionManager" hit="Modify comment for selected column" />
+    <option name="comment" path="ActionManager" hit="Modify comment for selected column" />
+    <option name="for" path="ActionManager" hit="Modify comment for selected column" />
+    <option name="modify" path="ActionManager" hit="Modify comment for selected column" />
+    <option name="selected" path="ActionManager" hit="Modify comment for selected column" />
     <option name="modify" path="ActionManager" hit="Modify value of selected node" />
     <option name="node" path="ActionManager" hit="Modify value of selected node" />
     <option name="of" path="ActionManager" hit="Modify value of selected node" />
@@ -13712,13 +13715,9 @@
     <option name="ask" hit="Ask" />
     <option name="auto" hit="Auto Import" />
     <option name="import" hit="Auto Import" />
+    <option name="class" hit="Class" />
+    <option name="constant" hit="Constant" />
     <option name="dart" hit="Dart" />
-    <option name="auto-import" hit="Enable auto-import from the global space" />
-    <option name="enable" hit="Enable auto-import from the global space" />
-    <option name="from" hit="Enable auto-import from the global space" />
-    <option name="global" hit="Enable auto-import from the global space" />
-    <option name="space" hit="Enable auto-import from the global space" />
-    <option name="the" hit="Enable auto-import from the global space" />
     <option name="auto-import" hit="Enable auto-import in file scope" />
     <option name="enable" hit="Enable auto-import in file scope" />
     <option name="file" hit="Enable auto-import in file scope" />
@@ -13734,6 +13733,7 @@
     <option name="exclude" hit="Exclude from import and completion:" />
     <option name="from" hit="Exclude from import and completion:" />
     <option name="import" hit="Exclude from import and completion:" />
+    <option name="function" hit="Function" />
     <option name="imports" hit="Insert imports on paste:" />
     <option name="insert" hit="Insert imports on paste:" />
     <option name="on" hit="Insert imports on paste:" />
@@ -13756,15 +13756,6 @@
     <option name="import" hit="Preferred import style:" />
     <option name="preferred" hit="Preferred import style:" />
     <option name="style" hit="Preferred import style:" />
-    <option name="and" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="constants" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="from" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="functions" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="global" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="prepend" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="space" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="the" hit="Prepend functions and constants from the global space with '\'" />
-    <option name="with" hit="Prepend functions and constants from the global space with '\'" />
     <option name="python" hit="Python" />
     <option name="import" hit="Show import popup" />
     <option name="popup" hit="Show import popup" />
@@ -13773,6 +13764,12 @@
     <option name="import" hit="Show import popup for:" />
     <option name="popup" hit="Show import popup for:" />
     <option name="show" hit="Show import popup for:" />
+    <option name="from" hit="Treat symbols from the global space" />
+    <option name="global" hit="Treat symbols from the global space" />
+    <option name="space" hit="Treat symbols from the global space" />
+    <option name="symbols" hit="Treat symbols from the global space" />
+    <option name="the" hit="Treat symbols from the global space" />
+    <option name="treat" hit="Treat symbols from the global space" />
     <option name="javascript" hit="TypeScript / JavaScript" />
     <option name="typescript" hit="TypeScript / JavaScript" />
     <option name="fly" hit="Unambiguous imports on the fly" />
@@ -13792,6 +13789,12 @@
     <option name="from" hit="from   import  " />
     <option name="import" hit="from   import  " />
     <option name="import" hit="import  . " />
+    <option name="fqn" hit="prefer FQN" />
+    <option name="prefer" hit="prefer FQN" />
+    <option name="fallback" hit="prefer fallback" />
+    <option name="prefer" hit="prefer fallback" />
+    <option name="import" hit="prefer import" />
+    <option name="prefer" hit="prefer import" />
     <option name="and" hit="static methods and fields" />
     <option name="fields" hit="static methods and fields" />
     <option name="methods" hit="static methods and fields" />
@@ -17798,6 +17801,8 @@
     <option name="group" hit="Group by clause" />
     <option name="declarations" hit="Group declarations" />
     <option name="group" hit="Group declarations" />
+    <option name="group" hit="Group use" />
+    <option name="use" hit="Group use" />
     <option name="grouping" hit="Grouping parentheses" />
     <option name="parentheses" hit="Grouping parentheses" />
     <option name="expression" hit="Groups inside values expression" />
@@ -19079,8 +19084,7 @@
     <option name="case" path="Code Generation" hit="Camel case (appComponent)" />
     <option name="code" path="Code Generation" hit="Code Generation" />
     <option name="generation" path="Code Generation" hit="Code Generation" />
-    <option name="code" path="Code Generation" hit="Comment Code" />
-    <option name="comment" path="Code Generation" hit="Comment Code" />
+    <option name="comments" path="Code Generation" hit="Comments" />
     <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="app-component" path="Code Generation" hit="Dash case (app-component)" />
@@ -19101,6 +19105,10 @@
     <option name="filename" path="Code Generation" hit="Filename convention:" />
     <option name="code" path="Blank Lines" hit="In code:" />
     <option name="in" path="Blank Lines" hit="In code:" />
+    <option name="in" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="include" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="jsdoc" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="types" path="Code Generation" hit="Include types in JSDoc" />
     <option name="indent" path="Tabs and Indents" hit="Indent:" />
     <option name="keep" path="Punctuation" hit="Keep" />
     <option name="blank" path="Blank Lines" hit="Keep Maximum Blank Lines" />
@@ -21696,8 +21704,7 @@
     <option name="case" path="Code Generation" hit="Camel case (appComponent)" />
     <option name="code" path="Code Generation" hit="Code Generation" />
     <option name="generation" path="Code Generation" hit="Code Generation" />
-    <option name="code" path="Code Generation" hit="Comment Code" />
-    <option name="comment" path="Code Generation" hit="Comment Code" />
+    <option name="comments" path="Code Generation" hit="Comments" />
     <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="app-component" path="Code Generation" hit="Dash case (app-component)" />
@@ -21719,6 +21726,10 @@
     <option name="imports" path="Imports" hit="Imports" />
     <option name="code" path="Blank Lines" hit="In code:" />
     <option name="in" path="Blank Lines" hit="In code:" />
+    <option name="in" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="include" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="jsdoc" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="types" path="Code Generation" hit="Include types in JSDoc" />
     <option name="a" path="Tabs and Indents" hit="Indent all chained calls in a group" />
     <option name="all" path="Tabs and Indents" hit="Indent all chained calls in a group" />
     <option name="calls" path="Tabs and Indents" hit="Indent all chained calls in a group" />
@@ -21810,6 +21821,12 @@
     <option name="resolution" path="Imports" hit="Use directory import when index.js is available (node-style module resolution)" />
     <option name="use" path="Imports" hit="Use directory import when index.js is available (node-style module resolution)" />
     <option name="when" path="Imports" hit="Use directory import when index.js is available (node-style module resolution)" />
+    <option name="extension" path="Imports" hit="Use file extension in module name" />
+    <option name="file" path="Imports" hit="Use file extension in module name" />
+    <option name="in" path="Imports" hit="Use file extension in module name" />
+    <option name="module" path="Imports" hit="Use file extension in module name" />
+    <option name="name" path="Imports" hit="Use file extension in module name" />
+    <option name="use" path="Imports" hit="Use file extension in module name" />
     <option name="or" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
     <option name="paths" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
     <option name="project" path="Imports" hit="Use paths relative to the project, resource or sources roots" />
@@ -23211,6 +23228,8 @@
     <option name="type" hit="Function return type" />
     <option name="declarations" hit="Group declarations" />
     <option name="group" hit="Group declarations" />
+    <option name="group" hit="Group use" />
+    <option name="use" hit="Group use" />
     <option name="grouping" hit="Grouping parentheses" />
     <option name="parentheses" hit="Grouping parentheses" />
     <option name="at" hit="Hard wrap at" />
@@ -24295,8 +24314,7 @@
     <option name="case" path="Code Generation" hit="Camel case (appComponent)" />
     <option name="code" path="Code Generation" hit="Code Generation" />
     <option name="generation" path="Code Generation" hit="Code Generation" />
-    <option name="code" path="Code Generation" hit="Comment Code" />
-    <option name="comment" path="Code Generation" hit="Comment Code" />
+    <option name="comments" path="Code Generation" hit="Comments" />
     <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
     <option name="app-component" path="Code Generation" hit="Dash case (app-component)" />
@@ -24323,6 +24341,10 @@
     <option name="imports" path="Imports" hit="Imports" />
     <option name="code" path="Blank Lines" hit="In code:" />
     <option name="in" path="Blank Lines" hit="In code:" />
+    <option name="in" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="include" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="jsdoc" path="Code Generation" hit="Include types in JSDoc" />
+    <option name="types" path="Code Generation" hit="Include types in JSDoc" />
     <option name="a" path="Tabs and Indents" hit="Indent all chained calls in a group" />
     <option name="all" path="Tabs and Indents" hit="Indent all chained calls in a group" />
     <option name="calls" path="Tabs and Indents" hit="Indent all chained calls in a group" />
@@ -24403,6 +24425,13 @@
     <option name="modifier" path="Code Generation" hit="Use 'public' modifier" />
     <option name="public" path="Code Generation" hit="Use 'public' modifier" />
     <option name="use" path="Code Generation" hit="Use 'public' modifier" />
+    <option name="extension" path="Imports" hit="Use .js file extension in module name" />
+    <option name="file" path="Imports" hit="Use .js file extension in module name" />
+    <option name="in" path="Imports" hit="Use .js file extension in module name" />
+    <option name="js" path="Imports" hit="Use .js file extension in module name" />
+    <option name="module" path="Imports" hit="Use .js file extension in module name" />
+    <option name="name" path="Imports" hit="Use .js file extension in module name" />
+    <option name="use" path="Imports" hit="Use .js file extension in module name" />
     <option name="available" path="Imports" hit="Use directory import when index.js is available (node-style module resolution)" />
     <option name="directory" path="Imports" hit="Use directory import when index.js is available (node-style module resolution)" />
     <option name="import" path="Imports" hit="Use directory import when index.js is available (node-style module resolution)" />
@@ -28930,6 +28959,13 @@
     <option name="excludes" hit="Excludes" />
   </configurable>
   <configurable id="reference.projectsettings.compiler.javacompiler" configurable_name="Java Compiler">
+    <option name="" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="configurations" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="cross-platform" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="for" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="in" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="paths" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="recommended" hit="('/' recommended in paths for cross-platform configurations)" />
     <option name="1" hit="1.1" />
     <option name="1" hit="1.2" />
     <option name="2" hit="1.2" />
@@ -30747,6 +30783,8 @@
     <option name="to" hit="Path to SceneBuilder:" />
   </configurable>
   <configurable id="com.intellij.kubernetes.config.KubernetesConfigurable" configurable_name="Kubernetes">
+    <option name="1" hit="1.10" />
+    <option name="10" hit="1.10" />
     <option name="1" hit="1.5" />
     <option name="5" hit="1.5" />
     <option name="1" hit="1.6" />
@@ -31048,7 +31086,13 @@
     <option name="execute" hit="Ask what to execute" />
     <option name="to" hit="Ask what to execute" />
     <option name="what" hit="Ask what to execute" />
-    <option name="console" hit="Console" />
+    <option name="cancellation" hit="Confirm cancellation for dialogs that modify schema" />
+    <option name="confirm" hit="Confirm cancellation for dialogs that modify schema" />
+    <option name="dialogs" hit="Confirm cancellation for dialogs that modify schema" />
+    <option name="for" hit="Confirm cancellation for dialogs that modify schema" />
+    <option name="modify" hit="Confirm cancellation for dialogs that modify schema" />
+    <option name="schema" hit="Confirm cancellation for dialogs that modify schema" />
+    <option name="that" hit="Confirm cancellation for dialogs that modify schema" />
     <option name="ctrl" hit="Ctrl+Enter" />
     <option name="enter" hit="Ctrl+Enter" />
     <option name="database" hit="Database" />
@@ -31074,39 +31118,33 @@
     <option name="largest" hit="Largest statement or batch" />
     <option name="or" hit="Largest statement or batch" />
     <option name="statement" hit="Largest statement or batch" />
-    <option name="ddl" hit="Navigate references to DDL editor" />
-    <option name="editor" hit="Navigate references to DDL editor" />
-    <option name="navigate" hit="Navigate references to DDL editor" />
-    <option name="references" hit="Navigate references to DDL editor" />
-    <option name="to" hit="Navigate references to DDL editor" />
+    <option name="navigation" hit="Navigation" />
     <option name="nothing" hit="Nothing" />
-    <option name="number" hit="Number of preview rows:" />
-    <option name="of" hit="Number of preview rows:" />
-    <option name="preview" hit="Number of preview rows:" />
-    <option name="rows" hit="Number of preview rows:" />
     <option name="in" hit="Open results in new tab" />
     <option name="new" hit="Open results in new tab" />
     <option name="open" hit="Open results in new tab" />
     <option name="results" hit="Open results in new tab" />
     <option name="tab" hit="Open results in new tab" />
-    <option name="documentation" hit="Quick Documentation" />
-    <option name="quick" hit="Quick Documentation" />
-    <option name="dialogs" hit="Schema Modification Dialogs" />
-    <option name="modification" hit="Schema Modification Dialogs" />
-    <option name="schema" hit="Schema Modification Dialogs" />
+    <option name="other" hit="Other" />
+    <option name="data" hit="Prefer data editor over DDL editor" />
+    <option name="ddl" hit="Prefer data editor over DDL editor" />
+    <option name="editor" hit="Prefer data editor over DDL editor" />
+    <option name="over" hit="Prefer data editor over DDL editor" />
+    <option name="prefer" hit="Prefer data editor over DDL editor" />
+    <option name="database" hit="Prefer database view over DDL editor" />
+    <option name="ddl" hit="Prefer database view over DDL editor" />
+    <option name="editor" hit="Prefer database view over DDL editor" />
+    <option name="over" hit="Prefer database view over DDL editor" />
+    <option name="prefer" hit="Prefer database view over DDL editor" />
+    <option name="view" hit="Prefer database view over DDL editor" />
     <option name="shortcut" hit="Shortcut:" />
-    <option name="close" hit="Show confirmation on close" />
-    <option name="confirmation" hit="Show confirmation on close" />
-    <option name="on" hit="Show confirmation on close" />
-    <option name="show" hit="Show confirmation on close" />
     <option name="editor" hit="Show error notifications in editor" />
     <option name="error" hit="Show error notifications in editor" />
     <option name="in" hit="Show error notifications in editor" />
     <option name="notifications" hit="Show error notifications in editor" />
     <option name="show" hit="Show error notifications in editor" />
-    <option name="first" hit="Show first rows" />
-    <option name="rows" hit="Show first rows" />
-    <option name="show" hit="Show first rows" />
+    <option name="first" hit="Show first" />
+    <option name="show" hit="Show first" />
     <option name="smallest" hit="Smallest statement" />
     <option name="statement" hit="Smallest statement" />
     <option name="expand" hit="Smart expand to script" />
@@ -31120,6 +31158,10 @@
     <option name="when" hit="When inside a statement execute:" />
     <option name="script" hit="Whole script" />
     <option name="whole" hit="Whole script" />
+    <option name="data" hit="data rows in documentation" />
+    <option name="documentation" hit="data rows in documentation" />
+    <option name="in" hit="data rows in documentation" />
+    <option name="rows" hit="data rows in documentation" />
     <option name="execute" hit="for selection execute:" />
     <option name="for" hit="for selection execute:" />
     <option name="selection" hit="for selection execute:" />
@@ -31178,6 +31220,8 @@
     <option name="csv" hit="CSV Formats" />
     <option name="formats" hit="CSV Formats" />
     <option name="comma" hit="Comma" />
+    <option name="empty" hit="Empty string" />
+    <option name="string" hit="Empty string" />
     <option name="column" hit="First column is header" />
     <option name="first" hit="First column is header" />
     <option name="header" hit="First column is header" />
@@ -31206,10 +31250,13 @@
     <option name="tab" hit="Tab" />
     <option name="trim" hit="Trim whitespaces" />
     <option name="whitespaces" hit="Trim whitespaces" />
+    <option name="undefined" hit="Undefined" />
     <option name="separator" hit="Value separator:" />
     <option name="value" hit="Value separator:" />
     <option name="needed" hit="When needed" />
     <option name="when" hit="When needed" />
+    <option name="" hit="\N" />
+    <option name="n" hit="\N" />
   </configurable>
   <configurable id="sshConsole" configurable_name="SSH Terminal">
     <option name="configure" hit="Configure Servers" />
