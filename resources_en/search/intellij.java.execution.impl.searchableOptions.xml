@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="console" path="ActionManager" hit="JShell Console..." />
+    <option name="jshell" path="ActionManager" hit="JShell Console..." />
+    <option name="console" path="ActionManager" hit="Launch JShell Console" />
+    <option name="jshell" path="ActionManager" hit="Launch JShell Console" />
+    <option name="launch" path="ActionManager" hit="Launch JShell Console" />
+    <option name="recent" path="ActionManager" hit="Recent Tests" />
+    <option name="tests" path="ActionManager" hit="Recent Tests" />
+    <option name="affected" path="ActionManager" hit="Show Affected Tests" />
+    <option name="show" path="ActionManager" hit="Show Affected Tests" />
+    <option name="tests" path="ActionManager" hit="Show Affected Tests" />
+  </configurable>
+</options>
+

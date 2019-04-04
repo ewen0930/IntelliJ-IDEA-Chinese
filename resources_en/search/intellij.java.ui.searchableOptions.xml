@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add Framework Support..." />
+    <option name="framework" path="ActionManager" hit="Add Framework Support..." />
+    <option name="support" path="ActionManager" hit="Add Framework Support..." />
+    <option name="add" path="ActionManager" hit="Add as Library..." />
+    <option name="as" path="ActionManager" hit="Add as Library..." />
+    <option name="library" path="ActionManager" hit="Add as Library..." />
+    <option name="add" path="ActionManager" hit="Add new module to the project" />
+    <option name="module" path="ActionManager" hit="Add new module to the project" />
+    <option name="new" path="ActionManager" hit="Add new module to the project" />
+    <option name="project" path="ActionManager" hit="Add new module to the project" />
+    <option name="the" path="ActionManager" hit="Add new module to the project" />
+    <option name="to" path="ActionManager" hit="Add new module to the project" />
+    <option name="all" path="ActionManager" hit="Configure default structure for all new Projects" />
+    <option name="configure" path="ActionManager" hit="Configure default structure for all new Projects" />
+    <option name="default" path="ActionManager" hit="Configure default structure for all new Projects" />
+    <option name="for" path="ActionManager" hit="Configure default structure for all new Projects" />
+    <option name="new" path="ActionManager" hit="Configure default structure for all new Projects" />
+    <option name="projects" path="ActionManager" hit="Configure default structure for all new Projects" />
+    <option name="structure" path="ActionManager" hit="Configure default structure for all new Projects" />
+    <option name="configure" path="ActionManager" hit="Configure project structure" />
+    <option name="project" path="ActionManager" hit="Configure project structure" />
+    <option name="structure" path="ActionManager" hit="Configure project structure" />
+    <option name="create" path="ActionManager" hit="Create New Project" />
+    <option name="new" path="ActionManager" hit="Create New Project" />
+    <option name="project" path="ActionManager" hit="Create New Project" />
+    <option name="a" path="ActionManager" hit="Create a new project from scratch" />
+    <option name="create" path="ActionManager" hit="Create a new project from scratch" />
+    <option name="from" path="ActionManager" hit="Create a new project from scratch" />
+    <option name="new" path="ActionManager" hit="Create a new project from scratch" />
+    <option name="project" path="ActionManager" hit="Create a new project from scratch" />
+    <option name="scratch" path="ActionManager" hit="Create a new project from scratch" />
+    <option name="convert" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="create" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="directory" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="existing" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="for" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="model" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="or" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="project" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="sources" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="structure" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="with" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model" />
+    <option name="convert" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="create" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="directory" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="existing" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="for" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="model" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="or" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="project" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="sources" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="structure" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="with" path="ActionManager" hit="Create project structure for directory with existing sources or convert existing project model." />
+    <option name="developing" path="ActionManager" hit="Get started developing plugins." />
+    <option name="get" path="ActionManager" hit="Get started developing plugins." />
+    <option name="plugins" path="ActionManager" hit="Get started developing plugins." />
+    <option name="started" path="ActionManager" hit="Get started developing plugins." />
+    <option name="import" path="ActionManager" hit="Import Project" />
+    <option name="project" path="ActionManager" hit="Import Project" />
+    <option name="directory" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="existing" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="from" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="import" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="model" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="module" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="or" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="project" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="sources" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="with" path="ActionManager" hit="Import module from directory with existing sources or from existing project model" />
+    <option name="module" path="ActionManager" hit="Module Settings" />
+    <option name="settings" path="ActionManager" hit="Module Settings" />
+    <option name="existing" path="ActionManager" hit="Module from Existing Sources..." />
+    <option name="from" path="ActionManager" hit="Module from Existing Sources..." />
+    <option name="module" path="ActionManager" hit="Module from Existing Sources..." />
+    <option name="sources" path="ActionManager" hit="Module from Existing Sources..." />
+    <option name="module" path="ActionManager" hit="New Module" />
+    <option name="new" path="ActionManager" hit="New Module" />
+    <option name="dialog" path="ActionManager" hit="Open settings dialog for selected module" />
+    <option name="for" path="ActionManager" hit="Open settings dialog for selected module" />
+    <option name="module" path="ActionManager" hit="Open settings dialog for selected module" />
+    <option name="open" path="ActionManager" hit="Open settings dialog for selected module" />
+    <option name="selected" path="ActionManager" hit="Open settings dialog for selected module" />
+    <option name="settings" path="ActionManager" hit="Open settings dialog for selected module" />
+    <option name="development" path="ActionManager" hit="Plugin Development" />
+    <option name="plugin" path="ActionManager" hit="Plugin Development" />
+    <option name="project" path="ActionManager" hit="Project Structure..." />
+    <option name="structure" path="ActionManager" hit="Project Structure..." />
+    <option name="existing" path="ActionManager" hit="Project from Existing Sources..." />
+    <option name="from" path="ActionManager" hit="Project from Existing Sources..." />
+    <option name="project" path="ActionManager" hit="Project from Existing Sources..." />
+    <option name="sources" path="ActionManager" hit="Project from Existing Sources..." />
+    <option name="control" path="ActionManager" hit="Project from Version Control" />
+    <option name="from" path="ActionManager" hit="Project from Version Control" />
+    <option name="project" path="ActionManager" hit="Project from Version Control" />
+    <option name="version" path="ActionManager" hit="Project from Version Control" />
+    <option name="project" path="ActionManager" hit="Project..." />
+    <option name="a" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="creating" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="for" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="guide" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="necessary" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="new" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="project" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="start" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="steps" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="that" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="the" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="through" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="will" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="wizard" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="you" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
+    <option name="for" path="ActionManager" hit="Structure for New Projects..." />
+    <option name="new" path="ActionManager" hit="Structure for New Projects..." />
+    <option name="projects" path="ActionManager" hit="Structure for New Projects..." />
+    <option name="structure" path="ActionManager" hit="Structure for New Projects..." />
+  </configurable>
+  <configurable id="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" configurable_name="Remote Jar Repositories">
+    <option name="add" hit="Add" />
+    <option name="artifactory" hit="Artifactory, Nexus or Bintray Service URLs:" />
+    <option name="bintray" hit="Artifactory, Nexus or Bintray Service URLs:" />
+    <option name="nexus" hit="Artifactory, Nexus or Bintray Service URLs:" />
+    <option name="or" hit="Artifactory, Nexus or Bintray Service URLs:" />
+    <option name="service" hit="Artifactory, Nexus or Bintray Service URLs:" />
+    <option name="urls" hit="Artifactory, Nexus or Bintray Service URLs:" />
+    <option name="edit" hit="Edit" />
+    <option name="jar" hit="Maven Jar Repositories" />
+    <option name="maven" hit="Maven Jar Repositories" />
+    <option name="repositories" hit="Maven Jar Repositories" />
+    <option name="jar" hit="Remote Jar Repositories" />
+    <option name="remote" hit="Remote Jar Repositories" />
+    <option name="repositories" hit="Remote Jar Repositories" />
+    <option name="remove" hit="Remove" />
+    <option name="defaults" hit="Reset Defaults" />
+    <option name="reset" hit="Reset Defaults" />
+    <option name="test" hit="Test" />
+  </configurable>
+</options>
+

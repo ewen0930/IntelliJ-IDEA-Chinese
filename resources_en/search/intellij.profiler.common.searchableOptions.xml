@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="attach" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="process" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="profiler" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="to" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="an" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="attach" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="available" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="process" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="profiler" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="to" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="with" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="import" path="ActionManager" hit="Import Profiler Results" />
+    <option name="profiler" path="ActionManager" hit="Import Profiler Results" />
+    <option name="results" path="ActionManager" hit="Import Profiler Results" />
+    <option name="configuration" path="ActionManager" hit="Run selected configuration with profiler" />
+    <option name="profiler" path="ActionManager" hit="Run selected configuration with profiler" />
+    <option name="run" path="ActionManager" hit="Run selected configuration with profiler" />
+    <option name="selected" path="ActionManager" hit="Run selected configuration with profiler" />
+    <option name="with" path="ActionManager" hit="Run selected configuration with profiler" />
+    <option name="profiler" path="ActionManager" hit="Run with Profiler" />
+    <option name="run" path="ActionManager" hit="Run with Profiler" />
+    <option name="with" path="ActionManager" hit="Run with Profiler" />
+  </configurable>
+</options>
+

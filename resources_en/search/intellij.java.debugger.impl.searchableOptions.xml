@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add Stepping Filter..." />
+    <option name="filter" path="ActionManager" hit="Add Stepping Filter..." />
+    <option name="stepping" path="ActionManager" hit="Add Stepping Filter..." />
+    <option name="adjust" path="ActionManager" hit="Adjust Range..." />
+    <option name="range" path="ActionManager" hit="Adjust Range..." />
+    <option name="async" path="ActionManager" hit="Async Stack Traces" />
+    <option name="stack" path="ActionManager" hit="Async Stack Traces" />
+    <option name="traces" path="ActionManager" hit="Async Stack Traces" />
+    <option name="auto" path="ActionManager" hit="Auto" />
+    <option name="actions" path="ActionManager" hit="Breakpoint Actions" />
+    <option name="breakpoint" path="ActionManager" hit="Breakpoint Actions" />
+    <option name="calculate" path="ActionManager" hit="Calculate Retained Size" />
+    <option name="retained" path="ActionManager" hit="Calculate Retained Size" />
+    <option name="size" path="ActionManager" hit="Calculate Retained Size" />
+    <option name="create" path="ActionManager" hit="Create..." />
+    <option name="customize" path="ActionManager" hit="Customize Data Views..." />
+    <option name="data" path="ActionManager" hit="Customize Data Views..." />
+    <option name="views" path="ActionManager" hit="Customize Data Views..." />
+    <option name="customize" path="ActionManager" hit="Customize Threads View..." />
+    <option name="threads" path="ActionManager" hit="Customize Threads View..." />
+    <option name="view" path="ActionManager" hit="Customize Threads View..." />
+    <option name="drop" path="ActionManager" hit="Drop Frame" />
+    <option name="frame" path="ActionManager" hit="Drop Frame" />
+    <option name="edit" path="ActionManager" hit="Edit..." />
+    <option name="editframesource" path="ActionManager" hit="EditFrameSource" />
+    <option name="editnodesource" path="ActionManager" hit="EditNodeSource" />
+    <option name="enable" path="ActionManager" hit="Enable Tracking With Hidden Memory View" />
+    <option name="hidden" path="ActionManager" hit="Enable Tracking With Hidden Memory View" />
+    <option name="memory" path="ActionManager" hit="Enable Tracking With Hidden Memory View" />
+    <option name="tracking" path="ActionManager" hit="Enable Tracking With Hidden Memory View" />
+    <option name="view" path="ActionManager" hit="Enable Tracking With Hidden Memory View" />
+    <option name="with" path="ActionManager" hit="Enable Tracking With Hidden Memory View" />
+    <option name="export" path="ActionManager" hit="Export Threads..." />
+    <option name="threads" path="ActionManager" hit="Export Threads..." />
+    <option name="filter" path="ActionManager" hit="Filter..." />
+    <option name="force" path="ActionManager" hit="Force Return" />
+    <option name="return" path="ActionManager" hit="Force Return" />
+    <option name="a" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="before" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="force" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="it" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="method" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="reaches" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="return" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="statement" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="to" path="ActionManager" hit="Force a method to return before it reaches a return statement" />
+    <option name="dump" path="ActionManager" hit="Get thread dump" />
+    <option name="get" path="ActionManager" hit="Get thread dump" />
+    <option name="thread" path="ActionManager" hit="Get thread dump" />
+    <option name="interrupt" path="ActionManager" hit="Interrupt" />
+    <option name="allocation" path="ActionManager" hit="Jump To Allocation Position" />
+    <option name="jump" path="ActionManager" hit="Jump To Allocation Position" />
+    <option name="position" path="ActionManager" hit="Jump To Allocation Position" />
+    <option name="to" path="ActionManager" hit="Jump To Allocation Position" />
+    <option name="jump" path="ActionManager" hit="Jump To Type Source" />
+    <option name="source" path="ActionManager" hit="Jump To Type Source" />
+    <option name="to" path="ActionManager" hit="Jump To Type Source" />
+    <option name="type" path="ActionManager" hit="Jump To Type Source" />
+    <option name="jump" path="ActionManager" hit="Jump to Object Source" />
+    <option name="object" path="ActionManager" hit="Jump to Object Source" />
+    <option name="source" path="ActionManager" hit="Jump to Object Source" />
+    <option name="to" path="ActionManager" hit="Jump to Object Source" />
+    <option name="back" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="call" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="current" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="dropping" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="execution" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="frames" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="from" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="method" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="moves" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="point" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="stack" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="the" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="to" path="ActionManager" hit="Moves execution point back to the method call dropping current method frames from the stack" />
+    <option name="mute" path="ActionManager" hit="Mute Renderers" />
+    <option name="renderers" path="ActionManager" hit="Mute Renderers" />
+    <option name="class" path="ActionManager" hit="New Class Level Watch..." />
+    <option name="level" path="ActionManager" hit="New Class Level Watch..." />
+    <option name="new" path="ActionManager" hit="New Class Level Watch..." />
+    <option name="watch" path="ActionManager" hit="New Class Level Watch..." />
+    <option name="changed" path="ActionManager" hit="Reload Changed Classes" />
+    <option name="classes" path="ActionManager" hit="Reload Changed Classes" />
+    <option name="reload" path="ActionManager" hit="Reload Changed Classes" />
+    <option name="all" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="application" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="being" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="changed" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="classes" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="debugged" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="hotswap" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="into" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="reload" path="ActionManager" hit="Reload all changed classes into application being debugged (HotSwap)" />
+    <option name="filter" path="ActionManager" hit="Remove Filter" />
+    <option name="remove" path="ActionManager" hit="Remove Filter" />
+    <option name="remove" path="ActionManager" hit="Remove Watch" />
+    <option name="watch" path="ActionManager" hit="Remove Watch" />
+    <option name="resume" path="ActionManager" hit="Resume" />
+    <option name="a" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="all" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="file" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="information" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="or" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="save" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="text" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="threads" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="to" path="ActionManager" hit="Save all threads information to a text file or clipboard" />
+    <option name="instances" path="ActionManager" hit="Show Instances" />
+    <option name="show" path="ActionManager" hit="Show Instances" />
+    <option name="instances" path="ActionManager" hit="Show New Instances" />
+    <option name="new" path="ActionManager" hit="Show New Instances" />
+    <option name="show" path="ActionManager" hit="Show New Instances" />
+    <option name="classes" path="ActionManager" hit="Show Tracked Classes Only" />
+    <option name="only" path="ActionManager" hit="Show Tracked Classes Only" />
+    <option name="show" path="ActionManager" hit="Show Tracked Classes Only" />
+    <option name="tracked" path="ActionManager" hit="Show Tracked Classes Only" />
+    <option name="instances" path="ActionManager" hit="Show With Instances Only" />
+    <option name="only" path="ActionManager" hit="Show With Instances Only" />
+    <option name="show" path="ActionManager" hit="Show With Instances Only" />
+    <option name="with" path="ActionManager" hit="Show With Instances Only" />
+    <option name="related" path="ActionManager" hit="Show related stack..." />
+    <option name="show" path="ActionManager" hit="Show related stack..." />
+    <option name="stack" path="ActionManager" hit="Show related stack..." />
+    <option name="show" path="ActionManager" hit="Show types" />
+    <option name="types" path="ActionManager" hit="Show types" />
+    <option name="block" path="ActionManager" hit="Step Out Of Code Block" />
+    <option name="code" path="ActionManager" hit="Step Out Of Code Block" />
+    <option name="of" path="ActionManager" hit="Step Out Of Code Block" />
+    <option name="out" path="ActionManager" hit="Step Out Of Code Block" />
+    <option name="step" path="ActionManager" hit="Step Out Of Code Block" />
+    <option name="suspend" path="ActionManager" hit="Suspend" />
+    <option name="breakpoint" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="next" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="stopped" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="switch" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="the" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="to" path="ActionManager" hit="Switch to the next stopped breakpoint" />
+    <option name="exception" path="ActionManager" hit="Throw Exception" />
+    <option name="throw" path="ActionManager" hit="Throw Exception" />
+    <option name="an" path="ActionManager" hit="Throw an exception" />
+    <option name="exception" path="ActionManager" hit="Throw an exception" />
+    <option name="throw" path="ActionManager" hit="Throw an exception" />
+    <option name="field" path="ActionManager" hit="Toggle Field Watchpoint" />
+    <option name="toggle" path="ActionManager" hit="Toggle Field Watchpoint" />
+    <option name="watchpoint" path="ActionManager" hit="Toggle Field Watchpoint" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle Method Breakpoint" />
+    <option name="method" path="ActionManager" hit="Toggle Method Breakpoint" />
+    <option name="toggle" path="ActionManager" hit="Toggle Method Breakpoint" />
+    <option name="at" path="ActionManager" hit="Toggle field watchpoint for the field at caret" />
+    <option name="caret" path="ActionManager" hit="Toggle field watchpoint for the field at caret" />
+    <option name="field" path="ActionManager" hit="Toggle field watchpoint for the field at caret" />
+    <option name="for" path="ActionManager" hit="Toggle field watchpoint for the field at caret" />
+    <option name="the" path="ActionManager" hit="Toggle field watchpoint for the field at caret" />
+    <option name="toggle" path="ActionManager" hit="Toggle field watchpoint for the field at caret" />
+    <option name="watchpoint" path="ActionManager" hit="Toggle field watchpoint for the field at caret" />
+    <option name="at" path="ActionManager" hit="Toggle method breakpoint for the method at caret" />
+    <option name="breakpoint" path="ActionManager" hit="Toggle method breakpoint for the method at caret" />
+    <option name="caret" path="ActionManager" hit="Toggle method breakpoint for the method at caret" />
+    <option name="for" path="ActionManager" hit="Toggle method breakpoint for the method at caret" />
+    <option name="method" path="ActionManager" hit="Toggle method breakpoint for the method at caret" />
+    <option name="the" path="ActionManager" hit="Toggle method breakpoint for the method at caret" />
+    <option name="toggle" path="ActionManager" hit="Toggle method breakpoint for the method at caret" />
+    <option name="calls" path="ActionManager" hit="Trace Calls" />
+    <option name="trace" path="ActionManager" hit="Trace Calls" />
+    <option name="instances" path="ActionManager" hit="Track New Instances" />
+    <option name="new" path="ActionManager" hit="Track New Instances" />
+    <option name="track" path="ActionManager" hit="Track New Instances" />
+    <option name="text" path="ActionManager" hit="View Text" />
+    <option name="view" path="ActionManager" hit="View Text" />
+    <option name="as" path="ActionManager" hit="View as" />
+    <option name="view" path="ActionManager" hit="View as" />
+    <option name="a" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="in" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="node" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="of" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="pane" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="selected" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="separate" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="text" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="value" path="ActionManager" hit="View text value of selected node in a separate pane" />
+    <option name="view" path="ActionManager" hit="View text value of selected node in a separate pane" />
+  </configurable>
+  <configurable id="project.propDebugger" configurable_name="Debugger">
+    <option name="" hit=" Socket" />
+    <option name="socket" hit=" Socket" />
+    <option name="agent" hit="Attach memory agent" />
+    <option name="attach" hit="Attach memory agent" />
+    <option name="memory" hit="Attach memory agent" />
+    <option name="disable" hit="Disable JIT" />
+    <option name="jit" hit="Disable JIT" />
+    <option name="1" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="3" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="and" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="class" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="earlier" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="for" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="force" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="ic" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="jdk" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="vm" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="x" hit="Force Class ic VM for JDK 1.3.x and earlier" />
+    <option name="java" hit="Java" />
+    <option name="debug" hit="Kill the debug process immediately" />
+    <option name="immediately" hit="Kill the debug process immediately" />
+    <option name="kill" hit="Kill the debug process immediately" />
+    <option name="process" hit="Kill the debug process immediately" />
+    <option name="the" hit="Kill the debug process immediately" />
+    <option name="memory" hit="Shared  memory" />
+    <option name="shared" hit="Shared  memory" />
+    <option name="alternative" hit="Show alternative source switcher" />
+    <option name="show" hit="Show alternative source switcher" />
+    <option name="source" hit="Show alternative source switcher" />
+    <option name="switcher" hit="Show alternative source switcher" />
+    <option name="transport" hit="Transport:" />
+  </configurable>
+  <configurable id="Debugger_Data_Views_Java" configurable_name="Java">
+    <option name="" hit=" Static fields" />
+    <option name="fields" hit=" Static fields" />
+    <option name="static" hit=" Static fields" />
+    <option name="" hit="$val fields as local  variables" />
+    <option name="as" hit="$val fields as local  variables" />
+    <option name="fields" hit="$val fields as local  variables" />
+    <option name="local" hit="$val fields as local  variables" />
+    <option name="val" hit="$val fields as local  variables" />
+    <option name="variables" hit="$val fields as local  variables" />
+    <option name="auto" hit="Auto populate Throwable object's stack trace" />
+    <option name="object" hit="Auto populate Throwable object's stack trace" />
+    <option name="populate" hit="Auto populate Throwable object's stack trace" />
+    <option name="s" hit="Auto populate Throwable object's stack trace" />
+    <option name="stack" hit="Auto populate Throwable object's stack trace" />
+    <option name="throwable" hit="Auto populate Throwable object's stack trace" />
+    <option name="trace" hit="Auto populate Throwable object's stack trace" />
+    <option name="autoscroll" hit="Autoscroll to new  local variables" />
+    <option name="local" hit="Autoscroll to new  local variables" />
+    <option name="new" hit="Autoscroll to new  local variables" />
+    <option name="to" hit="Autoscroll to new  local variables" />
+    <option name="variables" hit="Autoscroll to new  local variables" />
+    <option name="declared" hit="Declared  type" />
+    <option name="type" hit="Declared  type" />
+    <option name="enable" hit="Enable 't oString()' object view:" />
+    <option name="object" hit="Enable 't oString()' object view:" />
+    <option name="ostring" hit="Enable 't oString()' object view:" />
+    <option name="t" hit="Enable 't oString()' object view:" />
+    <option name="view" hit="Enable 't oString()' object view:" />
+    <option name="alternative" hit="Enable alternative view for Coll ections classes" />
+    <option name="classes" hit="Enable alternative view for Coll ections classes" />
+    <option name="coll" hit="Enable alternative view for Coll ections classes" />
+    <option name="ections" hit="Enable alternative view for Coll ections classes" />
+    <option name="enable" hit="Enable alternative view for Coll ections classes" />
+    <option name="for" hit="Enable alternative view for Coll ections classes" />
+    <option name="view" hit="Enable alternative view for Coll ections classes" />
+    <option name="all" hit="For all classes that override 'toString()' method" />
+    <option name="classes" hit="For all classes that override 'toString()' method" />
+    <option name="for" hit="For all classes that override 'toString()' method" />
+    <option name="method" hit="For all classes that override 'toString()' method" />
+    <option name="override" hit="For all classes that override 'toString()' method" />
+    <option name="that" hit="For all classes that override 'toString()' method" />
+    <option name="tostring" hit="For all classes that override 'toString()' method" />
+    <option name="classes" hit="For classes from the list:" />
+    <option name="for" hit="For classes from the list:" />
+    <option name="from" hit="For classes from the list:" />
+    <option name="list" hit="For classes from the list:" />
+    <option name="the" hit="For classes from the list:" />
+    <option name="fully" hit="Fully  qualified names" />
+    <option name="names" hit="Fully  qualified names" />
+    <option name="qualified" hit="Fully  qualified names" />
+    <option name="and" hit="Hide  null elements in arrays and collections" />
+    <option name="arrays" hit="Hide  null elements in arrays and collections" />
+    <option name="collections" hit="Hide  null elements in arrays and collections" />
+    <option name="elements" hit="Hide  null elements in arrays and collections" />
+    <option name="hide" hit="Hide  null elements in arrays and collections" />
+    <option name="in" hit="Hide  null elements in arrays and collections" />
+    <option name="null" hit="Hide  null elements in arrays and collections" />
+    <option name="java" hit="Java" />
+    <option name="id" hit="Object  id" />
+    <option name="object" hit="Object  id" />
+    <option name="fields" hit="S ynthetic fields" />
+    <option name="s" hit="S ynthetic fields" />
+    <option name="ynthetic" hit="S ynthetic fields" />
+    <option name="show" hit="Show" />
+    <option name="for" hit="Show hex value for primitives" />
+    <option name="hex" hit="Show hex value for primitives" />
+    <option name="primitives" hit="Show hex value for primitives" />
+    <option name="show" hit="Show hex value for primitives" />
+    <option name="value" hit="Show hex value for primitives" />
+    <option name="for" hit="Show type for strings" />
+    <option name="show" hit="Show type for strings" />
+    <option name="strings" hit="Show type for strings" />
+    <option name="type" hit="Show type for strings" />
+    <option name="fields" hit="Static  final fields" />
+    <option name="final" hit="Static  final fields" />
+    <option name="static" hit="Static  final fields" />
+  </configurable>
+  <configurable id="reference.idesettings.debugger.typerenderers" configurable_name="Java Type Renderers">
+    <option name="append" hit="Append default children" />
+    <option name="children" hit="Append default children" />
+    <option name="default" hit="Append default children" />
+    <option name="apply" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="fully-qualified" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="name" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="objects" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="of" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="renderer" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="to" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="type" hit="Apply renderer to objects of type (fully-qualified name):" />
+    <option name="java" hit="Java" />
+    <option name="java" hit="Java Type Renderers" />
+    <option name="renderers" hit="Java Type Renderers" />
+    <option name="type" hit="Java Type Renderers" />
+    <option name="on-demand" hit="On-demand" />
+    <option name="name" hit="Renderer name:" />
+    <option name="renderer" hit="Renderer name:" />
+    <option name="and" hit="Show type and object id" />
+    <option name="id" hit="Show type and object id" />
+    <option name="object" hit="Show type and object id" />
+    <option name="show" hit="Show type and object id" />
+    <option name="type" hit="Show type and object id" />
+    <option name="a" hit="Test if a node can be expanded (optional):" />
+    <option name="be" hit="Test if a node can be expanded (optional):" />
+    <option name="can" hit="Test if a node can be expanded (optional):" />
+    <option name="expanded" hit="Test if a node can be expanded (optional):" />
+    <option name="if" hit="Test if a node can be expanded (optional):" />
+    <option name="node" hit="Test if a node can be expanded (optional):" />
+    <option name="optional" hit="Test if a node can be expanded (optional):" />
+    <option name="test" hit="Test if a node can be expanded (optional):" />
+    <option name="default" hit="Use default renderer" />
+    <option name="renderer" hit="Use default renderer" />
+    <option name="use" hit="Use default renderer" />
+    <option name="expression" hit="Use following expression:" />
+    <option name="following" hit="Use following expression:" />
+    <option name="use" hit="Use following expression:" />
+    <option name="expressions" hit="Use list of expressions:" />
+    <option name="list" hit="Use list of expressions:" />
+    <option name="of" hit="Use list of expressions:" />
+    <option name="use" hit="Use list of expressions:" />
+    <option name="a" hit="When expanding a node" />
+    <option name="expanding" hit="When expanding a node" />
+    <option name="node" hit="When expanding a node" />
+    <option name="when" hit="When expanding a node" />
+    <option name="a" hit="When rendering a node" />
+    <option name="node" hit="When rendering a node" />
+    <option name="rendering" hit="When rendering a node" />
+    <option name="when" hit="When rendering a node" />
+  </configurable>
+  <configurable id="debugger.stepping" configurable_name="Stepping">
+    <option name="" hit=" Always" />
+    <option name="always" hit=" Always" />
+    <option name="as" hit="As k" />
+    <option name="k" hit="As k" />
+    <option name="classes" hit="Do not step  into the classes" />
+    <option name="do" hit="Do not step  into the classes" />
+    <option name="into" hit="Do not step  into the classes" />
+    <option name="not" hit="Do not step  into the classes" />
+    <option name="step" hit="Do not step  into the classes" />
+    <option name="the" hit="Do not step  into the classes" />
+    <option name="and" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="blocks" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="early" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="evaluate" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="finally" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="frame" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="on" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="pop" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="return" hit="Evaluate finally blocks on pop frame and early return:" />
+    <option name="java" hit="Java" />
+    <option name="ever" hit="N ever" />
+    <option name="n" hit="N ever" />
+    <option name="current" hit="Resume only the current thread" />
+    <option name="only" hit="Resume only the current thread" />
+    <option name="resume" hit="Resume only the current thread" />
+    <option name="the" hit="Resume only the current thread" />
+    <option name="thread" hit="Resume only the current thread" />
+    <option name="methods" hit="Ski p synthetic methods" />
+    <option name="p" hit="Ski p synthetic methods" />
+    <option name="ski" hit="Ski p synthetic methods" />
+    <option name="synthetic" hit="Ski p synthetic methods" />
+    <option name="constructors" hit="Skip  constructors" />
+    <option name="skip" hit="Skip  constructors" />
+    <option name="class" hit="Skip class l oaders" />
+    <option name="l" hit="Skip class l oaders" />
+    <option name="oaders" hit="Skip class l oaders" />
+    <option name="skip" hit="Skip class l oaders" />
+    <option name="getters" hit="Skip simple  getters" />
+    <option name="simple" hit="Skip simple  getters" />
+    <option name="skip" hit="Skip simple  getters" />
+  </configurable>
+  <configurable id="debugger.hotswap" configurable_name="HotSwap">
+    <option name="" hit=" Always" />
+    <option name="always" hit=" Always" />
+    <option name="" hit=" Never" />
+    <option name="never" hit=" Never" />
+    <option name="as" hit="As k" />
+    <option name="k" hit="As k" />
+    <option name="before" hit="Build project before reloading classes" />
+    <option name="build" hit="Build project before reloading classes" />
+    <option name="classes" hit="Build project before reloading classes" />
+    <option name="project" hit="Build project before reloading classes" />
+    <option name="reloading" hit="Build project before reloading classes" />
+    <option name="enable" hit="Enable 'JVM will hang' warning" />
+    <option name="hang" hit="Enable 'JVM will hang' warning" />
+    <option name="jvm" hit="Enable 'JVM will hang' warning" />
+    <option name="warning" hit="Enable 'JVM will hang' warning" />
+    <option name="will" hit="Enable 'JVM will hang' warning" />
+    <option name="java" hit="Java" />
+    <option name="after" hit="Reload classes after compilation:" />
+    <option name="classes" hit="Reload classes after compilation:" />
+    <option name="compilation" hit="Reload classes after compilation:" />
+    <option name="reload" hit="Reload classes after compilation:" />
+    <option name="background" hit="Reload classes in  background" />
+    <option name="classes" hit="Reload classes in  background" />
+    <option name="in" hit="Reload classes in  background" />
+    <option name="reload" hit="Reload classes in  background" />
+  </configurable>
+  <configurable id="reference.idesettings.debugger.capture" configurable_name="Async Stack Traces">
+    <option name="async" hit="Async Stack Traces" />
+    <option name="stack" hit="Async Stack Traces" />
+    <option name="traces" hit="Async Stack Traces" />
+    <option name="based" hit="Breakpoints based" />
+    <option name="breakpoints" hit="Breakpoints based" />
+    <option name="capture" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="down" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="execution" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="greatly" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="local" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="may" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="slow" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="the" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="variables" hit="Capture local variables (may greatly slow down the execution)" />
+    <option name="annotations" hit="Configure annotations..." />
+    <option name="configure" hit="Configure annotations..." />
+    <option name="agent" hit="Instrumenting agent (requires debugger restart)" />
+    <option name="debugger" hit="Instrumenting agent (requires debugger restart)" />
+    <option name="instrumenting" hit="Instrumenting agent (requires debugger restart)" />
+    <option name="requires" hit="Instrumenting agent (requires debugger restart)" />
+    <option name="restart" hit="Instrumenting agent (requires debugger restart)" />
+  </configurable>
+</options>
+
