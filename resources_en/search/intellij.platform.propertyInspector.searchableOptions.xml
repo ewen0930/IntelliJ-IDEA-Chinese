@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="add" path="ActionManager" hit="Add Property" />
+    <option name="property" path="ActionManager" hit="Add Property" />
+    <option name="edit" path="ActionManager" hit="Edit property value" />
+    <option name="property" path="ActionManager" hit="Edit property value" />
+    <option name="value" path="ActionManager" hit="Edit property value" />
+    <option name="inspectoractions" path="ActionManager" hit="InspectorActions" />
+    <option name="property" path="ActionManager" hit="Remove Property" />
+    <option name="remove" path="ActionManager" hit="Remove Property" />
+  </configurable>
+</options>
+

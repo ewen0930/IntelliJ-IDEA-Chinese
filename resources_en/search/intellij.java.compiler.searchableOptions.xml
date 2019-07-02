@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="reference.projectsettings.compiler.excludes" configurable_name="Excludes">
+    <option name="excludes" hit="Excludes" />
+  </configurable>
+</options>
+

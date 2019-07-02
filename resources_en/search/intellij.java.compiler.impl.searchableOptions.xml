@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="build" path="ActionManager" hit="Build" />
+    <option name="artifacts" path="ActionManager" hit="Build Artifacts..." />
+    <option name="build" path="ActionManager" hit="Build Artifacts..." />
+    <option name="build" path="ActionManager" hit="Build Module" />
+    <option name="module" path="ActionManager" hit="Build Module" />
+    <option name="build" path="ActionManager" hit="Build Project" />
+    <option name="project" path="ActionManager" hit="Build Project" />
+    <option name="all" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="and" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="compile" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="dependent" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="files" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="in" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="modified" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="module" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="the" path="ActionManager" hit="Compile all modified and dependent files in the module" />
+    <option name="all" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="and" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="compile" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="dependent" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="files" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="in" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="modified" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="project" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="the" path="ActionManager" hit="Compile all modified and dependent files in the project" />
+    <option name="actions" path="ActionManager" hit="Compile/Debug Actions" />
+    <option name="compile" path="ActionManager" hit="Compile/Debug Actions" />
+    <option name="debug" path="ActionManager" hit="Compile/Debug Actions" />
+    <option name="actions" path="ActionManager" hit="Compile/Run Actions" />
+    <option name="compile" path="ActionManager" hit="Compile/Run Actions" />
+    <option name="run" path="ActionManager" hit="Compile/Run Actions" />
+    <option name="build" path="ActionManager" hit="Debug Build Process" />
+    <option name="debug" path="ActionManager" hit="Debug Build Process" />
+    <option name="process" path="ActionManager" hit="Debug Build Process" />
+    <option name="exclude" path="ActionManager" hit="Exclude from Validation" />
+    <option name="from" path="ActionManager" hit="Exclude from Validation" />
+    <option name="validation" path="ActionManager" hit="Exclude from Validation" />
+    <option name="file" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="for" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="force" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="module" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="or" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="package" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="recompilation" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="selected" path="ActionManager" hit="Force recompilation for selected module, file or package" />
+    <option name="ant" path="ActionManager" hit="Generate Ant Build File from the Project" />
+    <option name="build" path="ActionManager" hit="Generate Ant Build File from the Project" />
+    <option name="file" path="ActionManager" hit="Generate Ant Build File from the Project" />
+    <option name="from" path="ActionManager" hit="Generate Ant Build File from the Project" />
+    <option name="generate" path="ActionManager" hit="Generate Ant Build File from the Project" />
+    <option name="project" path="ActionManager" hit="Generate Ant Build File from the Project" />
+    <option name="the" path="ActionManager" hit="Generate Ant Build File from the Project" />
+    <option name="ant" path="ActionManager" hit="Generate Ant Build..." />
+    <option name="build" path="ActionManager" hit="Generate Ant Build..." />
+    <option name="generate" path="ActionManager" hit="Generate Ant Build..." />
+    <option name="build" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="connections" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="debug" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="enabled" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="for" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="if" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="process" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="started" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="wait" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="when" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="will" path="ActionManager" hit="If enabled build process will wait for debug connections when started" />
+    <option name="file" path="ActionManager" hit="Package file" />
+    <option name="package" path="ActionManager" hit="Package file" />
+    <option name="rebuild" path="ActionManager" hit="Rebuild" />
+    <option name="project" path="ActionManager" hit="Rebuild Project" />
+    <option name="rebuild" path="ActionManager" hit="Rebuild Project" />
+    <option name="all" path="ActionManager" hit="Recompile all files in the project" />
+    <option name="files" path="ActionManager" hit="Recompile all files in the project" />
+    <option name="in" path="ActionManager" hit="Recompile all files in the project" />
+    <option name="project" path="ActionManager" hit="Recompile all files in the project" />
+    <option name="recompile" path="ActionManager" hit="Recompile all files in the project" />
+    <option name="the" path="ActionManager" hit="Recompile all files in the project" />
+    <option name="and" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="artifacts" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="build" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="configured" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="in" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="project" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="select" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="the" path="ActionManager" hit="Select and build artifacts configured in the project" />
+    <option name="actions" path="ActionManager" hit="Toolbar Make Actions" />
+    <option name="make" path="ActionManager" hit="Toolbar Make Actions" />
+    <option name="toolbar" path="ActionManager" hit="Toolbar Make Actions" />
+    <option name="artifacts" path="ActionManager" hit="Update the file in the corresponding artifacts" />
+    <option name="corresponding" path="ActionManager" hit="Update the file in the corresponding artifacts" />
+    <option name="file" path="ActionManager" hit="Update the file in the corresponding artifacts" />
+    <option name="in" path="ActionManager" hit="Update the file in the corresponding artifacts" />
+    <option name="the" path="ActionManager" hit="Update the file in the corresponding artifacts" />
+    <option name="update" path="ActionManager" hit="Update the file in the corresponding artifacts" />
+  </configurable>
+  <configurable id="project.propCompiler" configurable_name="Compiler">
+    <option name="" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="a" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="accepted" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="and" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="any" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="dir_name" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="directories" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="exactly" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="gt" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="lt" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="mdash" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="more" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="name" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="negate" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="number" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="of" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="one" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="or" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="path" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="pattern" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="patterns" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="restrict" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="roots" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="separate" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="separator" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="source" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="specified" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="symbol" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="symbols" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="the" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="to" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="use" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="wildcards" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="with" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="zero" hit=" Use  ;  to separate patterns and  !  to negate a pattern. Accepted wildcards:  ?  &amp;mdash; exactly one symbol;  *  &amp;mdash; zero or more symbols;  /  &amp;mdash; path separator;  /**/  &amp;mdash; any number of directories;  &amp;lt;dir_name&amp;gt; : &amp;lt;pattern&amp;gt;  &amp;mdash; restrict to source roots with the specified name " />
+    <option name="" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="are" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="be" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="clear" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="cleared" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="contents" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="directories" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="directory" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="enabled" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="entire" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="generated" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="if" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="is" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="of" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="on" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="option" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="output" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="rebuild" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="sources" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="stored" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="the" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="warning" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="where" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="will" hit=" WARNING! If option 'Clear output directory on rebuild' is enabled, the entire contents of directories where generated sources are stored WILL BE CLEARED on rebuild. " />
+    <option name="" hit="(may require larger heap size)" />
+    <option name="heap" hit="(may require larger heap size)" />
+    <option name="larger" hit="(may require larger heap size)" />
+    <option name="may" hit="(may require larger heap size)" />
+    <option name="require" hit="(may require larger heap size)" />
+    <option name="size" hit="(may require larger heap size)" />
+    <option name="" hit="(only works while not running / debugging)" />
+    <option name="debugging" hit="(only works while not running / debugging)" />
+    <option name="not" hit="(only works while not running / debugging)" />
+    <option name="only" hit="(only works while not running / debugging)" />
+    <option name="running" hit="(only works while not running / debugging)" />
+    <option name="while" hit="(only works while not running / debugging)" />
+    <option name="works" hit="(only works while not running / debugging)" />
+    <option name="add" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="and" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="assertions" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="for" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="methods" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="notnull-annotated" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="parameters" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="runtime" hit="Add runtime assertions for notnull-annotated methods and parameters" />
+    <option name="automatically" hit="Automatically show first error in editor" />
+    <option name="editor" hit="Automatically show first error in editor" />
+    <option name="error" hit="Automatically show first error in editor" />
+    <option name="first" hit="Automatically show first error in editor" />
+    <option name="in" hit="Automatically show first error in editor" />
+    <option name="show" hit="Automatically show first error in editor" />
+    <option name="build" hit="Build process heap size (Mbytes):" />
+    <option name="heap" hit="Build process heap size (Mbytes):" />
+    <option name="mbytes" hit="Build process heap size (Mbytes):" />
+    <option name="process" hit="Build process heap size (Mbytes):" />
+    <option name="size" hit="Build process heap size (Mbytes):" />
+    <option name="automatically" hit="Build project automatically" />
+    <option name="build" hit="Build project automatically" />
+    <option name="project" hit="Build project automatically" />
+    <option name="clear" hit="Clear output directory on rebuild" />
+    <option name="directory" hit="Clear output directory on rebuild" />
+    <option name="on" hit="Clear output directory on rebuild" />
+    <option name="output" hit="Clear output directory on rebuild" />
+    <option name="rebuild" hit="Clear output directory on rebuild" />
+    <option name="compile" hit="Compile independent modules in parallel" />
+    <option name="in" hit="Compile independent modules in parallel" />
+    <option name="independent" hit="Compile independent modules in parallel" />
+    <option name="modules" hit="Compile independent modules in parallel" />
+    <option name="parallel" hit="Compile independent modules in parallel" />
+    <option name="compiler" hit="Compiler" />
+    <option name="annotations" hit="Configure annotations..." />
+    <option name="configure" hit="Configure annotations..." />
+    <option name="build" hit="Display notification on build completion" />
+    <option name="completion" hit="Display notification on build completion" />
+    <option name="display" hit="Display notification on build completion" />
+    <option name="notification" hit="Display notification on build completion" />
+    <option name="on" hit="Display notification on build completion" />
+    <option name="change" hit="Rebuild module on dependency change" />
+    <option name="dependency" hit="Rebuild module on dependency change" />
+    <option name="module" hit="Rebuild module on dependency change" />
+    <option name="on" hit="Rebuild module on dependency change" />
+    <option name="rebuild" hit="Rebuild module on dependency change" />
+    <option name="patterns" hit="Resource patterns:" />
+    <option name="resource" hit="Resource patterns:" />
+    <option name="build" hit="Shared build process VM options:" />
+    <option name="options" hit="Shared build process VM options:" />
+    <option name="process" hit="Shared build process VM options:" />
+    <option name="shared" hit="Shared build process VM options:" />
+    <option name="vm" hit="Shared build process VM options:" />
+    <option name="build" hit="User-local build process VM options (overrides Shared options):" />
+    <option name="options" hit="User-local build process VM options (overrides Shared options):" />
+    <option name="overrides" hit="User-local build process VM options (overrides Shared options):" />
+    <option name="process" hit="User-local build process VM options (overrides Shared options):" />
+    <option name="shared" hit="User-local build process VM options (overrides Shared options):" />
+    <option name="user-local" hit="User-local build process VM options (overrides Shared options):" />
+    <option name="vm" hit="User-local build process VM options (overrides Shared options):" />
+  </configurable>
+  <configurable id="reference.projectsettings.compiler.javacompiler" configurable_name="Java Compiler">
+    <option name="1" hit="1.1" />
+    <option name="1" hit="1.2" />
+    <option name="2" hit="1.2" />
+    <option name="1" hit="1.3" />
+    <option name="3" hit="1.3" />
+    <option name="1" hit="1.4" />
+    <option name="4" hit="1.4" />
+    <option name="10" hit="10" />
+    <option name="11" hit="11" />
+    <option name="12" hit="12" />
+    <option name="5" hit="5" />
+    <option name="6" hit="6" />
+    <option name="7" hit="7" />
+    <option name="8" hit="8" />
+    <option name="9" hit="9" />
+    <option name="ajc" hit="Ajc" />
+    <option name="eclipse" hit="Eclipse" />
+    <option name="groovy-eclipse" hit="Groovy-Eclipse" />
+    <option name="compiler" hit="Java Compiler" />
+    <option name="java" hit="Java Compiler" />
+    <option name="javac" hit="Javac" />
+    <option name="error-prone" hit="Javac with error-prone" />
+    <option name="javac" hit="Javac with error-prone" />
+    <option name="with" hit="Javac with error-prone" />
+    <option name="bytecode" hit="Per-module bytecode version:" />
+    <option name="per-module" hit="Per-module bytecode version:" />
+    <option name="version" hit="Per-module bytecode version:" />
+    <option name="bytecode" hit="Project bytecode version: " />
+    <option name="project" hit="Project bytecode version: " />
+    <option name="version" hit="Project bytecode version: " />
+    <option name="--release" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="9" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="and" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="cross-compilation" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="for" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="java" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="later" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="option" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="use" hit="Use '--release' option for cross-compilation (Java 9 and later)" />
+    <option name="compiler" hit="Use compiler:" />
+    <option name="use" hit="Use compiler:" />
+  </configurable>
+  <configurable id="reference.projectsettings.compiler.javacompiler" configurable_name="Java Compiler">
+    <option name="" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="configurations" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="cross-platform" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="for" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="in" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="paths" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="recommended" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="additional" hit="Additional command line parameters:" />
+    <option name="command" hit="Additional command line parameters:" />
+    <option name="line" hit="Additional command line parameters:" />
+    <option name="parameters" hit="Additional command line parameters:" />
+    <option name="debugging" hit="Generate debugging info" />
+    <option name="generate" hit="Generate debugging info" />
+    <option name="info" hit="Generate debugging info" />
+    <option name="generate" hit="Generate no warnings" />
+    <option name="no" hit="Generate no warnings" />
+    <option name="warnings" hit="Generate no warnings" />
+    <option name="javac" hit="Javac Options" />
+    <option name="options" hit="Javac Options" />
+    <option name="compiler" hit="Override compiler parameters per-module:" />
+    <option name="override" hit="Override compiler parameters per-module:" />
+    <option name="parameters" hit="Override compiler parameters per-module:" />
+    <option name="per-module" hit="Override compiler parameters per-module:" />
+    <option name="deprecated" hit="Report use of deprecated features" />
+    <option name="features" hit="Report use of deprecated features" />
+    <option name="of" hit="Report use of deprecated features" />
+    <option name="report" hit="Report use of deprecated features" />
+    <option name="use" hit="Report use of deprecated features" />
+    <option name="compiler" hit="Use compiler from module target JDK when possible" />
+    <option name="from" hit="Use compiler from module target JDK when possible" />
+    <option name="jdk" hit="Use compiler from module target JDK when possible" />
+    <option name="module" hit="Use compiler from module target JDK when possible" />
+    <option name="possible" hit="Use compiler from module target JDK when possible" />
+    <option name="target" hit="Use compiler from module target JDK when possible" />
+    <option name="use" hit="Use compiler from module target JDK when possible" />
+    <option name="when" hit="Use compiler from module target JDK when possible" />
+  </configurable>
+  <configurable id="reference.projectsettings.compiler.javacompiler" configurable_name="Java Compiler">
+    <option name="" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="configurations" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="cross-platform" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="for" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="in" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="paths" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="recommended" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="additional" hit="Additional command line parameters:" />
+    <option name="command" hit="Additional command line parameters:" />
+    <option name="line" hit="Additional command line parameters:" />
+    <option name="parameters" hit="Additional command line parameters:" />
+    <option name="eclipse" hit="Eclipse Options" />
+    <option name="options" hit="Eclipse Options" />
+    <option name="debugging" hit="Generate debugging info" />
+    <option name="generate" hit="Generate debugging info" />
+    <option name="info" hit="Generate debugging info" />
+    <option name="generate" hit="Generate no warnings" />
+    <option name="no" hit="Generate no warnings" />
+    <option name="warnings" hit="Generate no warnings" />
+    <option name="compiler" hit="Override compiler parameters per-module:" />
+    <option name="override" hit="Override compiler parameters per-module:" />
+    <option name="parameters" hit="Override compiler parameters per-module:" />
+    <option name="per-module" hit="Override compiler parameters per-module:" />
+    <option name="batch" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="bundled" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="compiler" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="ecj" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="empty" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="leave" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="path" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="to" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="tool" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="use" hit="Path to ECJ batch compiler tool (leave empty to use bundled):" />
+    <option name="errors" hit="Proceed on errors" />
+    <option name="on" hit="Proceed on errors" />
+    <option name="proceed" hit="Proceed on errors" />
+    <option name="deprecated" hit="Report use of deprecated features" />
+    <option name="features" hit="Report use of deprecated features" />
+    <option name="of" hit="Report use of deprecated features" />
+    <option name="report" hit="Report use of deprecated features" />
+    <option name="use" hit="Report use of deprecated features" />
+  </configurable>
+  <configurable id="reference.projectsettings.compiler.javacompiler" configurable_name="Java Compiler">
+    <option name="" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="configurations" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="cross-platform" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="for" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="in" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="paths" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="recommended" hit="('/' recommended in paths for cross-platform configurations)" />
+    <option name="additional" hit="Additional command line parameters:" />
+    <option name="command" hit="Additional command line parameters:" />
+    <option name="line" hit="Additional command line parameters:" />
+    <option name="parameters" hit="Additional command line parameters:" />
+    <option name="debugging" hit="Generate debugging info" />
+    <option name="generate" hit="Generate debugging info" />
+    <option name="info" hit="Generate debugging info" />
+    <option name="generate" hit="Generate no warnings" />
+    <option name="no" hit="Generate no warnings" />
+    <option name="warnings" hit="Generate no warnings" />
+    <option name="javac" hit="Javac Options" />
+    <option name="options" hit="Javac Options" />
+    <option name="compiler" hit="Override compiler parameters per-module:" />
+    <option name="override" hit="Override compiler parameters per-module:" />
+    <option name="parameters" hit="Override compiler parameters per-module:" />
+    <option name="per-module" hit="Override compiler parameters per-module:" />
+    <option name="deprecated" hit="Report use of deprecated features" />
+    <option name="features" hit="Report use of deprecated features" />
+    <option name="of" hit="Report use of deprecated features" />
+    <option name="report" hit="Report use of deprecated features" />
+    <option name="use" hit="Report use of deprecated features" />
+    <option name="compiler" hit="Use compiler from module target JDK when possible" />
+    <option name="from" hit="Use compiler from module target JDK when possible" />
+    <option name="jdk" hit="Use compiler from module target JDK when possible" />
+    <option name="module" hit="Use compiler from module target JDK when possible" />
+    <option name="possible" hit="Use compiler from module target JDK when possible" />
+    <option name="target" hit="Use compiler from module target JDK when possible" />
+    <option name="use" hit="Use compiler from module target JDK when possible" />
+    <option name="when" hit="Use compiler from module target JDK when possible" />
+  </configurable>
+  <configurable id="reference.projectsettings.compiler.annotationProcessors" configurable_name="Annotation Processors">
+    <option name="annotation" hit="Annotation Processor options" />
+    <option name="options" hit="Annotation Processor options" />
+    <option name="processor" hit="Annotation Processor options" />
+    <option name="annotation" hit="Annotation Processors" />
+    <option name="processors" hit="Annotation Processors" />
+    <option name="annotation" hit="Enable annotation processing" />
+    <option name="enable" hit="Enable annotation processing" />
+    <option name="processing" hit="Enable annotation processing" />
+    <option name="content" hit="Module content root" />
+    <option name="module" hit="Module content root" />
+    <option name="root" hit="Module content root" />
+    <option name="directory" hit="Module output directory" />
+    <option name="module" hit="Module output directory" />
+    <option name="output" hit="Module output directory" />
+    <option name="classpath" hit="Obtain processors from project classpath" />
+    <option name="from" hit="Obtain processors from project classpath" />
+    <option name="obtain" hit="Obtain processors from project classpath" />
+    <option name="processors" hit="Obtain processors from project classpath" />
+    <option name="project" hit="Obtain processors from project classpath" />
+    <option name="path" hit="Processor path:" />
+    <option name="processor" hit="Processor path:" />
+    <option name="directory" hit="Production sources directory:" />
+    <option name="production" hit="Production sources directory:" />
+    <option name="sources" hit="Production sources directory:" />
+    <option name="generated" hit="Store generated sources relative to: " />
+    <option name="relative" hit="Store generated sources relative to: " />
+    <option name="sources" hit="Store generated sources relative to: " />
+    <option name="store" hit="Store generated sources relative to: " />
+    <option name="to" hit="Store generated sources relative to: " />
+    <option name="directory" hit="Test sources directory:" />
+    <option name="sources" hit="Test sources directory:" />
+    <option name="test" hit="Test sources directory:" />
+  </configurable>
+  <configurable id="project.validation" configurable_name="Validation">
+    <option name="exclude" hit="Exclude From Validation" />
+    <option name="from" hit="Exclude From Validation" />
+    <option name="validation" hit="Exclude From Validation" />
+    <option name="build" hit="Validate on build" />
+    <option name="on" hit="Validate on build" />
+    <option name="validate" hit="Validate on build" />
+    <option name="validation" hit="Validation" />
+    <option name="validators" hit="Validators" />
+  </configurable>
+  <configurable id="reference.projectsettings.compiler.rmicompiler" configurable_name="RMI Compiler">
+    <option name="additional" hit="Additional command line parameters:" />
+    <option name="command" hit="Additional command line parameters:" />
+    <option name="line" hit="Additional command line parameters:" />
+    <option name="parameters" hit="Additional command line parameters:" />
+    <option name="enable" hit="Enable RMI stubs generation" />
+    <option name="generation" hit="Enable RMI stubs generation" />
+    <option name="rmi" hit="Enable RMI stubs generation" />
+    <option name="stubs" hit="Enable RMI stubs generation" />
+    <option name="generate" hit="Generate IIOP stubs" />
+    <option name="iiop" hit="Generate IIOP stubs" />
+    <option name="stubs" hit="Generate IIOP stubs" />
+    <option name="debugging" hit="Generate debugging info" />
+    <option name="generate" hit="Generate debugging info" />
+    <option name="info" hit="Generate debugging info" />
+    <option name="generate" hit="Generate no warnings" />
+    <option name="no" hit="Generate no warnings" />
+    <option name="warnings" hit="Generate no warnings" />
+    <option name="compiler" hit="RMI Compiler" />
+    <option name="rmi" hit="RMI Compiler" />
+  </configurable>
+</options>
+
